@@ -1,0 +1,861 @@
+movie_title,imdb_score,title_year,duration,content_rating,budget,genres,plot_keywords,gross,director_name,actor_1_name,actor_2_name,actor_3_name,language,country
+Avatar,7.9,2009,178,PG-13,237000000,Action|Adventure|Fantasy|Sci-Fi,avatar|future|marine|native|paraplegic,760505847,James Cameron,CCH Pounder,Joel David Moore,Wes Studi,English,USA
+The Dark Knight Rises,8.5,2012,164,PG-13,250000000,Action|Thriller,deception|imprisonment|lawlessness|police officer|terrorist plot,448130642,Christopher Nolan,Tom Hardy,Christian Bale,Joseph Gordon-Levitt,English,USA
+Tangled,7.8,2010,100,PG,260000000,Adventure|Animation|Comedy|Family|Fantasy|Musical|Romance,17th century|based on fairy tale|disney|flower|tower,200807262,Nathan Greno,Brad Garrett,Donna Murphy,M.C. Gainey,English,USA
+Avengers: Age of Ultron,7.5,2015,141,PG-13,250000000,Action|Adventure|Sci-Fi,artificial intelligence|based on comic book|captain america|marvel cinematic universe|superhero,458991599,Joss Whedon,Chris Hemsworth,Robert Downey Jr.,Scarlett Johansson,English,USA
+Harry Potter and the Half-Blood Prince,7.5,2009,153,PG,250000000,Adventure|Family|Fantasy|Mystery,blood|book|love|potion|professor,301956980,David Yates,Alan Rickman,Daniel Radcliffe,Rupert Grint,English,UK
+The Avengers,8.1,2012,173,PG-13,220000000,Action|Adventure|Sci-Fi,alien invasion|assassin|battle|iron man|soldier,623279547,Joss Whedon,Chris Hemsworth,Robert Downey Jr.,Scarlett Johansson,English,USA
+The Hobbit: The Battle of the Five Armies,7.5,2014,164,PG-13,250000000,Adventure|Fantasy,army|elf|hobbit|middle earth|orc,255108370,Peter Jackson,Aidan Turner,Adam Brown,James Nesbitt,English,New Zealand
+The Hobbit: The Desolation of Smaug,7.9,2013,186,PG-13,225000000,Adventure|Fantasy,dwarf|elf|lake town|mountain|sword and sorcery,258355354,Peter Jackson,Aidan Turner,Adam Brown,James Nesbitt,English,USA
+Titanic,7.7,1997,194,PG-13,200000000,Drama|Romance,artist|love|ship|titanic|wet,658672302,James Cameron,Leonardo DiCaprio,Kate Winslet,Gloria Stuart,English,USA
+Captain America: Civil War,8.2,2016,147,PG-13,250000000,Action|Adventure|Sci-Fi,based on comic book|knife|marvel cinematic universe|returning character killed off|superhero,407197282,Anthony Russo,Robert Downey Jr.,Scarlett Johansson,Chris Evans,English,USA
+Skyfall,7.8,2012,143,PG-13,200000000,Action|Adventure|Thriller,brawl|childhood home|computer cracker|intelligence agency|terrorist cell,304360277,Sam Mendes,Albert Finney,Helen McCrory,Rory Kinnear,English,UK
+Toy Story 3,8.3,2010,103,G,200000000,Adventure|Animation|Comedy|Family|Fantasy,college|day care|escape|teddy bear|toy,414984497,Lee Unkrich,Tom Hanks,John Ratzenberger,Don Rickles,English,USA
+X-Men: Days of Future Past,8,2014,149,PG-13,200000000,Action|Adventure|Fantasy|Sci-Fi|Thriller,dystopia|super strength|supernatural power|time paradox|time travel,233914986,Bryan Singer,Jennifer Lawrence,Peter Dinklage,Hugh Jackman,English,USA
+Star Trek Into Darkness,7.8,2013,132,PG-13,190000000,Action|Adventure|Sci-Fi,admiral|captain|manhunt|mission|space,228756232,J.J. Abrams,Benedict Cumberbatch,Bruce Greenwood,Noel Clarke,English,USA
+Star Trek Beyond,7.5,2016,122,PG-13,185000000,Action|Adventure|Sci-Fi|Thriller,hatred|sequel|space opera|star trek|third part,130468626,Justin Lin,Sofia Boutella,Melissa Roxburgh,Lydia Wilson,English,USA
+WALL E,8.4,2008,98,G,180000000,Adventure|Animation|Family|Sci-Fi,earth|obesity|plant|robot|soil,223806889,Andrew Stanton,John Ratzenberger,Fred Willard,Jeff Garlin,English,USA
+The Dark Knight,9,2008,152,PG-13,185000000,Action|Crime|Drama|Thriller,based on comic book|dc comics|psychopath|star died before release|urban setting,533316061,Christopher Nolan,Christian Bale,Heath Ledger,Morgan Freeman,English,USA
+Up,8.3,2009,96,PG,175000000,Adventure|Animation|Comedy|Family,balloon|house|promise|retirement|skeleton,292979556,Pete Docter,John Ratzenberger,Delroy Lindo,Jess Harnell,English,USA
+Iron Man,7.9,2008,126,PG-13,140000000,Action|Adventure|Sci-Fi,afghanistan|billionaire|inventor|playboy|u.s. air force,318298180,Jon Favreau,Robert Downey Jr.,Jeff Bridges,Jon Favreau,English,USA
+Hugo,7.5,2011,126,PG,170000000,Adventure|Drama|Family|Mystery,automaton|mechanical|railway station|steampunk|train,73820094,Martin Scorsese,Chloë Grace Moretz,Christopher Lee,Ray Winstone,English,USA
+Edge of Tomorrow,7.9,2014,113,PG-13,178000000,Action|Adventure|Sci-Fi,alien|combat|dying repeatedly|end of the world|time loop,100189501,Doug Liman,Tom Cruise,Lara Pulver,Noah Taylor,English,USA
+Inside Out,8.3,2015,95,PG,175000000,Adventure|Animation|Comedy|Drama|Family|Fantasy,anger|joy|memory|running away|sadness,356454367,Pete Docter,Amy Poehler,Mindy Kaling,Phyllis Smith,English,USA
+The Jungle Book,7.8,2016,106,PG,175000000,Adventure|Drama|Family|Fantasy,fire|jungle|remake|tiger|wolf,362645141,Jon Favreau,Scarlett Johansson,Bill Murray,Garry Shandling,English,UK
+Dawn of the Planet of the Apes,7.6,2014,130,PG-13,170000000,Action|Adventure|Drama|Sci-Fi,ape|dam|leader|post apocalypse|sequel,208543795,Matt Reeves,Gary Oldman,Judy Greer,Kodi Smit-McPhee,English,USA
+Captain America: The Winter Soldier,7.8,2014,136,PG-13,170000000,Action|Adventure|Sci-Fi,conspiracy|heroism|megalomaniac|super soldier|world domination,259746958,Anthony Russo,Scarlett Johansson,Chris Evans,Hayley Atwell,English,USA
+Big Hero 6,7.9,2014,102,PG,165000000,Action|Adventure|Animation|Comedy|Drama|Family|Sci-Fi,high tech|martial arts|masked man|robot|superhero,222487711,Don Hall,Damon Wayans Jr.,Daniel Henney,Abraham Benrubi,English,USA
+Wreck-It Ralph,7.8,2012,101,PG,165000000,Adventure|Animation|Comedy|Family|Sci-Fi,arcade|candy|glitch|king|medal,189412677,Rich Moore,Jack McBrayer,Sarah Silverman,Joe Lo Truglio,English,USA
+How to Train Your Dragon,8.2,2010,98,PG,165000000,Adventure|Animation|Family|Fantasy,dragon|island|training|viking|village,217387997,Dean DeBlois,Gerard Butler,America Ferrera,Craig Ferguson,English,USA
+Guardians of the Galaxy,8.1,2014,121,PG-13,170000000,Action|Adventure|Sci-Fi,bounty hunter|outer space|raccoon|talking animal|tree,333130696,James Gunn,Bradley Cooper,Vin Diesel,Djimon Hounsou,English,USA
+Interstellar,8.6,2014,169,PG-13,165000000,Adventure|Drama|Sci-Fi,black hole|father daughter relationship|saving the world|space travel|wormhole,187991439,Christopher Nolan,Matthew McConaughey,Anne Hathaway,Mackenzie Foy,English,USA
+Inception,8.8,2010,148,PG-13,160000000,Action|Adventure|Sci-Fi|Thriller,ambiguous ending|corporate espionage|dream|subconscious|thief,292568851,Christopher Nolan,Leonardo DiCaprio,Tom Hardy,Joseph Gordon-Levitt,English,USA
+Godzilla Resurgence,8.2,2016,120,,,Action|Adventure|Drama|Horror|Sci-Fi,blood|godzilla|monster|sequel,,Hideaki Anno,Mark Chinnery,Shin'ya Tsukamoto,Atsuko Maeda,Japanese,Japan
+The Hobbit: An Unexpected Journey,7.9,2012,182,PG-13,180000000,Adventure|Fantasy,dragon|dwarf|hobbit|orc|wizard,303001229,Peter Jackson,Aidan Turner,Adam Brown,James Nesbitt,English,USA
+The Curious Case of Benjamin Button,7.8,2008,166,PG-13,150000000,Drama|Fantasy|Romance,deformed baby|diary|lingerie slip|older man younger woman relationship|premature aging,127490802,David Fincher,Brad Pitt,Jason Flemyng,Julia Ormond,English,USA
+X-Men: First Class,7.8,2011,132,PG-13,160000000,Action|Adventure|Sci-Fi,cia|cia agent|mutant|nuclear war|professor,146405371,Matthew Vaughn,Jennifer Lawrence,Michael Fassbender,Oliver Platt,English,USA
+Harry Potter and the Order of the Phoenix,7.5,2007,138,PG-13,150000000,Adventure|Family|Fantasy|Mystery,battle|magic|school|teacher|wizard,292000866,David Yates,Robert Pattinson,Daniel Radcliffe,Fiona Shaw,English,UK
+Harry Potter and the Goblet of Fire,7.6,2005,157,PG-13,150000000,Adventure|Family|Fantasy|Mystery,fire|goblet|magic|tournament|wizard,289994397,Mike Newell,Robert Pattinson,Daniel Radcliffe,Rupert Grint,English,UK
+Ratatouille,8,2007,111,G,150000000,Animation|Comedy|Family|Fantasy,chef|food|french|rat|restaurant,206435493,Brad Bird,Janeane Garofalo,John Ratzenberger,Brian Dennehy,English,USA
+Batman Begins,8.3,2005,128,PG-13,150000000,Action|Adventure,armored car|gangster|gotham|mixed martial arts|social decay,205343774,Christopher Nolan,Christian Bale,Liam Neeson,Morgan Freeman,English,USA
+Frozen,7.6,2013,102,PG,150000000,Adventure|Animation|Comedy|Family|Fantasy|Musical,magic|sister love|sister sister relationship|snow|snowman,400736600,Chris Buck,Josh Gad,Maurice LaMarche,Livvy Stubenrauch,English,USA
+Mad Max: Fury Road,8.1,2015,120,R,150000000,Action|Adventure|Sci-Fi|Thriller,australia|desert|escape|on the run|post apocalypse,153629485,George Miller,Tom Hardy,Charlize Theron,Zoë Kravitz,English,Australia
+The Last Samurai,7.7,2003,154,R,140000000,Action|Drama|History|War,captain|emperor|honor|japan|samurai,111110575,Edward Zwick,Tom Cruise,Tony Goldwyn,Chad Lindberg,English,USA
+Star Trek,8,2009,127,PG-13,150000000,Action|Adventure|Sci-Fi,box office hit|future|lifted by the throat|star trek|vulcan,257704099,J.J. Abrams,Chris Hemsworth,Leonard Nimoy,Bruce Greenwood,English,USA
+How to Train Your Dragon 2,7.9,2014,102,PG,145000000,Action|Adventure|Animation|Comedy|Family|Fantasy,dragon|father son relationship|husband wife relationship|mother son relationship|viking,176997107,Dean DeBlois,Gerard Butler,Djimon Hounsou,America Ferrera,English,USA
+Watchmen,7.7,2009,215,R,130000000,Action|Drama|Mystery|Sci-Fi,conspiracy|cynicism|false promise of the american dream|male full frontal nudity|male nudity,107503316,Zack Snyder,Matt Frewer,Billy Crudup,Stephen McHattie,English,USA
+Miami Vice            ,7.5,,60,TV-14,1500000,Action|Crime|Drama|Mystery|Thriller,cult tv|detective|drugs|police|undercover,,,Don Johnson,Philip Michael Thomas,John Diehl,English,USA
+The Revenant,8.1,2015,156,R,135000000,Adventure|Drama|Thriller|Western,bear attack|cauterizing a wound|native american|revenge|survival,183635922,Alejandro G. Iñárritu,Leonardo DiCaprio,Tom Hardy,Lukas Haas,English,USA
+The Bourne Ultimatum,8.1,2007,115,PG-13,110000000,Action|Mystery|Thriller,action hero|cia|dark past|flashback|memory,227137090,Paul Greengrass,Matt Damon,Edgar Ramírez,Albert Finney,English,USA
+Kung Fu Panda,7.6,2008,92,PG,130000000,Action|Adventure|Animation|Comedy|Family,kung fu|kung fu master|master|panda|snow leopard,215395021,Mark Osborne,Angelina Jolie Pitt,Wayne Knight,Dan Fogler,English,USA
+The Hunger Games: Catching Fire,7.6,2013,146,PG-13,130000000,Adventure|Sci-Fi|Thriller,president|snow|television|tour|uprising,424645577,Francis Lawrence,Jennifer Lawrence,Josh Hutcherson,Sandra Ellis Lafferty,English,USA
+Harry Potter and the Prisoner of Azkaban,7.8,2004,142,PG,130000000,Adventure|Family|Fantasy|Mystery,magic|muggle|serial killer|traitor|wizard,249358727,Alfonso Cuarón,Daniel Radcliffe,Gary Oldman,Rupert Grint,English,UK
+Harry Potter and the Deathly Hallows: Part II,7.5,2011,,,,Action|Fantasy,,,Matt Birch,Rupert Grint,Dave Legeno,Ralph Ineson,English,UK
+Harry Potter and the Sorcerer's Stone,7.5,2001,159,PG,125000000,Adventure|Family|Fantasy,based on novel|birthday|evil wizard|quidditch|wizard,317557891,Chris Columbus,Daniel Radcliffe,Fiona Shaw,Verne Troyer,English,UK
+Godzilla Resurgence,8.2,2016,120,,,Action|Adventure|Drama|Horror|Sci-Fi,blood|godzilla|monster|sequel,,Hideaki Anno,Mark Chinnery,Shin'ya Tsukamoto,Atsuko Maeda,Japanese,Japan
+Pirates of the Caribbean: The Curse of the Black Pearl,8.1,2003,143,PG-13,140000000,Action|Adventure|Fantasy,caribbean|curse|governor|pirate|undead,305388685,Gore Verbinski,Johnny Depp,Orlando Bloom,Jack Davenport,English,USA
+X-Men 2,7.5,2003,134,PG-13,110000000,Action|Adventure|Fantasy|Sci-Fi|Thriller,mutant|prison|professor|school|x men,214948780,Bryan Singer,Hugh Jackman,Bruce Davison,Aaron Stanford,English,Canada
+Sherlock Holmes: A Game of Shadows,7.5,2011,129,PG-13,125000000,Action|Adventure|Crime|Mystery|Thriller,factory|gypsy|investigation|sherlock holmes|train,186830669,Guy Ritchie,Robert Downey Jr.,Eddie Marsan,Paul Anderson,English,USA
+Total Recall,7.5,1990,113,R,65000000,Action|Sci-Fi,ambiguous ending|false memory|implanted memory|memory|space colony,119412921,Paul Verhoeven,Ronny Cox,Rachel Ticotin,Marshall Bell,English,USA
+Life of Pi,8,2012,127,PG,120000000,Adventure|Drama|Fantasy,animal|faith|india|journey|tiger,124976634,Ang Lee,Suraj Sharma,Rafe Spall,Tabu,English,USA
+Star Wars: Episode III - Revenge of the Sith,7.6,2005,140,PG-13,113000000,Action|Adventure|Fantasy|Sci-Fi,elongated cry of no|friends become enemies|kicked in the butt|robotic midwife|vision,380262555,George Lucas,Natalie Portman,Christopher Lee,Hayden Christensen,English,USA
+Monsters Inc.,8.1,2001,92,G,115000000,Adventure|Animation|Comedy|Family|Fantasy,friend|little girl|monster|rival|scream,289907418,Pete Docter,Steve Buscemi,John Ratzenberger,James Coburn,English,USA
+Gravity,7.8,2013,91,PG-13,100000000,Adventure|Drama|Sci-Fi|Thriller,box office hit|long take|sole survivor|space|space station,274084951,Alfonso Cuarón,Phaldut Sharma,Basher Savage,Amy Warren,English,UK
+The Aviator,7.5,2004,170,PG-13,110000000,Biography|Drama,1920s|aviation|fight|spruce goose|test flight,102608827,Martin Scorsese,Leonardo DiCaprio,Adam Scott,Frances Conroy,English,USA
+The A-Team            ,7.6,,60,TV-PG,,Action|Adventure|Crime,1980s|cult tv|famous opening theme|good versus evil|hero for hire,,,George Peppard,Dirk Benedict,Dwight Schultz,English,USA
+The Lord of the Rings: The Fellowship of the Ring,8.8,2001,171,PG-13,93000000,Action|Adventure|Drama|Fantasy,elf|hobbit|middle earth|quest|ring,313837577,Peter Jackson,Christopher Lee,Orlando Bloom,Billy Boyd,English,New Zealand
+The Martian,8.1,2015,151,PG-13,108000000,Adventure|Drama|Sci-Fi,astronaut|international cooperation|left for dead|nasa|space habitat,228430993,Ridley Scott,Matt Damon,Donald Glover,Benedict Wong,English,USA
+Gladiator,8.5,2000,171,R,103000000,Action|Drama|Romance,battlefield|blood|combat|gladiator|roman empire,187670866,Ridley Scott,Djimon Hounsou,Connie Nielsen,Oliver Reed,English,USA
+Minority Report,7.7,2002,145,PG-13,102000000,Action|Mystery|Sci-Fi|Thriller,future|murder|neo noir|washington d.c.|year 2054,132014112,Steven Spielberg,Tom Cruise,Frank Grillo,Jessica Capshaw,English,USA
+Casino Royale,8,2006,144,PG-13,150000000,Action|Adventure|Thriller,casino|espionage|free running|james bond|terrorist,167007184,Martin Campbell,Eva Green,Tobias Menzies,Ivana Milicevic,English,UK
+Terminator 2: Judgment Day,8.5,1991,153,R,102000000,Action|Sci-Fi,future|liquid metal|multiple cameos|sexy woman|time travel,204843350,James Cameron,Joe Morton,Jenette Goldstein,S. Epatha Merkerson,English,USA
+American Gangster,7.8,2007,176,R,100000000,Biography|Crime|Drama,death|heroin|popcorn|smuggling|vietnam,130127620,Ridley Scott,Denzel Washington,Ruby Dee,RZA,English,USA
+Django Unchained,8.5,2012,165,R,100000000,Drama|Western,dynamite|historically inaccurate|ku klux klan|n word|slavery,162804648,Quentin Tarantino,Leonardo DiCaprio,Christoph Waltz,Ato Essandoh,English,USA
+Blood Diamond,8,2006,143,R,100000000,Adventure|Drama|Thriller,diamond|elephant|fisherman|rebel|sierra leone,57366262,Edward Zwick,Leonardo DiCaprio,Djimon Hounsou,Stephen Collins,English,Germany
+The Wolf of Wall Street,8.2,2013,240,R,100000000,Biography|Comedy|Crime|Drama,based on true story|fellatio|female rear nudity|sex in an airplane|stockbroker,116866727,Martin Scorsese,Leonardo DiCaprio,Matthew McConaughey,Jon Favreau,English,USA
+Cloud Atlas,7.5,2012,172,R,102000000,Drama|Sci-Fi,composer|future|letter|nonlinear timeline|nursing home,27098580,Tom Tykwer,Tom Hanks,Jim Sturgess,Jim Broadbent,English,Germany
+Gangs of New York,7.5,2002,216,R,100000000,Crime|Drama,butcher|civil war|gangster|new york city|revenge,77679638,Martin Scorsese,Leonardo DiCaprio,Liam Neeson,Jim Broadbent,English,USA
+The Flowers of War,7.6,2011,146,R,94000000,Drama|History|Romance|War,abusive stepfather|attempted rape|food shortage|sexual abuse|starving child,9213,Yimou Zhang,Christian Bale,Ni Ni,Shigeo Kobayashi,Mandarin,China
+Black Hawk Down,7.7,2001,152,R,92000000,Drama|History|War,army|helicopter|somali|somalia|warlord,108638745,Ridley Scott,Ioan Gruffudd,Sam Shepard,Ewen Bremner,English,USA
+The Fifth Element,7.7,1997,126,PG-13,93000000,Action|Adventure|Sci-Fi,1910s|alien|artificially created woman|love|taxi driver,63540020,Luc Besson,Milla Jovovich,Bruce Willis,Gary Oldman,English,France
+Finding Nemo,8.2,2003,100,G,94000000,Adventure|Animation|Comedy|Family,great barrier reef|protective father|separation from family|shark|short term memory loss,380838870,Andrew Stanton,Alexander Gould,Stephen Root,Brad Garrett,English,USA
+The Lord of the Rings: The Return of the King,8.9,2003,192,PG-13,94000000,Action|Adventure|Drama|Fantasy,battle|epic|king|orc|ring,377019252,Peter Jackson,Orlando Bloom,Billy Boyd,Bernard Hill,English,USA
+The Lord of the Rings: The Two Towers,8.7,2002,172,PG-13,94000000,Action|Adventure|Drama|Fantasy,epic|evil wizard|middle earth|ring|wizard,340478898,Peter Jackson,Christopher Lee,Orlando Bloom,Billy Boyd,English,USA
+Rise of the Planet of the Apes,7.6,2011,105,PG-13,93000000,Action|Drama|Sci-Fi|Thriller,alzheimer's disease|ape|chimpanzee|fire|when animals attack,176740650,Rupert Wyatt,James Franco,David Oyelowo,Tyler Labine,English,USA
+The Incredibles,8,2004,115,PG,92000000,Action|Adventure|Animation|Family,hero|island|lawsuit|secret|superhero,261437578,Brad Bird,Holly Hunter,Craig T. Nelson,Lou Romano,English,USA
+Toy Story 2,7.9,1999,82,G,90000000,Adventure|Animation|Comedy|Family|Fantasy,collector|dog|friend|rescue|toy,245823397,John Lasseter,Tom Hanks,John Ratzenberger,Wayne Knight,English,USA
+The Departed,8.5,2006,151,R,90000000,Crime|Drama|Thriller,boston|mole|police|undercover|undercover cop,132373442,Martin Scorsese,Leonardo DiCaprio,Matt Damon,Ray Winstone,English,USA
+Mulan,7.5,1998,88,G,90000000,Adventure|Animation|Family|Fantasy|Musical|War,based on poem|based on true story|china|one word title|the huns,120618403,Tony Bancroft,Ming-Na Wen,Harvey Fierstein,June Foray,English,USA
+The Girl with the Dragon Tattoo,7.8,2011,158,R,90000000,Crime|Drama|Mystery|Thriller,computer hacker|hacker|investigation|journalist|punk,102515793,David Fincher,Robin Wright,Goran Visnjic,Joely Richardson,English,USA
+Die Hard with a Vengeance,7.6,1995,128,R,90000000,Action|Adventure|Thriller,bomb|detective|new york city|police|terrorist,100012500,John McTiernan,Bruce Willis,Aldis Hodge,Kevin Chamberlin,English,USA
+Sherlock Holmes,7.6,2009,128,PG-13,90000000,Action|Adventure|Crime|Mystery|Thriller,black magic|bridge construction|professor moriarty|scotland yard inspector|sherlock holmes,209019489,Guy Ritchie,Robert Downey Jr.,Eddie Marsan,Robert Maillet,English,USA
+Cinderella Man,8,2005,144,PG-13,88000000,Biography|Drama|Sport,boxer|boxing|dream|great depression|love,61644321,Ron Howard,Paddy Considine,Bruce McGill,Rosemarie DeWitt,English,USA
+Cast Away,7.7,2000,143,PG-13,90000000,Adventure|Drama|Romance,christmas|island|love|survival|talking to inanimate object,233630478,Robert Zemeckis,Tom Hanks,Paul Sanchez,Nick Searcy,English,USA
+The Bourne Supremacy,7.8,2004,108,PG-13,75000000,Action|Mystery|Thriller,assassin|car chase|cia|hidden truth|one against many,176049130,Paul Greengrass,Matt Damon,Joan Allen,Oksana Akinshina,English,USA
+Ocean's Eleven,7.8,2001,116,PG-13,85000000,Crime|Thriller,card dealer|casino|criminal mastermind|recruiting|ulcer,183405771,Steven Soderbergh,Brad Pitt,Bernie Mac,Elliott Gould,English,USA
+Hannibal            ,8.6,,44,TV-14,,Crime|Drama|Horror|Mystery|Thriller,blood|cannibalism|fbi|manipulation|psychiatrist,,,Caroline Dhavernas,Scott Thompson,Hettienne Park,English,USA
+Enemy at the Gates,7.6,2001,131,R,68000000,Drama|History|War,battle|german|russian|sniper|stalingrad,51396781,Jean-Jacques Annaud,Bob Hoskins,Gabriel Thomson,Clemens Schick,English,USA
+All That Jazz,7.8,1979,123,R,,Comedy|Drama|Music|Musical,dancer|editing|stand up comedian|surgery|vomiting,,Bob Fosse,Roy Scheider,Ben Vereen,Max Wright,English,USA
+Scott Pilgrim vs. the World,7.5,2010,112,PG-13,60000000,Action|Comedy|Fantasy|Romance,band|dating|high school|hipster|rock band,31494270,Edgar Wright,Anna Kendrick,Kieran Culkin,Ellen Wong,English,USA
+Zodiac,7.7,2007,162,R,65000000,Crime|Drama|History|Mystery|Thriller,cartoonist|reporter|serial killer|zodiac|zodiac killer,33048353,David Fincher,Robert Downey Jr.,Jake Gyllenhaal,Anthony Edwards,English,USA
+Shutter Island,8.1,2010,138,R,80000000,Mystery|Thriller,female prisoner|plot twist|self delusion|surprise ending|year 1954,127968405,Martin Scorsese,Leonardo DiCaprio,Joseph Sikora,Nellie Sciutto,English,USA
+Road to Perdition,7.7,2002,117,R,80000000,Crime|Drama|Thriller,1930s|blood|gun|on the run|revenge,104054514,Sam Mendes,Tom Hanks,Jennifer Jason Leigh,Liam Aiken,English,USA
+Daredevil            ,8.8,,54,TV-MA,,Action|Adventure|Crime|Drama|Sci-Fi|Thriller,corruption|lawyer|partnership|superhero|vigilante,,,Elden Henson,Royce Johnson,Charlie Cox,English,USA
+Fury,7.6,2014,134,R,68000000,Action|Drama|War,battle|battlefield|brutality|combat|tank,85707116,David Ayer,Brad Pitt,Logan Lerman,Jim Parrack,English,USA
+Bewitched            ,7.6,,25,TV-G,,Comedy|Family|Fantasy,connecticut|magic|marriage|witch|witchcraft,,,Elizabeth Montgomery,Agnes Moorehead,Dick York,English,USA
+Oceans,7.8,2009,104,G,40000000,Documentary|Drama,damselfish|ocean habitat|ocean life|razorfish|spider crab,19406406,Jacques Perrin,Pedro Armendáriz Jr.,Jacques Perrin,Rie Miyazawa,French,France
+A Beautiful Mind,8.2,2001,135,PG-13,58000000,Biography|Drama,conspiracy|cryptography|mathematician|mental illness|nobel prize,170708996,Ron Howard,Adam Goldberg,Austin Pendleton,Judd Hirsch,English,USA
+The Lion King,8.5,1994,73,G,45000000,Adventure|Animation|Drama|Family|Musical,king|prince|scar|uncle|unnecessary guilt,422783777,Roger Allers,Matthew Broderick,Nathan Lane,Niketa Calame,English,USA
+The Little Prince,7.8,2015,108,PG,81200000,Adventure|Animation|Drama|Family|Fantasy,aviator|based on book|girl|little girl|the little prince,1339152,Mark Osborne,Jeff Bridges,James Franco,Mackenzie Foy,English,France
+Despicable Me 2,7.5,2013,98,PG,76000000,Animation|Comedy|Family|Sci-Fi,dating|minion|overprotective father|undercover spy|woman agent,368049635,Pierre Coffin,Steve Carell,Miranda Cosgrove,Steve Coogan,English,USA
+Children of Men,7.9,2006,109,R,76000000,Drama|Sci-Fi|Thriller,chaos|england|long take|survival|violence,35286428,Alfonso Cuarón,Charlie Hunnam,Danny Huston,Rita Davies,English,USA
+Constantine            ,7.5,,43,TV-14,,Drama|Fantasy|Horror|Thriller,based on comic|based on comic book|dc arrowverse|dc comics|supernatural,,,Harold Perrineau,Matt Ryan,Charles Halford,English,USA
+Life            ,8.3,,45,,,Crime|Drama|Mystery,cop|murder|partner|police|protective male,,,Adam Arkin,Brent Sexton,Damian Lewis,English,USA
+Munich,7.6,2005,163,R,70000000,Drama|History|Thriller,arab|black september|israel|jew|munich olympics,47379090,Steven Spielberg,Ayelet Zurer,Moritz Bleibtreu,Mathieu Amalric,English,France
+Braveheart,8.4,1995,178,R,72000000,Biography|Drama|History|War,14th century|legend|revolt|scotland|tyranny,75600000,Mel Gibson,Mhairi Calvey,Patrick McGoohan,James Robinson,English,USA
+Inglourious Basterds,8.3,2009,153,R,75000000,Adventure|Drama|War,france|german|nazis|revenge|scalping,120523073,Quentin Tarantino,Michael Fassbender,Brad Pitt,Christoph Waltz,English,USA
+Sleepy Hollow            ,7.5,,45,TV-14,,Adventure|Drama|Fantasy|Mystery|Thriller,apocalypse|death|husband wife relationship|mother son relationship|murder,,,Nicole Beharie,Katia Winter,Lyndie Greenwood,English,USA
+Big Fish,8,2003,125,PG-13,70000000,Adventure|Drama|Fantasy,dog saved from a fire|flashback|growing up|multiple narrators|traveling salesman,66257002,Tim Burton,Steve Buscemi,Alison Lohman,Albert Finney,English,USA
+The Abyss,7.6,1989,171,PG-13,69500000,Adventure|Drama|Sci-Fi|Thriller,alien|estranged couple|ocean|submarine|underwater,54222000,James Cameron,Michael Biehn,Todd Graff,Mary Elizabeth Mastrantonio,English,USA
+Stardust,7.7,2007,127,PG-13,70000000,Adventure|Family|Fantasy|Romance,king|magic|one word title|pirate|village,38345403,Matthew Vaughn,Henry Cavill,David Kelly,Nathaniel Parker,English,UK
+Despicable Me,7.7,2010,87,PG,69000000,Animation|Comedy|Family,girl|minion|moon|pyramid|white picket fence,251501645,Pierre Coffin,Steve Carell,Miranda Cosgrove,Jack McBrayer,English,USA
+The Insider,7.9,1999,157,R,68000000,Biography|Drama|Thriller,cbs|cbs news|research|tobacco|whistleblower,28965197,Michael Mann,Al Pacino,Rip Torn,Debi Mazar,English,USA
+Saving Private Ryan,8.6,1998,169,R,70000000,Action|Drama|War,army|invasion|killed in action|normandy|soldier,216119491,Steven Spielberg,Tom Hanks,Vin Diesel,Matt Damon,English,USA
+Ice Age,7.6,2002,103,PG,59000000,Adventure|Animation|Comedy|Family,baby|ice|ice age|sleeping|sloth,176387405,Chris Wedge,Goran Visnjic,Stephen Root,Denis Leary,English,USA
+The Matrix,8.7,1999,136,R,63000000,Action|Sci-Fi,artificial reality|computer|matrix|questioning reality|simulated reality,171383253,Lana Wachowski,Keanu Reeves,Marcus Chong,Gloria Foster,English,USA
+Apollo 13,7.6,1995,140,PG,62000000,Adventure|Drama|History,cape kennedy|news footage|reference to christopher columbus|rocket|trapped in space,172071312,Ron Howard,Tom Hanks,Miko Hughes,Kathleen Quinlan,English,USA
+Total Recall,7.5,1990,113,R,65000000,Action|Sci-Fi,ambiguous ending|false memory|implanted memory|memory|space colony,119412921,Paul Verhoeven,Ronny Cox,Rachel Ticotin,Marshall Bell,English,USA
+Les Misérables,7.6,2012,158,PG-13,61000000,Drama|Musical|Romance,barricade|innkeeper|parole|rebellion|student,148775460,Tom Hooper,Hugh Jackman,Eddie Redmayne,Anne Hathaway,English,USA
+Fight Club,8.8,1999,151,R,63000000,Drama,anti establishment|dark humor|fighting|multiple personality disorder|surprise ending,37023395,David Fincher,Brad Pitt,Meat Loaf,Eugenie Bondurant,English,USA
+The Missing            ,8.1,,60,,,Crime|Drama|Mystery,france|journalist|limp|police detective|reporter,,,Jason Flemyng,James Nesbitt,Frances O'Connor,English,UK
+Perfume: The Story of a Murderer,7.5,2006,147,R,50000000,Crime|Drama|Fantasy,18th century|perfume|scent|sense of smell|smell,2208939,Tom Tykwer,Michael Smiley,David Calder,Simon Chandler,English,Germany
+Jurassic Park,8.1,1993,127,PG-13,63000000,Adventure|Sci-Fi|Thriller,dinosaur|jurassic park|survival|theme park|tyrannosaurus rex,356784000,Steven Spielberg,Wayne Knight,Ariana Richards,Bob Peck,English,USA
+The Hateful Eight,7.9,2015,187,R,44000000,Crime|Drama|Mystery|Thriller|Western,blizzard|blood vomiting|bounty hunter|murder|shot in the crotch,54116191,Quentin Tarantino,Craig Stark,Jennifer Jason Leigh,Zoë Bell,English,USA
+300,7.7,2006,117,R,65000000,Action|Drama|Fantasy|War,battle|epic|greece|spartan|warrior,210592590,Zack Snyder,Gerard Butler,Michael Fassbender,Vincent Regan,English,USA
+The Green Mile,8.5,1999,189,R,60000000,Crime|Drama|Fantasy|Mystery,1930s|death row inmate|healing|prison guard|southern u.s.,136801374,Frank Darabont,Tom Hanks,Jeffrey DeMunn,Michael Jeter,English,USA
+Gone Girl,8.1,2014,149,R,61000000,Crime|Drama|Mystery|Thriller,based on novel|disappearance|missing person|missing wife|murder suspect,167735396,David Fincher,Patrick Fugit,Sela Ward,Emily Ratajkowski,English,USA
+The Bourne Identity,7.9,2002,119,PG-13,60000000,Action|Mystery|Thriller,amnesia|assassin|money|political thriller|three word title,121468960,Doug Liman,Matt Damon,Josh Hamilton,Nicky Naudé,English,USA
+The Truman Show,8.1,1998,103,PG,60000000,Comedy|Drama|Sci-Fi,controlled environment|fictional reality show|hidden camera|innocence lost|simulated reality,125603360,Peter Weir,Natascha McElhone,Noah Emmerich,Peter Krause,English,USA
+Collateral,7.6,2004,120,R,65000000,Crime|Drama|Thriller,city by night|contract killer|driving at night|los angeles california|taxi,100003492,Michael Mann,Tom Cruise,Jada Pinkett Smith,Debi Mazar,English,USA
+Coraline,7.7,2009,100,PG,60000000,Animation|Family|Fantasy,dream|new home|parallel worlds|scissors|secret door,75280058,Henry Selick,Jennifer Saunders,Dawn French,John Hodgman,English,USA
+Man on Fire,7.7,2004,146,R,70000000,Action|Crime|Drama|Thriller,bodyguard|journalist|kidnapping|mexico|police corruption,77862546,Tony Scott,Denzel Washington,Radha Mitchell,Giancarlo Giannini,English,USA
+The Lego Movie,7.8,2014,100,PG,60000000,Action|Adventure|Animation|Comedy|Family|Fantasy,based on toy|dual personality|evil businessman|good cop bad cop|lego,257756197,Phil Lord,Morgan Freeman,Will Ferrell,Alison Brie,English,Australia
+Almost Famous,7.9,2000,152,R,60000000,Adventure|Comedy|Drama|Music,band|magazine|rolling stone magazine|smoking marijuana|tour,32522352,Cameron Crowe,Philip Seymour Hoffman,Zooey Deschanel,Michael Angarano,English,USA
+The Avengers,8.1,2012,173,PG-13,220000000,Action|Adventure|Sci-Fi,alien invasion|assassin|battle|iron man|soldier,623279547,Joss Whedon,Chris Hemsworth,Robert Downey Jr.,Scarlett Johansson,English,USA
+Deadpool,8.1,2016,108,R,58000000,Action|Adventure|Comedy|Romance|Sci-Fi,based on comic book|breaking the fourth wall|mercenary|mutant|self healing,363024263,Tim Miller,Ryan Reynolds,Ed Skrein,Stefan Kapicic,English,USA
+The Devil's Advocate,7.5,1997,136,R,57000000,Drama|Mystery|Thriller,deal with the devil|lawyer|money|reality|supernatural power,60984028,Taylor Hackford,Keanu Reeves,Al Pacino,Charlize Theron,English,USA
+Forrest Gump,8.8,1994,142,PG-13,55000000,Comedy|Drama,amputee|love|vietnam|vietnam war|war hero,329691196,Robert Zemeckis,Tom Hanks,Siobhan Fallon Hogan,Sam Anderson,English,USA
+Captain Phillips,7.9,2013,134,PG-13,55000000,Biography|Drama|Thriller,hijacking|hostage|leader|ship|somalia,107100855,Paul Greengrass,Tom Hanks,Chris Mulkey,Michael Chernus,English,USA
+The Pursuit of Happyness,8,2006,117,PG-13,55000000,Biography|Drama,bus|intern|internship|salesman|stockbroker,162586036,Gabriele Muccino,Will Smith,Kurt Fuller,James Karen,English,USA
+Kill Bill: Vol. 1,8.1,2003,111,R,30000000,Action,bride|coma|japan|revenge|sword,70098138,Quentin Tarantino,David Carradine,Vivica A. Fox,Chiaki Kuriyama,English,USA
+Stargate SG-1            ,8.4,,44,TV-14,1400000,Action|Adventure|Drama|Sci-Fi,2000s|21st century|alternate history|message from outer space|military,,,Christopher Judge,Don S. Davis,Gary Jones,English,USA
+Kill Bill: Vol. 2,8,2004,137,R,30000000,Action|Crime|Drama|Thriller,assassin|assassination|bride|death|vengeance,66207920,Quentin Tarantino,Vivica A. Fox,Michael Parks,Michael Bowen,English,USA
+Changeling,7.8,2008,141,R,55000000,Crime|Drama|Mystery|Thriller,execution by hanging|los angeles police department|miscarriage of justice|missing child|wrongful conviction,35707327,Clint Eastwood,Angelina Jolie Pitt,Michael Kelly,Colm Feore,English,USA
+A Very Long Engagement,7.7,2004,133,R,47000000,Drama|Mystery|Romance|War,court martial|death|girl|no man's land|soldier,6167817,Jean-Pierre Jeunet,Denis Lavant,André Dussollier,Albert Dupontel,French,France
+Lolita,7.7,1962,152,Not Rated,2000000,Crime|Drama|Romance,lolita|nymphet|older man young girl relationship|professor|writer,,Stanley Kubrick,James Mason,Shelley Winters,Lois Maxwell,English,UK
+Seven Pounds,7.7,2008,123,PG-13,55000000,Drama|Romance,boyfriend girlfriend relationship|heart|main character dies|organ donor|redemption,69951824,Gabriele Muccino,Will Smith,Rosario Dawson,Madison Pettis,English,USA
+The Godfather: Part III,7.6,1990,170,R,54000000,Crime|Drama,1970s|family relationships|mob hit|opera|repeating history,66676062,Francis Ford Coppola,Al Pacino,Joe Mantegna,Bridget Fonda,English,USA
+Moulin Rouge!,7.6,2001,127,PG-13,52500000,Drama|Musical|Romance,death of main character|eiffel tower paris|jealousy|tragedy|two suitors,57386369,Baz Luhrmann,Jim Broadbent,Kylie Minogue,Richard Roxburgh,English,USA
+Grindhouse,7.6,2007,189,R,53000000,Action|Horror|Thriller,anthropophagus|blood and gore|double feature|real twins playing twins|zombie,25031037,Robert Rodriguez,Quentin Tarantino,Rosario Dawson,Zoë Bell,English,USA
+Catch Me If You Can,8,2002,141,PG-13,52000000,Biography|Crime|Drama,attorney|cat and mouse|fbi|pan am|pilot,164435221,Steven Spielberg,Leonardo DiCaprio,Tom Hanks,Jennifer Garner,English,USA
+The Thin Red Line,7.6,1998,215,R,52000000,Drama|War,battle|hill|jungle|multiple perspectives|tropical island,36385763,Terrence Malick,Nick Stahl,Miranda Otto,Dash Mihok,English,USA
+Casino,8.2,1995,178,R,52000000,Biography|Crime|Drama,car bomb|card cheat|cash|casino|gambling syndicate,42438300,Martin Scorsese,Robert De Niro,Don Rickles,Kevin Pollak,English,USA
+Shrek,7.9,2001,90,PG,60000000,Adventure|Animation|Comedy|Family|Fantasy,donkey|fairy tale|ogre|princess|swamp,267652016,Andrew Adamson,Kathleen Freeman,Chris Miller,Bobby Block,English,USA
+As Good as It Gets,7.7,1997,139,PG-13,50000000,Comedy|Drama|Romance,dog|friendship|neighbor|unlikely friendship|writer,147637474,James L. Brooks,Lupe Ontiveros,Yeardley Smith,Shirley Knight,English,USA
+Interview with the Vampire: The Vampire Chronicles,7.6,1994,123,R,60000000,Drama|Fantasy|Horror,betrayal|dangerous friend|gothic|monster as victim|vampire,105264608,Neil Jordan,Brad Pitt,Tom Cruise,Kirsten Dunst,English,USA
+Inside Man,7.6,2006,129,R,45000000,Crime|Drama|Mystery|Thriller,bank|detective|negotiation|police|robber,88504640,Spike Lee,Denzel Washington,James Ransone,Peter Gerety,English,USA
+Moneyball,7.6,2011,133,PG-13,50000000,Biography|Drama|Sport,baseball|meeting|statistics|strategy|voice over,75605492,Bennett Miller,Philip Seymour Hoffman,Robin Wright,Brad Pitt,English,USA
+V for Vendetta,8.2,2005,132,R,54000000,Action|Drama|Thriller,dystopia|freedom|government|revolution|terrorist,70496802,James McTeigue,Natalie Portman,Eddie Marsan,Rupert Graves,English,USA
+Unforgotten            ,7.9,,45,,,Crime|Drama,,,,Bernard Hill,Gemma Jones,Nicola Walker,English,UK
+The Game,7.8,1997,129,R,50000000,Drama|Mystery|Thriller,birthday|falling through a glass roof|game|hitchcockian|suicide,48265581,David Fincher,Deborah Kara Unger,Armin Mueller-Stahl,Charles Martinet,English,USA
+A Touch of Frost            ,7.8,,105,,,Crime|Drama|Mystery,cult tv|death|detective inspector|four word title|internal affairs,,,David Jason,Bruce Alexander,John Lyons,English,UK
+Twisted            ,7.5,,60,,,Drama|Mystery|Thriller,,,,Grey Damon,Brittany Curran,Aaron Hill,English,USA
+The Iron Giant,8,1999,90,PG,70000000,Action|Adventure|Animation|Comedy|Drama|Family|Sci-Fi,boy|friend|government agent|maine|robot,23159305,Brad Bird,Vin Diesel,Harry Connick Jr.,M. Emmet Walsh,English,USA
+The Life of David Gale,7.5,2003,130,R,50000000,Crime|Drama|Thriller,activist|death|death row|murder|texas,19593740,Alan Parker,Kevin Spacey,Kate Winslet,Matt Craven,English,USA
+Eastern Promises,7.7,2007,96,R,25000000,Crime|Mystery|Thriller,male pubic hair|pubic hair|russian|sex scene|turkish bath,17114882,David Cronenberg,Viggo Mortensen,Naomi Watts,Raza Jaffrey,English,USA
+Outlander            ,8.5,,64,TV-MA,,Drama|Romance|Sci-Fi,based on novel|clan|scotland|scottish highlands|year 1743,,,Tobias Menzies,Graham McTavish,Stephen Walters,English,USA
+Traffic,7.6,2000,190,R,48000000,Crime|Drama|Thriller,cocaine|drug smuggling|interlinked stories|judge|mexico,124107476,Steven Soderbergh,Michael O'Neill,Jacob Vargas,James Lew,English,USA
+Indiana Jones and the Last Crusade,8.3,1989,127,PG-13,48000000,Action|Adventure|Fantasy,castle|diary|holy grail|map|nazi,197171806,Steven Spielberg,Harrison Ford,Julian Glover,Alison Doody,English,USA
+3:10 to Yuma,7.8,2007,122,R,55000000,Adventure|Crime|Drama|Western,outlaw|rancher|small western town|stagecoach|train,53574088,James Mangold,Christian Bale,Logan Lerman,Gretchen Mol,English,USA
+Earth,7.8,1998,110,Unrated,,Drama|Romance|War,friend|hindu|india|muslim|sikh,528972,Deepa Mehta,Nandita Das,Gulshan Grover,Eric Peterson,Hindi,India
+First Blood,7.7,1982,93,R,14000000,Action|Adventure|Drama,1980s|colonel|deputy|rambo|sheriff,,Ted Kotcheff,Sylvester Stallone,Brian Dennehy,Chris Mulkey,English,USA
+Solaris,8.1,1972,115,PG,1000000,Drama|Mystery|Sci-Fi,hallucination|ocean|psychologist|scientist|space station,,Andrei Tarkovsky,Donatas Banionis,Anatoliy Solonitsyn,Natalya Bondarchuk,Russian,Soviet Union
+Star Trek: First Contact,7.6,1996,111,PG-13,45000000,Action|Adventure|Drama|Sci-Fi|Thriller,21st century|borg|borg sphere|captain|sphere,92001027,Jonathan Frakes,LeVar Burton,Alfre Woodard,Jonathan Frakes,English,USA
+Prisoners,8.1,2013,153,R,46000000,Crime|Drama|Mystery|Thriller,child abduction|detective|investigation|police|sex offender,60962878,Denis Villeneuve,Hugh Jackman,Jake Gyllenhaal,Dylan Minnette,English,USA
+Training Day,7.7,2001,122,R,45000000,Crime|Drama|Thriller,lapd|narc|narcotics|title spoken by character|training,76261036,Antoine Fuqua,Denzel Washington,Snoop Dogg,Tom Berenger,English,USA
+Love Actually,7.7,2003,129,R,45000000,Comedy|Drama|Romance,aging rocker|christmas|love at first sight|minister|prime minister,59365105,Richard Curtis,Colin Firth,Liam Neeson,Kris Marshall,English,UK
+The Returned            ,8.3,,52,TV-MA,,Drama|Fantasy|Horror|Mystery,france|living dead|serial killer|small town|supernatural,,,Pierre Perrier,Clotilde Hesme,Céline Sallette,French,France
+Argo,7.7,2012,130,R,44500000,Biography|Drama|History|Thriller,1970s|cia|f word|u.s. embassy|year 1979,136019448,Ben Affleck,Clea DuVall,Scoot McNairy,Tate Donovan,English,USA
+The Fugitive,7.8,1993,130,PG-13,44000000,Action|Adventure|Crime|Drama|Mystery|Thriller,hospital|on the run|one armed man|surgeon|u.s. marshal,183875760,Andrew Davis,Harrison Ford,Daniel Roebuck,Sela Ward,English,USA
+Sleepers,7.5,1996,147,R,44000000,Crime|Drama|Thriller,boy|guard|kicked in the crotch|prank|sexual abuse,53300852,Barry Levinson,Robert De Niro,Brad Pitt,Minnie Driver,English,USA
+Pinocchio,7.5,1940,88,Approved,2600000,Animation|Family|Fantasy|Musical,boy|conscience|fairy|jiminy cricket|pinocchio,84300000,Norman Ferguson,Mel Blanc,Dickie Jones,Cliff Edwards,English,USA
+Lord of War,7.6,2005,122,R,50000000,Crime|Drama|Thriller,1980s|arms dealer|immorality|ukrainian|warlord,24127895,Andrew Niccol,Nicolas Cage,Jeremy Crutchley,Jared Burke,English,USA
+Hero,7.9,2002,80,PG-13,31000000,Action|Adventure|History,china|flying|king|palace|sword,84961,Yimou Zhang,Jet Li,Tony Chiu Wai Leung,Maggie Cheung,Mandarin,China
+McHale's Navy            ,7.5,,30,TV-G,,Comedy|War,american soldier|naval uniform|navy|patrol boat|uniform,,,Tim Conway,Gavin MacLeod,Bob Hastings,English,USA
+The Sixth Sense,8.1,1999,107,PG-13,40000000,Drama|Mystery|Thriller,able to see the dead|ghost|plot twist|psychic|surprise ending,293501675,M. Night Shyamalan,Bruce Willis,Haley Joel Osment,Olivia Williams,English,USA
+Back to the Future Part II,7.8,1989,108,PG,40000000,Adventure|Comedy|Sci-Fi,alternate timeline|same actor playing two characters simultaneously on screen|second part|year 2015|younger version of character,118500000,Robert Zemeckis,Lea Thompson,Jeffrey Weissman,Thomas F. Wilson,English,USA
+Lone Survivor,7.6,2013,121,R,40000000,Action|Biography|Drama|Thriller|War,courage|navy seal|outnumbered|shot multiple times|survival,125069696,Peter Berg,Jerry Ferrara,Scott Elrod,Dan Bilzerian,English,USA
+The Conjuring 2,7.8,2016,134,R,40000000,Horror|Mystery|Thriller,based on supposedly true story|house|paranormal investigating|psychic|second part,102310175,James Wan,Javier Botet,Frances O'Connor,Robin Atkin Downes,English,USA
+The Social Network,7.7,2010,120,PG-13,40000000,Biography|Drama,competitiveness|creator|entrepreneur|facebook|intellectual property,96917897,David Fincher,Andrew Garfield,Dustin Fitzsimons,Marcella Lentz-Pope,English,USA
+Bram Stoker's Dracula,7.5,1992,155,R,40000000,Fantasy|Horror|Romance,dracula|horror movie remake|maze|monster sex|vampire,82522790,Francis Ford Coppola,Keanu Reeves,Anthony Hopkins,Gary Oldman,English,USA
+42,7.5,2013,128,PG-13,40000000,Biography|Drama|Sport,baseball|baseball player|brooklyn dodgers|major league baseball|racism,95001343,Brian Helgeland,Harrison Ford,Christopher Meloni,Nicole Beharie,English,USA
+The Last of the Mohicans,7.8,1992,117,R,40000000,Action|Adventure|Drama|Romance|War,18th century|based on novel|colonel|french and indian war|revenge,72455275,Michael Mann,Wes Studi,Terry Kinney,Eric Schweig,English,USA
+Ray,7.7,2004,178,PG-13,40000000,Biography|Drama|Music,1950s|1960s|racism|rhythm and blues|singer,75305995,Taylor Hackford,Bokeem Woodbine,Curtis Armstrong,Harry Lennix,English,USA
+Sin City,8.1,2005,147,R,40000000,Crime|Thriller,anthology|corruption|hearing characters thoughts|neo noir|night,74098862,Frank Miller,Rosario Dawson,Powers Boothe,Jason Douglas,English,USA
+JFK,8,1991,206,R,40000000,Drama|History|Thriller,death|gay slur|homosexuality|investigation|president,70405498,Oliver Stone,Sally Kirkland,Jay O. Sanders,Cheryl Penland,English,France
+Bridge of Spies,7.6,2015,142,PG-13,40000000,Drama|History|Thriller,cia|cold war|lawyer|negotiation|spy,72306065,Steven Spielberg,Tom Hanks,Mark Rylance,Amy Ryan,English,USA
+The Count of Monte Cristo,7.7,2002,131,PG-13,35000000,Action|Adventure|Drama|Romance|Thriller,count|escape|island|revenge|sailor,54228104,Kevin Reynolds,Henry Cavill,James Frain,Michael Wincott,English,UK
+The Prestige,8.5,2006,130,PG-13,40000000,Drama|Mystery|Sci-Fi|Thriller,illusion|magician|obsession|rivalry|secret,53082743,Christopher Nolan,Christian Bale,Hugh Jackman,Scarlett Johansson,English,USA
+Apocalypto,7.8,2006,139,R,40000000,Action|Adventure|Drama|Thriller,jaguar|mayan|solar eclipse|tribe|village,50859889,Mel Gibson,Rudy Youngblood,Dalia Hernández,Jonathan Brewer,Maya,USA
+The Impossible,7.6,2012,114,PG-13,45000000,Drama|Thriller,christmas|resort|thailand|tourist|tsunami,18996755,J.A. Bayona,Naomi Watts,Geraldine Chaplin,Oaklee Pendergast,English,Spain
+Fantastic Mr. Fox,7.8,2009,87,PG,40000000,Adventure|Animation|Comedy|Crime|Family,cider|farm|farmer|fox|tale,20999103,Wes Anderson,Bill Murray,Meryl Streep,Helen McCrory,English,USA
+Amélie,8.4,2001,122,R,77000000,Comedy|Romance,cheerfulness|female protagonist|garden gnome|magical realism|waitress,33201661,Jean-Pierre Jeunet,Mathieu Kassovitz,Jamel Debbouze,Isabelle Nanty,French,France
+The Crow,7.6,1994,98,R,23000000,Action|Drama|Fantasy,back from the dead|crime boss|crow|gothic|vigilante,50693162,Alex Proyas,Michael Wincott,Bai Ling,David Patrick Kelly,English,USA
+Baahubali: The Beginning,8.4,2015,159,,18026148,Action|Adventure|Drama|Fantasy|War,ancient india|dual role|good versus evil|hindu|kingdom,6498000,S.S. Rajamouli,Tamannaah Bhatia,Anushka Shetty,Prabhas,Telugu,India
+Serenity,8,2005,119,PG-13,40000000,Action|Adventure|Sci-Fi|Thriller,alliance|cannibalism|future|operative|planet,25335935,Joss Whedon,Adam Baldwin,Sean Maher,Michael Hitchcock,English,USA
+3rd Rock from the Sun            ,7.8,,60,TV-PG,,Comedy|Family|Sci-Fi,alien|digit in title|human form|number 3 in title|talking on a rooftop,,,Joseph Gordon-Levitt,Wayne Knight,Kristen Johnston,English,USA
+The Hurricane,7.6,1999,146,R,38000000,Biography|Drama|Sport,african american|book|boxer|boxing|murder,50668906,Norman Jewison,Denzel Washington,Vincent Pastore,Deborah Kara Unger,English,USA
+The Thing,8.2,1982,109,R,15000000,Horror|Mystery|Sci-Fi,alien creature|alien life form|antarctica|isolation|paranoia,13782838,John Carpenter,Wilford Brimley,Richard Masur,David Clennon,English,USA
+Creed,7.7,2015,133,PG-13,35000000,Drama|Sport,boxing|boxing match|fight|montage|philadelphia,109712885,Ryan Coogler,Sylvester Stallone,Phylicia Rashad,Graham McTavish,English,USA
+The Town,7.6,2010,150,R,37000000,Crime|Drama|Thriller,bank manager|bank robbery|criminal gang|heist|prison,92173235,Ben Affleck,Jeremy Renner,Jon Hamm,Owen Burke,English,USA
+Rush,8.1,2013,123,R,38000000,Action|Biography|Drama|Sport,1970s|female rear nudity|formula 1|rivalry|sex with a nurse,26903709,Ron Howard,Chris Hemsworth,Olivia Wilde,Alexandra Maria Lara,English,UK
+Magnolia,8,1999,188,R,37000000,Drama,abusive father|coincidence|fictional game show|fictional quiz show|multiple storyline,22450975,Paul Thomas Anderson,Patton Oswalt,Neil Flynn,Jim Meskimen,English,USA
+Gattaca,7.8,1997,106,PG-13,36000000,Drama|Sci-Fi|Thriller,accident|future|genetics|mission|police,12339633,Andrew Niccol,Blair Underwood,Xander Berkeley,Mason Gamble,English,USA
+The Hangover,7.8,2009,108,R,35000000,Comedy,drunkenness|female nudity|hangover|hedonism|morning after,277313371,Todd Phillips,Bradley Cooper,Rob Riggle,Mike Epps,English,USA
+Batman,7.6,1989,126,PG-13,35000000,Action|Adventure,city|dc comics|gotham|pantyhose|police,251188924,Tim Burton,Michael Gough,Jack Palance,William Hootkins,English,USA
+The Blind Side,7.7,2009,129,PG-13,29000000,Biography|Drama|Sport,american football|based on true story|football star|high school football|left tackle,255950375,John Lee Hancock,Catherine Dyer,Quinton Aaron,Kim Dickens,English,USA
+True Grit,7.7,2010,110,PG-13,38000000,Adventure|Drama|Western,arkansas|murder|sheriff|texas ranger|u.s. marshal,171031347,Ethan Coen,Matt Damon,Jeff Bridges,Bruce Green,English,USA
+L.A. Confidential,8.3,1997,138,R,35000000,Crime|Drama|Mystery|Thriller,1950s|call girl|corruption|murder|police detective,64604977,Curtis Hanson,Kevin Spacey,Matt McCoy,Paul Guilfoyle,English,USA
+A Nightmare on Elm Street,7.5,1984,101,X,1800000,Horror,freddy krueger|lucid dream|serial killer|slasher|sleep deprivation,26505000,Wes Craven,Johnny Depp,Lin Shaye,Amanda Wyss,English,USA
+Saving Mr. Banks,7.5,2013,125,PG-13,35000000,Biography|Comedy|Drama|History|Music,author|disney|loss of father|reference to walt disney|suppression of emotion,83299761,John Lee Hancock,Tom Hanks,Ruth Wilson,B.J. Novak,English,USA
+Malcolm X,7.7,1992,202,PG-13,33000000,Biography|Drama|History|Romance,african american|black history|civil rights|ku klux klan|nation of islam,48169908,Spike Lee,Denzel Washington,Delroy Lindo,Al Freeman Jr.,English,USA
+Donnie Brasco,7.8,1997,147,R,35000000,Biography|Crime|Drama,fbi|mafia|money|racial slur|singer,41954997,Mike Newell,Johnny Depp,Al Pacino,Anne Heche,English,USA
+The Pianist,8.5,2002,150,R,35000000,Biography|Drama|War,ghetto|holocaust|jewish|piano|warsaw ghetto,32519322,Roman Polanski,Emilia Fox,Frank Finlay,Ed Stoppard,English,France
+Luther            ,8.6,,60,TV-MA,,Crime|Drama|Mystery|Thriller,murder|police|psychopath,,,Ruth Wilson,Indira Varma,Warren Brown,English,UK
+Blood In Blood Out,8,1993,330,R,35000000,Crime|Drama,1970s|1980s|barrio|gang war|mexican,4496583,Taylor Hackford,Delroy Lindo,Jesse Borrego,Raymond Cruz,English,USA
+Lion of the Desert,8.4,1980,156,PG,35000000,Biography|Drama|History|War,arab|general|libya|muslim|mussolini,,Moustapha Akkad,Oliver Reed,Rod Steiger,John Gielgud,English,Libya
+Biutiful,7.5,2010,148,R,,Drama,children|chinese|illegal immigrant|immigrant|male ponytail,5100937,Alejandro G. Iñárritu,Maricel Álvarez,Hanaa Bouchaib,Eduard Fernández,Spanish,Mexico
+Ponyo,7.7,2008,101,G,34000000,Adventure|Animation|Family|Fantasy,children adventure|magical realism|sea goddess|small town|tsunami,15081783,Hayao Miyazaki,Rumi Hiiragi,Yûki Amami,Yuria Nara,Japanese,Japan
+Reds,7.5,1981,195,PG,35000000,Biography|Drama|History|Romance,cold war|cold war era|interview|russia|written and directed by cast member,,Warren Beatty,Paul Sorvino,Warren Beatty,M. Emmet Walsh,English,USA
+A Few Good Men,7.6,1992,138,R,40000000,Drama|Thriller,cuba|guantanamo|lance corporal|lawyer|murder,141340178,Rob Reiner,Tom Cruise,Demi Moore,Kevin Pollak,English,USA
+Star Wars: Episode VI - Return of the Jedi,8.4,1983,134,PG,32500000,Action|Adventure|Fantasy|Sci-Fi,death star|emperor|empire|princess|rebel,309125409,Richard Marquand,Harrison Ford,Ian McDiarmid,Kenny Baker,English,USA
+The Reader,7.6,2008,124,R,32000000,Drama|Romance,love|reading|teaching oneself to read|trial|war crime,34180954,Stephen Daldry,Kate Winslet,David Kross,Susanne Lothar,English,USA
+Source Code,7.5,2011,93,PG-13,32000000,Mystery|Sci-Fi|Thriller,bomber|time|time loop|train|trapped in a time loop,54696902,Duncan Jones,Jake Gyllenhaal,Cas Anvar,Russell Peters,English,USA
+A History of Violence,7.5,2005,96,R,32000000,Crime|Drama|Thriller,bar|crotch shot|female full frontal nudity|female pubic hair|robbery,31493782,David Cronenberg,Viggo Mortensen,Kyle Schmid,William Hurt,English,USA
+Apocalypse Now,8.5,1979,289,R,31500000,Drama|War,army|green beret|insanity|jungle|vietnam,78800000,Francis Ford Coppola,Harrison Ford,Marlon Brando,Robert Duvall,English,USA
+The Grand Budapest Hotel,8.1,2014,99,R,25000000,Adventure|Comedy|Crime|Drama,first person narration|hotel|lobby boy|mentor protege relationship|painting,59073773,Wes Anderson,Bill Murray,Tom Wilkinson,F. Murray Abraham,English,USA
+Toy Story,8.3,1995,74,G,30000000,Adventure|Animation|Comedy|Family|Fantasy,claw crane|cowboy|jealousy|rivalry|toy,191796233,John Lasseter,Tom Hanks,John Ratzenberger,Jim Varney,English,USA
+Remember the Titans,7.8,2000,120,PG,30000000,Biography|Drama|Sport,american football|based on true story|head coach|high school|school,115648585,Boaz Yakin,Ryan Gosling,Denzel Washington,Ethan Suplee,English,USA
+The Hunt for Red October,7.6,1990,135,PG,30000000,Action|Adventure|Thriller,analyst|defection|navy|soviet submarine|submarine,122012643,John McTiernan,Scott Glenn,Jeffrey Jones,Courtney B. Vance,English,USA
+Se7en,8.6,1995,127,R,33000000,Crime|Drama|Mystery|Thriller,detective|police partner|serial killer|serial murder|seven deadly sins,100125340,David Fincher,Morgan Freeman,Brad Pitt,Reg E. Cathey,English,USA
+District 9,8,2009,112,R,30000000,Action|Sci-Fi|Thriller,alien|ghetto|prawn|refugee|refugee camp,115646235,Neill Blomkamp,Sharlto Copley,Jed Brophy,Jason Cope,English,South Africa
+Mystic River,8,2003,138,R,25000000,Crime|Drama|Mystery|Thriller,ballistics|detective|friend|gun|sexual abuse,90135191,Clint Eastwood,John Doman,Spencer Treat Clark,Tom Guiry,English,USA
+Million Dollar Baby,8.1,2004,132,PG-13,30000000,Drama|Sport,boxing|boxing trainer|death|suicide attempt|women boxing,100422786,Clint Eastwood,Clint Eastwood,Morgan Freeman,Mike Colter,English,USA
+The Notebook,7.9,2004,123,PG-13,29000000,Drama|Romance,class differences|letter|nursing home|second chance|summer love,64286,Nick Cassavetes,Ryan Gosling,Kevin Connolly,Gena Rowlands,English,USA
+Legends of the Fall,7.5,1994,133,R,30000000,Drama|Romance|War|Western,epic|heart|killing an animal|passion|usa,66528842,Edward Zwick,Anthony Hopkins,Brad Pitt,Julia Ormond,English,USA
+Friday Night Lights            ,8.7,,44,TV-14,,Drama|Sport,football|football coach|high school|small town|texas,,,Zach Gilford,Aimee Teegarden,Scott Porter,English,USA
+Midnight in Paris,7.7,2011,94,PG-13,17000000,Comedy|Fantasy|Romance,1920s|golden age|midnight|paris france|time travel romance,56816662,Woody Allen,Kurt Fuller,Audrey Fleurot,Nina Arianda,English,Spain
+Blow,7.6,2001,124,R,30000000,Biography|Crime|Drama,1960s|1970s|california|cocaine|wealth,52937130,Ted Demme,Johnny Depp,Ethan Suplee,Jordi Mollà,English,USA
+The Curse of the Were-Rabbit,7.5,2005,85,G,30000000,Animation|Comedy|Family|Mystery|Sci-Fi,competition|giant vegetable|pest control|stop motion animation|vegetable,56068547,Steve Box,Mark Gatiss,Geraldine McEwan,Peter Sallis,English,UK
+Atonement,7.8,2007,123,R,30000000,Drama|Mystery|Romance|War,death of sister|dying|loss of virginity|septicemia|sex,50921738,Joe Wright,Benedict Cumberbatch,Alfie Allen,Brenda Blethyn,English,UK
+Sicario,7.6,2015,121,R,30000000,Action|Crime|Drama|Mystery|Thriller,critically acclaimed|drug cartel|juarez mexico|u.s. mexico border|war on drugs,46875468,Denis Villeneuve,Edgar Arreola,Bernardo Saracino,Daniel Kaluuya,English,USA
+Southpaw,7.5,2015,124,R,30000000,Drama|Sport,boxer|boxing training|death of wife|male in shower|rage,52418902,Antoine Fuqua,Jake Gyllenhaal,50 Cent,Oona Laurence,English,USA
+Secondhand Lions,7.6,2003,111,PG,30000000,Comedy|Drama|Family,africa|eyeglasses|money|texas|veteran,41407470,Tim McCanlies,Haley Joel Osment,Robert Duvall,Emmanuelle Vaugier,English,USA
+Stranger Than Fiction,7.6,2006,113,PG-13,38000000,Comedy|Drama|Fantasy|Romance,author|fate|novelist|professor|writer,40137776,Marc Forster,Will Ferrell,Christian Stolte,Danny Rhodes,English,USA
+Midnight Run,7.6,1988,126,R,30000000,Action|Comedy|Crime|Thriller,accountant|bounty hunter|fbi|mafia|mob,38413606,Martin Brest,Robert De Niro,Yaphet Kotto,Philip Baker Hall,English,USA
+The Family            ,7.5,,60,TV-PG,,Drama|Mystery,family drama|lie|missing child|political campaign|secret,,,Zach Gilford,Joan Allen,Liam James,English,USA
+Entourage            ,8.5,,28,TV-MA,,Comedy|Drama,actor|fame|friendship between men|hollywood california|sitcom,,,Debi Mazar,Kevin Connolly,Kevin Dillon,English,USA
+Trapped            ,8.2,,511,,,Crime|Drama|Thriller,coastal town|iceland|police|snowstorm|winter storm,,,Ólafur Darri Ólafsson,Ingvar Eggert Sigurðsson,Björn Hlynur Haraldsson,Icelandic,Iceland
+Glory,7.9,1989,122,R,18000000,Drama|History|War,army|black soldier|military uniform|prejudice|u.s. civil war,26830000,Edward Zwick,Denzel Washington,Morgan Freeman,Matthew Broderick,English,USA
+Once Upon a Time in America,8.4,1984,251,R,30000000,Crime|Drama,1920s|ambiguity|childhood friend|new york|speakeasy,5300000,Sergio Leone,Robert De Niro,Burt Young,Treat Williams,English,Italy
+The Assassination of Jesse James by the Coward Robert Ford,7.5,2007,160,R,30000000,Biography|Crime|Drama|History|Western,long title|outlaw|robbery|train|train robbery,3904982,Andrew Dominik,Brad Pitt,Jeremy Renner,Sam Shepard,English,USA
+Sausage Party,7.5,2016,89,R,19000000,Adventure|Animation|Comedy|Fantasy,bread|coarse language|f word|sausage|tricked into lesbian sex,,Greg Tiernan,James Franco,Salma Hayek,Anders Holm,English,USA
+Walk the Line,7.9,2005,153,PG-13,28000000,Biography|Drama|Music|Romance,1960s|accident|concert|guitar|prison,119518352,James Mangold,Sandra Ellis Lafferty,Dallas Roberts,Tyler Hilton,English,USA
+12 Monkeys            ,7.6,,42,TV-14,,Adventure|Drama|Mystery|Sci-Fi|Thriller,epidemic|mission|paradox|plague|virus,,,Amanda Schull,Kirk Acevedo,Tom Noonan,English,USA
+Frost/Nixon,7.7,2008,122,R,35000000,Drama,american president|political drama|scandal|u.s. president|washington post the newspaper,18593156,Ron Howard,Toby Jones,Clint Howard,Oliver Platt,English,USA
+Cry Freedom,7.5,1987,147,PG,29000000,Biography|Drama|History,activist|editor|journalist|newspaper|south africa,5899797,Richard Attenborough,Denzel Washington,Kevin McNally,Penelope Wilton,English,UK
+Aladdin,8,1992,90,G,28000000,Adventure|Animation|Comedy|Family|Fantasy|Musical|Romance,arab|genie|magic|princess|reference to a thousand and one nights,217350219,Ron Clements,Robin Williams,Frank Welker,Scott Weinger,English,USA
+Straight Outta Compton,7.9,2015,167,R,28000000,Biography|Crime|Drama|History|Music,concert|gangsta rap|hip hop|nwa|rap music,161029270,F. Gary Gray,Aldis Hodge,Neil Brown Jr.,R. Marcos Taylor,English,USA
+Indiana Jones and the Temple of Doom,7.6,1984,118,PG,28000000,Action|Adventure,children|studio logo segues into film|temple|village|white dinner jacket,179870271,Steven Spielberg,Harrison Ford,Amrish Puri,Kate Capshaw,English,USA
+Die Hard,8.2,1988,131,R,28000000,Action|Thriller,christmas|christmas eve|christmas party|held at gunpoint|hostage,81350242,John McTiernan,Alan Rickman,Bruce Willis,Reginald VelJohnson,English,USA
+The Big Short,7.8,2015,130,R,28000000,Biography|Comedy|Drama|History,bank|banking|finance|fraud|mortgage,70235322,Adam McKay,Ryan Gosling,Christian Bale,Charlie Talbert,English,USA
+Miracle,7.5,2004,135,PG,28000000,Biography|Drama|History|Sport,1980s|hockey|ice hockey|olympics|soviet union,64371181,Gavin O'Connor,Eddie Cahill,Noah Emmerich,Kenneth Mitchell,English,USA
+The Royal Tenenbaums,7.6,2001,110,R,21000000,Comedy|Drama,brother brother relationship|family relationships|father daughter relationship|genius|thrown through a window,52353636,Wes Anderson,Bill Murray,Anjelica Huston,Seymour Cassel,English,USA
+Kick-Ass,7.7,2010,117,R,30000000,Action|Comedy,comic book|female killer|hit in the crotch|narrated by character|reference to batman,48043505,Matthew Vaughn,Elizabeth McGovern,Deborah Twiss,Michael Rispoli,English,UK
+Pride & Prejudice,7.8,2005,135,PG,28000000,Drama|Romance,bachelor|england|gentleman|georgian|love,38372662,Joe Wright,Talulah Riley,Brenda Blethyn,Simon Woods,English,France
+Blade Runner,8.2,1982,117,R,28000000,Sci-Fi|Thriller,artificial intelligence|human android relationship|megacorporation|police detective|tech noir,27000000,Ridley Scott,Harrison Ford,Sean Young,M. Emmet Walsh,English,USA
+Winged Migration,8,2001,81,G,160000000,Documentary,arctic|bad weather|flight|migration|ocean,10762178,Jacques Perrin,Jacques Perrin,Philippe Labro,,English,France
+Limitless            ,7.9,,42,TV-14,,Crime|Drama|Sci-Fi|Thriller,brain capacity|fbi|fictional drug|intelligence|taking a pill,,,Colin Salmon,Mary Elizabeth Mastrantonio,Jake McDorman,English,USA
+The Jungle Book,7.8,2016,106,PG,175000000,Adventure|Drama|Family|Fantasy,fire|jungle|remake|tiger|wolf,362645141,Jon Favreau,Scarlett Johansson,Bill Murray,Garry Shandling,English,UK
+The Blues Brothers,7.9,1980,148,R,27000000,Action|Comedy|Crime|Music,band|catholic|money|parolee|prison,54200000,John Landis,John Belushi,Aretha Franklin,Ray Charles,English,USA
+Lucky Number Slevin,7.8,2006,110,R,27000000,Crime|Drama|Mystery|Thriller,coroner|death|gay son|love|mistaken identity,22494487,Paul McGuigan,Bruce Willis,Morgan Freeman,Dorian Missick,English,Germany
+The Right Stuff,7.9,1983,193,PG,27000000,Adventure|Drama|History,astronaut|sound barrier|space program|u.s. air force|u.s. space program,21500000,Philip Kaufman,Dennis Quaid,Scott Glenn,Sam Shepard,English,USA
+Dark City,7.7,1998,111,R,27000000,Action|Drama|Fantasy|Mystery|Sci-Fi|Thriller,memory|murder|neo noir|retrofuturism|tech noir,14337579,Alex Proyas,Rufus Sewell,William Hurt,Bruce Spence,English,Australia
+The Honeymooners            ,8.7,,30,,,Comedy|Family,1950s|bus driver|money scheme|poverty|sewer,,,Jackie Gleason,Art Carney,Joyce Randolph,English,USA
+Open Range,7.5,2003,139,R,22000000,Drama|Romance|Western,boss|cattle|cowboy|rancher|violence,58328680,Kevin Costner,Robert Duvall,Michael Jeter,Julian Richings,English,USA
+It's Always Sunny in Philadelphia            ,8.8,,22,TV-MA,,Comedy,alcohol|bad taste humour|crude humor|loser|self obsession,,,Rob McElhenney,Kaitlin Olson,Glenn Howerton,English,USA
+O Brother Where Art Thou?,7.8,2000,107,PG-13,26000000,Adventure|Comedy|Crime|Music,baby|bank|blind prophet|convict|sirens,45506619,Joel Coen,Holly Hunter,Tim Blake Nelson,Daniel von Bargen,English,UK
+The Constant Gardener,7.5,2005,129,R,15000000,Drama|Mystery|Romance|Thriller,death|diplomat|doctor|kenya|murder,33565375,Fernando Meirelles,Archie Panjabi,Danny Huston,Donald Sumpter,English,UK
+Rain Man,8,1988,133,R,25000000,Drama,buick|convertible|last will and testament|savant|travel,172825435,Barry Levinson,Tom Cruise,Valeria Golino,Beth Grant,English,USA
+Gran Torino,8.2,2008,116,R,33000000,Drama,gang|gang rape|hmong|teenager|widower,148085755,Clint Eastwood,Clint Eastwood,Dreama Walker,Ahney Her,English,USA
+Taken,7.9,2008,93,PG-13,25000000,Action|Thriller,agent|cia|france|rescue|teenage abduction,145000989,Pierre Morel,Liam Neeson,Holly Valance,Xander Berkeley,English,France
+Schindler's List,8.9,1993,185,R,22000000,Biography|Drama|History,german|german soldier|jew|jewish|nazi,96067179,Steven Spielberg,Liam Neeson,Embeth Davidtz,Caroline Goodall,English,USA
+The Help,8.1,2011,146,PG-13,25000000,Drama,black servant|chocolate pie|jackson mississippi|maid|writing a novel,169705587,Tate Taylor,Emma Stone,Bryce Dallas Howard,Mike Vogel,English,USA
+The Untouchables,7.9,1987,119,R,25000000,Crime|Drama|Thriller,corrupt judge|tax evasion|tough cop|white suit|year 1930,76270454,Brian De Palma,Robert De Niro,Billy Drago,Charles Martin Smith,English,USA
+No Country for Old Men,8.1,2007,122,R,25000000,Crime|Drama|Thriller,coin toss|desert|sheriff|texas|tracking device,74273505,Ethan Coen,Kelly Macdonald,Stephen Root,Barry Corbin,English,USA
+Tombstone,7.8,1993,134,R,25000000,Action|Biography|Drama|History|Romance|Western,cigar smoking|cowboy|duel|outlaw|tombstone arizona,56505065,George P. Cosmatos,Michael Biehn,Dana Delany,Powers Boothe,English,USA
+The Omen,7.6,1976,107,R,2800000,Fantasy|Horror|Mystery,ambassador|death|hospital|priest|stillborn child,,Richard Donner,Lee Remick,Patrick Troughton,Billie Whitelaw,English,UK
+Finding Neverland,7.8,2004,101,PG,25000000,Biography|Drama|Family,boy|inspiration|reference to peter pan|stage play|widow,51676606,Marc Forster,Johnny Depp,Kate Winslet,Kelly Macdonald,English,USA
+Goodfellas,8.7,1990,146,R,25000000,Biography|Crime|Drama,betrayal|gangster|mafia|organized crime|robbery,46836394,Martin Scorsese,Robert De Niro,Mike Starr,Paul Sorvino,English,USA
+Scarface,8.3,1983,142,R,25000000,Crime|Drama,assassination attempt|capitalism|cocaine|cuban american|cuban refugee,44700000,Brian De Palma,Al Pacino,F. Murray Abraham,Mary Elizabeth Mastrantonio,English,USA
+The Last Emperor,7.8,1987,219,PG-13,23000000,Biography|Drama|History,abdication|china|emperor|forbidden city|republic,43984230,Bernardo Bertolucci,Cary-Hiroyuki Tagawa,Joan Chen,Victor Wong,English,China
+There Will Be Blood,8.1,2007,158,R,25000000,Drama,alcoholic|alcoholism|money|oil|turn of the century,40218903,Paul Thomas Anderson,Jim Meskimen,Paul F. Tompkins,Kevin Breznahan,English,USA
+The Hours,7.6,2002,114,PG-13,25000000,Drama|Romance,housewife|lesbian|novel|party|reading,41597830,Stephen Daldry,Meryl Streep,Stephen Dillane,Miranda Richardson,English,USA
+August Rush,7.5,2007,114,PG,30000000,Drama|Music,baby|cellist|genius|prodigy|rhapsody,31655091,Kirsten Sheridan,Robin Williams,Aaron Staton,Marian Seldes,English,USA
+Elizabeth,7.5,1998,124,R,25000000,Biography|Drama|History,16th century|british royal family|catholic|queen|queen elizabeth i,30012990,Shekhar Kapur,Fanny Ardant,John Gielgud,Eric Cantona,English,UK
+Tora! Tora! Tora!,7.5,1970,160,G,25000000,Action|Drama|History|War,attack|hawaii|navy|pearl harbor|u.s. navy,14500000,Richard Fleischer,Joseph Cotten,Richard Anderson,James Whitmore,English,Japan
+The Shawshank Redemption,9.3,1994,142,R,25000000,Crime|Drama,escape from prison|first person narration|prison|prison cell search|wrongful imprisonment,28341469,Frank Darabont,Morgan Freeman,Jeffrey DeMunn,Bob Gunton,English,USA
+Eddie the Eagle,7.5,2016,106,PG-13,23000000,Biography|Comedy|Drama|Sport,1988 winter olympics|coach|ski jumper|winter|winter olympics,15785632,Dexter Fletcher,Hugh Jackman,Taron Egerton,Tim McInnerny,English,UK
+Shaun the Sheep            ,8.3,,7,TV-G,,Animation|Comedy|Family,farmer|mischief|no dialog|sheep|sheepdog,,,Justin Fletcher,John Sparkes,Kate Harbour,English,UK
+The Greatest Game Ever Played,7.5,2005,120,PG,,Drama|History|Sport,champion|golf tournament|golfer|nostalgia|orchestral music score,15331289,Bill Paxton,Stephen Dillane,Matthew Knight,Amanda Tilson,English,USA
+Warrior,8.2,2011,140,PG-13,25000000,Drama|Sport,alcoholic|mixed martial arts|return home|tournament|underdog,13651662,Gavin O'Connor,Tom Hardy,Frank Grillo,Kevin Dunn,English,USA
+Gettysburg,7.7,1993,271,PG,25000000,Drama|History|War,american civil war|battle|blood splatter|civil war|irish american,10769960,Ron Maxwell,Tom Berenger,William Morgan Sheppard,James Patrick Stuart,English,USA
+The World's Fastest Indian,7.9,2005,127,PG-13,25000000,Biography|Drama|Sport,mortgage|motorcycle|speed|trailer|utah,5128124,Roger Donaldson,Anthony Hopkins,Antony Starr,Craig Hall,English,New Zealand
+The Best Offer,7.8,2013,131,R,13500000,Crime|Drama|Mystery|Romance,antique|art|heiress|older man younger woman relationship|plot twist,85433,Giuseppe Tornatore,Jim Sturgess,Sean Buchanan,Liya Kebede,English,Italy
+Dangerous Liaisons,7.7,1988,119,R,14000000,Drama|Romance,catholic|corruption|emotional abuse|france|seduction,34700000,Stephen Frears,Keanu Reeves,Peter Capaldi,Swoosie Kurtz,English,USA
+The Fisher King,7.6,1991,137,R,24000000,Comedy|Drama|Fantasy,friendship|holy grail|massacre|redemption|video store,41895491,Terry Gilliam,Jeff Bridges,David Hyde Pierce,Harry Shearer,English,USA
+Howl's Moving Castle,8.2,2004,119,PG,24000000,Adventure|Animation|Family|Fantasy,anime|castle|demon|steampunk|witch,4710455,Hayao Miyazaki,Christian Bale,Blythe Danner,Jean Simmons,Japanese,Japan
+Zombieland,7.7,2009,88,R,23600000,Adventure|Comedy|Horror|Sci-Fi,amusement park|on the road|zombie|zombie apocalypse|zombie spoof,75590286,Ruben Fleischer,Emma Stone,Bill Murray,Derek Graf,English,USA
+Star Wars: Episode V - The Empire Strikes Back,8.8,1980,127,PG,18000000,Action|Adventure|Fantasy|Sci-Fi,duel|famous twist|rebel|rescue|snowy landscape,290158751,Irvin Kershner,Harrison Ford,Kenny Baker,Anthony Daniels,English,USA
+Her,8,2013,126,R,23000000,Drama|Romance|Sci-Fi,divorce|female frontal nudity|future|loneliness|operating system,25556065,Spike Jonze,Scarlett Johansson,Brian Johnson,Matt Letscher,English,USA
+Eddie the Eagle,7.5,2016,106,PG-13,23000000,Biography|Comedy|Drama|Sport,1988 winter olympics|coach|ski jumper|winter|winter olympics,15785632,Dexter Fletcher,Hugh Jackman,Taron Egerton,Tim McInnerny,English,UK
+The Bridges of Madison County,7.5,1995,135,PG-13,35000000,Drama|Romance,1960s|bridge|housewife|love|photographer,70960517,Clint Eastwood,Clint Eastwood,Meryl Streep,Debra Monk,English,USA
+Gandhi,8.1,1982,240,PG,22000000,Biography|Drama|History,british|india|indian|muslim|pakistan,,Richard Attenborough,Candice Bergen,Amrish Puri,John Gielgud,English,UK
+I Am Sam,7.6,2001,132,PG-13,22000000,Drama,child custody|custody battle|disability|mentally impaired man|single father,40270895,Jessie Nelson,Dianne Wiest,Loretta Devine,Richard Schiff,English,USA
+Black Book,7.8,2006,145,R,21000000,Drama|Thriller|War,boat|escape|hiding|nazi|resistance,4398392,Paul Verhoeven,Michiel Huisman,Sebastian Koch,Christian Berkel,Dutch,Netherlands
+Joyeux Noel,7.8,2005,116,PG-13,22000000,Drama|History|Music|Romance|War,christmas|no man's land|soldier|trench|world war one,1050445,Christian Carion,Gary Lewis,Dany Boon,Ian Richardson,French,France
+Sorcerer,7.7,1977,92,PG,12000000,Adventure|Drama|Thriller,fire|jungle|money|oil drilling|truck,,William Friedkin,Roy Scheider,Joe Spinell,Amidou,English,USA
+South Park: Bigger Longer & Uncut,7.8,1999,81,R,21000000,Animation|Comedy|Fantasy|Musical,boy|canada|hell|misunderstanding|refrence to liza minnelli,52008288,Trey Parker,Minnie Driver,Eric Idle,Trey Parker,English,USA
+Silver Linings Playbook,7.8,2012,122,R,21000000,Comedy|Drama|Romance,adulterous wife|bipolar disorder|obsessive compulsive personality disorder|unhappy marriage|widow,132088910,David O. Russell,Jennifer Lawrence,Robert De Niro,Bradley Cooper,English,USA
+Freedom Writers,7.5,2007,123,PG-13,21000000,Biography|Crime|Drama,gang violence|high school|journal|marriage|teacher,36581633,Richard LaGravenese,Hunter Parrish,Scott Glenn,Imelda Staunton,English,Germany
+Raiders of the Lost Ark,8.5,1981,115,PG,18000000,Action|Adventure,archeological dig|archeologist|ark of the covenant|egypt|nazi,242374454,Steven Spielberg,Harrison Ford,Karen Allen,William Hootkins,English,USA
+Close Encounters of the Third Kind,7.7,1977,135,PG,19400870,Drama|Sci-Fi,alien|close encounter of the third kind|mothership|ufo|vision,128300000,Steven Spielberg,Bob Balaban,Teri Garr,Melinda Dillon,English,USA
+The Silence of the Lambs,8.6,1991,138,R,19000000,Crime|Drama|Horror|Thriller,case file|fbi agent|psycho thriller|psychopath|serial killer,130727000,Jonathan Demme,Anthony Hopkins,Scott Glenn,Anthony Heald,English,USA
+The Conjuring,7.5,2013,112,R,20000000,Horror|Mystery|Thriller,based on true story|farmhouse|paranormal investigator|rhode island|supernatural power,137387272,James Wan,Mackenzie Foy,Lili Taylor,Hayley McFarland,English,USA
+12 Years a Slave,8.1,2013,134,R,20000000,Biography|Drama|History,racism|separation from family|social injustice|torture|whipping,56667870,Steve McQueen,Quvenzhané Wallis,Scoot McNairy,Taran Killam,English,USA
+Edward Scissorhands,7.9,1990,105,PG-13,20000000,Fantasy|Romance,creation|inventor|magical realism|scissors|suburb,56362352,Tim Burton,Johnny Depp,Dianne Wiest,Conchata Ferrell,English,USA
+Me Before You,7.6,2016,110,PG-13,20000000,Drama|Romance,accident|caretaker|economic hardship|quadriplegic|wheelchair,56154094,Thea Sharrock,Sam Claflin,Emilia Clarke,Brendan Coyle,English,UK
+The French Connection,7.8,1971,104,R,1800000,Action|Crime|Drama|Thriller,crime boss|drug smuggling|heroin|mafia boss|organized crime,,William Friedkin,Roy Scheider,Fernando Rey,Tony Lo Bianco,English,USA
+Selma,7.5,2014,128,PG-13,20000000,Biography|Drama|History,civil rights|courage|protest|selma alabama|u.s. politics,52066000,Ava DuVernay,David Oyelowo,Tom Wilkinson,Oprah Winfrey,English,UK
+Spotlight,8.1,2015,128,R,20000000,Biography|Crime|Drama|History,cover up|investigation|journalist|newspaper|sexual abuse,44988180,Tom McCarthy,Billy Crudup,Jamey Sheridan,Brian d'Arcy James,English,USA
+Babel,7.5,2006,143,R,25000000,Drama,american|destiny|mexican border|multiple perspectives|muslim,34300771,Alejandro G. Iñárritu,Brad Pitt,Harriet Walter,Dermot Crowley,English,France
+Doubt,7.5,2008,104,PG-13,20000000,Drama|Mystery,boy|catholic|nun|priest|student,33422556,John Patrick Shanley,Philip Seymour Hoffman,Meryl Streep,Carrie Preston,English,USA
+Milk,7.6,2008,128,R,20000000,Biography|Drama|History,california|gay|gay activist|gay pickup|gay rights,31838002,Gus Van Sant,James Franco,Denis O'Hare,Lucas Grabeel,English,USA
+High Fidelity,7.6,2000,113,R,20000000,Comedy|Drama|Music|Romance,employer employee relationship|record store|store|thirty something|vinyl,27277055,Stephen Frears,Drake Bell,Lili Taylor,Lisa Bonet,English,UK
+Eternal Sunshine of the Spotless Mind,8.3,2004,108,R,20000000,Drama|Fantasy|Romance|Sci-Fi,borderline personality disorder|loneliness|memory|playing against type|retrograde narrative,34126138,Michel Gondry,Kate Winslet,Kirsten Dunst,Tom Wilkinson,English,USA
+Psycho,8.5,1960,108,R,806947,Horror|Mystery|Thriller,money|motel|rain|shower|theft,32000000,Alfred Hitchcock,Janet Leigh,Vera Miles,John Gavin,English,USA
+Reign Over Me,7.5,2007,124,R,20000000,Drama,college|depression|grief|mental breakdown|post september 11 2001,19661987,Mike Binder,Adam Sandler,Don Cheadle,John de Lancie,English,USA
+Into the Wild,8.2,2007,148,R,15000000,Adventure|Biography|Drama,alaska|based on true story|male nudity|self discovery|wilderness,18352454,Sean Penn,Kristen Stewart,William Hurt,Hal Holbrook,English,USA
+Kung Fu Hustle,7.8,2004,99,R,20000000,Action|Comedy|Crime|Fantasy,1940s|axe|china|gang|sign language,17104669,Stephen Chow,Shengyi Huang,Chi Ling Chiu,Qiu Yuen,Cantonese,Hong Kong
+The Kite Runner,7.6,2007,128,PG-13,20000000,Drama,afghanistan|based on novel|boy|friend|kite,15797907,Marc Forster,Mustafa Haidari,Shaun Toub,Khalid Abdalla,Dari,USA
+21 Grams,7.7,2003,124,R,20000000,Drama,accident|faith|love|mathematician|nonlinear timeline,16248701,Alejandro G. Iñárritu,Naomi Watts,Eddie Marsan,Danny Huston,English,USA
+Bullets Over Broadway,7.5,1994,98,R,20000000,Comedy|Crime,actress|bodyguard|new york city|play|playwright,13383737,Woody Allen,Jim Broadbent,Chazz Palminteri,Dianne Wiest,English,USA
+Perception            ,7.5,,42,TV-14,,Crime|Drama|Mystery|Thriller,,,,LeVar Burton,Eric McCormack,Scott Wolf,English,USA
+Synecdoche New York,7.5,2008,124,R,21000000,Comedy|Drama|Romance,actress|director|play|theatre director|warehouse,3081925,Charlie Kaufman,Philip Seymour Hoffman,Jennifer Jason Leigh,Samantha Morton,English,USA
+Princess Mononoke,8.4,1997,134,PG-13,2400000000,Adventure|Animation|Fantasy,anime|cult film|forest|princess|studio ghibli,2298191,Hayao Miyazaki,Minnie Driver,Jada Pinkett Smith,Billy Crudup,Japanese,Japan
+Equilibrium,7.5,2002,107,R,20000000,Action|Drama|Sci-Fi|Thriller,cleric|dystopia|fascist|law|neo noir,1190018,Kurt Wimmer,Christian Bale,Emily Watson,Sean Pertwee,English,USA
+The Painted Veil,7.5,2006,125,PG-13,19400000,Drama|Romance,china|cholera|epidemic|love|marriage,8047690,John Curran,Toby Jones,Sally Hawkins,Alan David,Mandarin,China
+Dances with Wolves,8,1990,236,PG-13,22000000,Adventure|Drama|Western,friendship|frontier|honor|outpost|soldier,184208848,Kevin Costner,Mary McDonnell,Michael Spears,Maury Chaykin,English,USA
+The Shining,8.4,1980,146,R,19000000,Drama|Horror,breaking down a door|haunted hotel|identical twins|labyrinth|twin sisters,,Stanley Kubrick,Scatman Crothers,Shelley Duvall,Joe Turkel,English,USA
+Back to the Future,8.5,1985,116,PG,19000000,Adventure|Comedy|Sci-Fi,clock tower|delorean|future|time travel|time travel comedy,210609762,Robert Zemeckis,Lea Thompson,Thomas F. Wilson,J.J. Cohen,English,USA
+Spirited Away,8.6,2001,125,PG,19000000,Adventure|Animation|Family|Fantasy,anime|bathhouse|pig|spirit|work,10049886,Hayao Miyazaki,Bunta Sugawara,Ryûnosuke Kamiki,Miyu Irino,Japanese,Japan
+The Book Thief,7.6,2013,131,PG-13,19000000,Drama|War,basement|book|girl|library|track,21483154,Brian Percival,Emily Watson,Sophie Nélisse,Roger Allam,English,USA
+Indignation,7.8,2016,110,R,,Drama,based on novel,560512,James Schamus,Logan Lerman,Sarah Gadon,Tracy Letts,Hebrew,USA
+Adaptation.,7.7,2002,81,R,19000000,Comedy|Drama,book|orchid|screenwriter|thief|twin,22245861,Spike Jonze,Nicolas Cage,Meryl Streep,Roger Willie,English,USA
+Fear and Loathing in Las Vegas,7.7,1998,118,R,18500000,Adventure|Comedy|Drama,american dream|convertible|drugs|journalist|lawyer,10562387,Terry Gilliam,Johnny Depp,Michael Jeter,Ellen Barkin,English,USA
+Predator,7.8,1987,107,R,15000000,Action|Horror|Sci-Fi,box office hit|commando|death of friend|jungle|severed arm,59735548,John McTiernan,Shane Black,Bill Duke,Carl Weathers,English,USA
+Amadeus,8.3,1984,180,R,18000000,Biography|Drama|History|Music,1800s|classical composer|composer|first person narration|opera,51600000,Milos Forman,Jeffrey Jones,F. Murray Abraham,Tom Hulce,English,USA
+The O.C.            ,7.5,,44,TV-PG,,Comedy|Drama|Romance,california|lawyer|love|orange county california|wealth,,,Peter Gallagher,Melinda Clarke,Tate Donovan,English,USA
+Birdman or (The Unexpected Virtue of Ignorance),7.8,2014,119,R,18000000,Comedy|Drama|Romance,actor|artist|broadway play|replacement|stage,42335698,Alejandro G. Iñárritu,Emma Stone,Naomi Watts,Merritt Wever,English,USA
+United 93,7.6,2006,111,R,15000000,Drama|History|Thriller,flight|passenger|plane|september 11 2001|terrorist,31471430,Paul Greengrass,Christian Clemenson,David Alan Basche,Susan Blommaert,English,USA
+Glory,7.9,1989,122,R,18000000,Drama|History|War,army|black soldier|military uniform|prejudice|u.s. civil war,26830000,Edward Zwick,Denzel Washington,Morgan Freeman,Matthew Broderick,English,USA
+Raging Bull,8.3,1980,121,R,18000000,Biography|Drama|Sport,boxing|domestic violence|hot temper|jealousy|rage,45250,Martin Scorsese,Robert De Niro,Cathy Moriarty,Frank Vincent,English,USA
+127 Hours,7.6,2010,94,R,18000000,Adventure|Biography|Drama|Thriller,alone|aron ralston|based on autobiography|canyon|survival,18329466,Danny Boyle,James Franco,Treat Williams,Kate Burton,English,USA
+Life as a House,7.5,2001,125,R,18000000,Drama,cancer|construction|house|house construction|neighbor,15561627,Irwin Winkler,Ian Somerhalder,Hayden Christensen,Kristin Scott Thomas,English,USA
+The Ice Storm,7.5,1997,112,R,18000000,Drama,ice|ice storm|storm|thanksgiving|virgin,7837632,Ang Lee,Joan Allen,Kate Burton,Henry Czerny,English,USA
+Ed Wood,7.9,1994,127,R,18000000,Biography|Comedy|Drama,1950s|director|friend|friendship|transvestism,5887457,Tim Burton,Johnny Depp,Bill Murray,Martin Landau,English,USA
+Hamlet,7.8,1996,150,PG-13,18000000,Drama,classic literature|denmark|funeral|madness|prince,4414535,Kenneth Branagh,Julie Christie,Brian Blessed,Richard Briers,English,UK
+The White Ribbon,7.8,2009,144,R,12000000,Drama|Mystery,children|doctor|mysterious event|pastor|small village,2222647,Michael Haneke,Ulrich Tukur,Burghart Klaußner,Leonie Benesch,German,Germany
+Carlos            ,7.7,,334,Not Rated,,Biography|Crime|Drama|Thriller,opec|pubic hair|revolutionary|terrorism|true crime,145118,,Edgar Ramírez,Nora von Waldstätten,Katharina Schüttler,English,France
+Superbad,7.6,2007,119,R,20000000,Comedy,black comedy|bromance|party|school|teen comedy,121463226,Greg Mottola,Emma Stone,Joe Lo Truglio,Kevin Corrigan,English,USA
+Hotel Rwanda,8.1,2004,121,PG-13,17500000,Drama|History|War,atrocity|central africa|ethnic warfare|united nations peace keeping force|united nations soldier,23472900,Terry George,Don Cheadle,Sophie Okonedo,Hakeem Kae-Kazim,English,UK
+The Others,7.6,2001,101,PG-13,17000000,Fantasy|Horror|Thriller,curtain|haunting|mansion|mute|xeroderma pigmentosum,96471845,Alejandro Amenábar,Fionnula Flanagan,Elaine Cassidy,Eric Sykes,English,USA
+Aliens,8.4,1986,154,R,18500000,Action|Adventure|Sci-Fi,alien|human versus alien|monster|rescue mission|space marine,85200000,James Cameron,Michael Biehn,Carrie Henn,Jenette Goldstein,English,USA
+My Fair Lady,7.9,1964,170,Approved,17000000,Drama|Family|Musical|Romance,colonel|flower girl|professor|street|wager,72000000,George Cukor,Jeremy Brett,Rex Harrison,Theodore Bikel,English,USA
+Sideways,7.5,2004,126,R,12000000,Adventure|Comedy|Drama|Romance,actor|california|teacher|wine|writer,71502303,Alexander Payne,Virginia Madsen,Patrick Gallagher,M.C. Gainey,English,USA
+Halloween,7.9,1978,101,R,300000,Horror|Thriller,halloween|masked killer|michael myers|slasher|trick or treat,47000000,John Carpenter,Jamie Lee Curtis,Donald Pleasence,P.J. Soles,English,USA
+Hero,7.9,2002,80,PG-13,31000000,Action|Adventure|History,china|flying|king|palace|sword,84961,Yimou Zhang,Jet Li,Tony Chiu Wai Leung,Maggie Cheung,Mandarin,China
+A Simple Plan,7.5,1998,121,R,17000000,Crime|Drama|Thriller,bag of money|found money|minnesota|screenplay adapted by author|snow,16311763,Sam Raimi,Gary Cole,Bridget Fonda,Chelcie Ross,English,UK
+The Illusionist,7.6,2006,110,PG-13,16000000,Drama|Mystery|Romance|Thriller,duchess|illusionist|magician|prince|supernatural power,39825798,Neil Burger,Rufus Sewell,Eddie Marsan,Jake Wood,English,USA
+The Illusionist,7.6,2006,110,PG-13,16000000,Drama|Mystery|Romance|Thriller,duchess|illusionist|magician|prince|supernatural power,39825798,Neil Burger,Rufus Sewell,Eddie Marsan,Jake Wood,English,USA
+Sense and Sensibility,7.7,1995,136,PG,16500000,Drama|Romance,1810s|female protagonist|horseback riding|inheritance|three word title,42700000,Ang Lee,Alan Rickman,Kate Winslet,Tom Wilkinson,English,USA
+House of Sand and Fog,7.6,2003,126,R,15000000,Drama,auction|home|house|iranian|marriage,13005485,Vadim Perelman,Frances Fisher,Kim Dickens,Ron Eldard,English,USA
+Dead Poets Society,8,1989,128,PG,16400000,Comedy|Drama,education|english teacher|poet|professor|student,95860116,Peter Weir,Robin Williams,Josh Charles,Kurtwood Smith,English,USA
+When Harry Met Sally...,7.6,1989,89,R,16000000,Comedy|Drama|Romance,friendship|love|male female friendship|new york|sex,92823600,Rob Reiner,Bruno Kirby,Gretchen Palmer,Harley Jane Kozak,English,USA
+The Verdict,7.8,1982,129,R,16000000,Drama,archdiocese|court|hospital|lawyer|malpractice,54000000,Sidney Lumet,Charlotte Rampling,James Mason,Jack Warden,English,USA
+The Artist,8,2011,100,PG-13,15000000,Comedy|Drama|Romance,1920s|jack russell terrier|modern silent movie|movie star|movie studio,44667095,Michel Hazanavicius,Bérénice Bejo,Ed Lauter,Beth Grant,English,France
+Moonrise Kingdom,7.8,2012,94,PG-13,16000000,Adventure|Comedy|Drama|Romance,1960s|boy scouts|boy scouts camp|coming of age|young love,45507053,Wes Anderson,Bruce Willis,Bill Murray,Bob Balaban,English,USA
+Pan's Labyrinth,8.2,2006,112,R,13500000,Drama|Fantasy|War,fairy|fairy tale|faun|princess|spain,37623143,Guillermo del Toro,Ivana Baquero,Maribel Verdú,Sergi López,Spanish,Spain
+Hot Fuzz,7.9,2007,121,R,8000000,Action|Comedy|Mystery,accident|conspiracy|police|police officer|village,23618786,Edgar Wright,Bill Bailey,Joe Cornish,Billie Whitelaw,English,UK
+Radio Days,7.6,1987,88,PG,16000000,Comedy,beach|cigarette girl|radio|woman holding a baby|working class,14792779,Woody Allen,Mike Starr,Don Pardo,Julie Kavner,English,USA
+Philadelphia,7.7,1993,125,PG-13,26000000,Drama,aids|city name in title|gay|homophobia|lawyer,77324422,Jonathan Demme,Denzel Washington,Tom Hanks,Jason Robards,English,USA
+Hachi: A Dog's Tale,8.1,2009,93,G,16000000,Drama|Family,dog|human animal relationship|japanese|loyalty|waiting,,Lasse Hallström,Cary-Hiroyuki Tagawa,Sarah Roemer,Joan Allen,English,USA
+Lilyhammer            ,8.1,,45,TV-MA,34000000,Comedy|Crime|Drama,mafia|mob|norway|steve|van,,,Steven Van Zandt,Trond Fausa,Tommy Karlsen,English,Norway
+Home Alone,7.5,1990,103,PG,18000000,Comedy|Family,airport|child protagonist|child swearing|christmas|home alone,285761243,Chris Columbus,Macaulay Culkin,Devin Ratray,Catherine O'Hara,English,USA
+Crouching Tiger Hidden Dragon,7.9,2000,120,PG-13,15000000,Action|Drama|Romance,bare midriff|china|magical realism|martial arts|sword,128067808,Ang Lee,Chen Chang,Pei-Pei Cheng,Sihung Lung,Mandarin,Taiwan
+American Beauty,8.4,1999,122,R,15000000,Drama,domestic violence|drug dealer|homosexuality|midlife crisis|unfaithfulness,130058047,Sam Mendes,Kevin Spacey,Peter Gallagher,Ara Celi,English,USA
+The King's Speech,8,2010,118,R,15000000,Biography|Drama|History|Romance,king|king george vi|speech|speech therapist|throne,138795342,Tom Hooper,Colin Firth,Jennifer Ehle,Derek Jacobi,English,UK
+The Color Purple,7.8,1985,154,PG-13,15000000,Drama,book strap|girl|racial discrimination|racial tension|stereotype,94175854,Steven Spielberg,Oprah Winfrey,Rae Dawn Chong,Dana Ivey,English,USA
+The Imitation Game,8.1,2014,114,PG-13,14000000,Biography|Drama|Thriller|War,crossword puzzle|cryptography|enigma code|gay lead character|world war two,91121452,Morten Tyldum,Benedict Cumberbatch,Rory Kinnear,Allen Leech,English,UK
+Coal Miner's Daughter,7.5,1980,124,PG,,Biography|Drama|Music|Musical,country music|kissing while having sex|poverty|singer|title based on song,79900000,Michael Apted,Sissy Spacek,Beverly D'Angelo,Levon Helm,English,USA
+Halloween,7.9,1978,101,R,300000,Horror|Thriller,halloween|masked killer|michael myers|slasher|trick or treat,47000000,John Carpenter,Jamie Lee Curtis,Donald Pleasence,P.J. Soles,English,USA
+Beetlejuice,7.5,1988,92,PG,15000000,Comedy|Fantasy,attic|ghost|surrealism|teenage girl|yuppie,73326666,Tim Burton,Catherine O'Hara,Jeffrey Jones,Glenn Shadix,English,USA
+The Deer Hunter,8.2,1978,183,R,15000000,Drama|War,escape|friend|party|pittsburgh steelers|vietnam,,Michael Cimino,Robert De Niro,Meryl Streep,John Savage,English,UK
+End of Watch,7.7,2012,109,R,7000000,Crime|Drama|Thriller,lapd|police|police officer|south central los angeles|street gang,40983001,David Ayer,Jake Gyllenhaal,Anna Kendrick,America Ferrera,English,USA
+The Theory of Everything,7.7,2014,123,PG-13,15000000,Biography|Drama|Romance,based on memoir|cambridge university|husband wife relationship|lou gehrig's disease|physicist,35887263,James Marsh,Eddie Redmayne,Emily Watson,Simon McBurney,English,UK
+Lawrence of Arabia,8.4,1962,227,PG,15000000,Adventure|Biography|Drama|History|War,arab|british military|desert|ottoman empire|t.e. lawrence,6000000,David Lean,Claude Rains,José Ferrer,Jack Hawkins,English,UK
+The Princess Bride,8.1,1987,98,PG,16000000,Adventure|Family|Fantasy|Romance,fairy tale|giant|pirate|princess|true love,30857814,Rob Reiner,Robin Wright,Carol Kane,André the Giant,English,USA
+The Great Debaters,7.6,2007,126,PG-13,15000000,Biography|Drama,college|debate|student|texas|wiley college,30226144,Denzel Washington,Denzel Washington,Jurnee Smollett-Bell,John Heard,English,USA
+Drive,7.8,2011,100,R,15000000,Crime|Drama,kissing in an elevator|mythical hero|neo noir|protective male|silent protagonist,35054909,Nicolas Winding Refn,Ryan Gosling,Albert Brooks,Russ Tamblyn,English,USA
+Match Point,7.7,2005,119,R,15000000,Drama|Romance|Thriller,extramarital affair|infidelity|irony of fate|surprise ending|tennis,23089926,Woody Allen,Scarlett Johansson,Mark Gatiss,Penelope Wilton,English,UK
+The Remains of the Day,7.9,1993,134,PG,11500000,Drama|Romance,butler|housekeeper|manor|servant|service,22954968,James Ivory,Anthony Hopkins,Peter Vaughan,Ben Chaplin,English,UK
+Boogie Nights,7.9,1997,155,R,15000000,Drama,1970s|adult entertainment industry|nightclub|porn industry|san fernando valley california,26384919,Paul Thomas Anderson,Don Cheadle,Nicole Ari Parker,Nina Hartley,English,USA
+The Hurt Locker,7.6,2008,131,R,15000000,Drama|History|Thriller|War,army|bomb|dangerous job|death|iraq,15700000,Kathryn Bigelow,Jeremy Renner,Christian Camargo,Brian Geraghty,English,USA
+U2 3D,8.4,2007,85,G,,Documentary|Music,3d in title|digit in title|rock band|rocker|u2,10353690,Catherine Owens,Bono,The Edge,Larry Mullen Jr.,English,USA
+Brazil,8,1985,142,R,15000000,Drama|Sci-Fi,black comedy|bureaucracy|dream|terrorist|wrongful arrest,9929000,Terry Gilliam,Robert De Niro,Bob Hoskins,Jim Broadbent,English,UK
+The Dead Zone            ,7.5,,60,TV-14,,Drama|Fantasy|Mystery|Sci-Fi,psychic|psychic power|psychometry|spin off|supernatural power,,,David Ogden Stiers,Nicole de Boer,Chris Bruno,English,Canada
+The Big Lebowski,8.2,1998,117,R,15000000,Comedy|Crime,death|drug|nihilism|rug|white russian,17439163,Joel Coen,Philip Seymour Hoffman,Jeff Bridges,Steve Buscemi,English,USA
+In Bruges,8,2008,107,R,15000000,Comedy|Crime|Drama,bruges|bullet|hope|irish|tourist,7757130,Martin McDonagh,Elizabeth Berrington,Anna Madeley,Eric Godon,English,UK
+Three Burials,7.5,2005,107,R,15000000,Adventure|Crime|Drama|Mystery|Western,cemetery|friend|journey|mexico|promise,5023275,Tommy Lee Jones,Levon Helm,Dwight Yoakam,Guillermo Arriaga,English,France
+Kiss Kiss Bang Bang,7.6,2005,103,R,15000000,Comedy|Crime|Mystery,actor|detective sergeant|hotel|nightclub|thief,4235837,Shane Black,Robert Downey Jr.,Corbin Bernsen,Larry Miller,English,USA
+Mulholland Drive,8,2001,147,R,15000000,Drama|Mystery|Thriller,amnesia|car accident|female protagonist|lesbian sex|loss of memory,7219578,David Lynch,Naomi Watts,Robert Forster,Laura Harring,English,France
+The Company            ,7.9,,286,,,Drama|History|Thriller,cia|mole|revolution|spy|ussr,,,Anna Silk,Tom Hollander,Alessandro Nivola,English,USA
+Metropolis,8.3,1927,145,Not Rated,6000000,Drama|Sci-Fi,art deco|bible quote|dance|silent film|worker,26435,Fritz Lang,Brigitte Helm,Gustav Fröhlich,Rudolf Klein-Rogge,German,Germany
+The Return,8,2003,99,Unrated,,Drama|Mystery|Thriller,boy|photograph|return|russian|wilderness,502028,Andrey Zvyagintsev,Konstantin Lavronenko,Vladimir Garin,Nataliya Vdovina,Russian,Russia
+Groundhog Day,8.1,1993,101,PG,14600000,Comedy|Fantasy|Romance,cult film|existentialism|groundhog day|time loop|trapped in a time loop,70906973,Harold Ramis,Bill Murray,Chris Elliott,Willie Garson,English,USA
+Sarah's Key,7.5,2010,111,PG-13,10000000,Drama|War,apartment|escape|jewish family|journalist|key,7691700,Gilles Paquet-Brenner,Kristin Scott Thomas,Aidan Quinn,Arben Bajraktaraj,French,France
+Unforgiven,8.3,1992,131,R,14400000,Drama|Western,englishman|leaving flowers on a grave|one last job|reputation|visiting wife's grave,101157447,Clint Eastwood,Clint Eastwood,Morgan Freeman,Frances Fisher,English,USA
+Slumdog Millionaire,8,2008,120,R,15000000,Drama|Romance,cheating|falling from height|murder|non professional cast|slum,141319195,Danny Boyle,Anil Kapoor,Saurabh Shukla,Ayush Mahesh Khedekar,English,UK
+Towering Inferno            ,9.5,,65,,,Comedy,,,John Blanchard,Martin Short,Andrea Martin,Joe Flaherty,English,Canada
+First Blood,7.7,1982,93,R,14000000,Action|Adventure|Drama,1980s|colonel|deputy|rambo|sheriff,,Ted Kotcheff,Sylvester Stallone,Brian Dennehy,Chris Mulkey,English,USA
+Dangerous Liaisons,7.7,1988,119,R,14000000,Drama|Romance,catholic|corruption|emotional abuse|france|seduction,34700000,Stephen Frears,Keanu Reeves,Peter Capaldi,Swoosie Kurtz,English,USA
+The Diving Bell and the Butterfly,8,2007,112,PG-13,,Biography|Drama,arc de triomphe paris|based on autobiography|coma|elle magazine|male frontal nudity,5990075,Julian Schnabel,Emmanuelle Seigner,Mathieu Amalric,Isaach De Bankolé,French,France
+Little Children,7.6,2006,137,R,26000000,Drama|Romance,adulterous wife|bar|dysfunctional marriage|sex offender|suburb,5459824,Todd Field,Kate Winslet,Noah Emmerich,Jane Adams,English,USA
+Flipped,7.7,2010,90,PG,14000000,Comedy|Drama|Romance,apology|falling in love|multiple perspectives|narrated by a girl|younger version of character,1752214,Rob Reiner,Madeline Carroll,Rebecca De Mornay,Aidan Quinn,English,USA
+Brokeback Mountain,7.7,2005,134,R,14000000,Drama|Romance,gay relationship|homosexuality|mountain|ranch|rodeo,83025853,Ang Lee,Jake Gyllenhaal,Heath Ledger,Anne Hathaway,English,USA
+Dekalog            ,9.1,,55,TV-MA,,Drama,meaning of life|moral challenge|morality|search for meaning|ten commandments,447093,,Krystyna Janda,Olaf Lubaszenko,Olgierd Lukaszewicz,Polish,Poland
+Downfall,8.3,2004,178,R,13500000,Biography|Drama|History|War,bunker|hitler|nazi|no exit|war ruins,5501940,Oliver Hirschbiegel,Thomas Kretschmann,Bruno Ganz,Alexandra Maria Lara,German,Germany
+The Sea Inside,8.1,2004,125,PG-13,10000000,Biography|Drama|Romance,dignity|euthanasia|freedom|lawyer|sailor,2086345,Alejandro Amenábar,Belén Rueda,Lola Dueñas,Tamar Novas,Spanish,Spain
+Black Swan,8,2010,108,R,13000000,Drama|Thriller,ballerina|ballet|fear|female protagonist|madness,106952327,Darren Aronofsky,Natalie Portman,Mila Kunis,Mark Margolis,English,USA
+The Godfather: Part II,9,1974,220,R,13000000,Crime|Drama,1950s|corrupt politician|lake tahoe nevada|melancholy|revenge,57300000,Francis Ford Coppola,Robert De Niro,Al Pacino,Robert Duvall,English,USA
+The Butterfly Effect,7.7,2004,120,R,13000000,Sci-Fi|Thriller,blackout|child pornography|memory|surprise ending|time travel,23947,Eric Bress,Logan Lerman,Eric Stoltz,Cameron Bright,English,USA
+Ex Machina,7.7,2015,108,R,15000000,Drama|Mystery|Sci-Fi|Thriller,artificial intelligence|robot|robot human relationship|turing test|video surveillance,25440971,Alex Garland,Elina Alminas,Sonoya Mizuno,Corey Johnson,English,UK
+Being John Malkovich,7.8,1999,112,R,13000000,Comedy|Drama|Fantasy,body swap|magical realism|portal|puppeteer|surrealism,22858926,Spike Jonze,Willie Garson,Orson Bean,Mary Kay Place,English,USA
+Letters from Iwo Jima,7.9,2006,141,R,19000000,Drama|History|War,blood splatter|general|island|japan|world war two,13753931,Clint Eastwood,Yuki Matsuzaki,Kazunari Ninomiya,Shidô Nakamura,Japanese,USA
+Room,8.3,2015,118,R,13000000,Drama,based on novel|escape|imprisonment|kidnapping|mother son relationship,14677654,Lenny Abrahamson,Joan Allen,Jacob Tremblay,Cas Anvar,English,Ireland
+Del 1 - Män som hatar kvinnor            ,8.1,,88,,,Action|Crime|Mystery|Thriller,,,Niels Arden Oplev,Michael Nyqvist,David Dencik,Lena Endre,Swedish,Sweden
+The Perks of Being a Wallflower,8,2012,102,PG-13,13000000,Drama|Romance,coming of age|depression|gay|high school|mental illness,17738570,Stephen Chbosky,Logan Lerman,Ezra Miller,Kate Walsh,English,USA
+True Romance,8,1993,121,R,13000000,Action|Crime|Drama|Romance|Thriller,aspiring actor|cocaine|drugs|pimp|suitcase full of money,12281500,Tony Scott,Brad Pitt,Gary Oldman,Michael Rapaport,English,USA
+Glengarry Glen Ross,7.8,1992,100,R,12500000,Crime|Drama|Mystery,office|pressure|real estate|robbery|sales,10725228,James Foley,Kevin Spacey,Al Pacino,Jude Ciccolella,English,USA
+The Prisoner of Zenda,7.8,1937,101,Approved,,Adventure|Drama|Romance,coronation|fictitious country|king|princess|swashbuckler,,John Cromwell,David Niven,Mary Astor,Ronald Colman,English,USA
+The Boy in the Striped Pajamas,7.8,2008,94,PG-13,12500000,Drama|War,boy|fence|jew|nazis|poison gas,9030581,Mark Herman,Richard Johnson,Sheila Hancock,Cara Horgan,English,UK
+Dancer in the Dark,8,2000,140,R,12800000,Crime|Drama|Musical,ends with quotation|execution|factory|women's prison|year 1964,4157491,Lars von Trier,Catherine Deneuve,Udo Kier,Björk,English,Denmark
+Tae Guk Gi: The Brotherhood of War,8.1,2004,148,R,12800000,Action|Drama|War,1950s|archeologist|korea|korean war|soldier,1110186,Je-kyu Kang,Min-sik Choi,Bin Won,Dong-gun Jang,Korean,South Korea
+The Exorcist,8,1973,132,R,8000000,Horror,demonic possession|exorcism|exorcist|loss of innocence|priest,204565000,William Friedkin,Ellen Burstyn,Linda Blair,Lee J. Cobb,English,USA
+Jaws,8,1975,130,PG,8000000,Adventure|Drama|Thriller,beach|blockbuster|fishing|great white shark|shark,260000000,Steven Spielberg,Roy Scheider,Robert Shaw,Murray Hamilton,English,USA
+Ernest & Celestine,7.9,2012,80,PG,9600000,Animation|Comedy|Crime|Drama|Family,bear|dentist|friendship|mouse|prejudice,71442,Stéphane Aubier,Mackenzie Foy,Megan Mullally,Lambert Wilson,French,France
+Star Trek II: The Wrath of Khan,7.7,1982,116,PG,11000000,Action|Adventure|Sci-Fi,jamming communications|planet|space station|taunt|trap,78900000,Nicholas Meyer,Leonard Nimoy,Kirstie Alley,Nichelle Nichols,English,USA
+Jackie Brown,7.5,1997,154,R,12000000,Crime|Thriller,arms dealer|atf|bail|money|multiple perspectives,39647595,Quentin Tarantino,Robert De Niro,Sid Haig,Robert Forster,English,USA
+Patton,8,1970,172,GP,12000000,Biography|Drama|War,allies|dead soldier|destiny|general|tank,,Franklin J. Schaffner,George C. Scott,Karl Malden,Bill Hickman,English,USA
+The Muppet Christmas Carol,7.7,1992,89,G,12000000,Comedy|Drama|Family|Fantasy|Musical,christmas|christmas eve|miser|muppet|scrooge,27281507,Brian Henson,Steven Mackintosh,Jerry Nelson,Steve Whitmire,English,USA
+Casino Royale,8,2006,144,PG-13,150000000,Action|Adventure|Thriller,casino|espionage|free running|james bond|terrorist,167007184,Martin Campbell,Eva Green,Tobias Menzies,Ivana Milicevic,English,UK
+The Fault in Our Stars,7.8,2014,133,PG-13,12000000,Drama|Romance,cancer|falling in love|friendship|novel|teenager,124868837,Josh Boone,Shailene Woodley,Sam Trammell,Nat Wolff,English,USA
+Spartacus: War of the Damned            ,8.6,,55,TV-MA,,Action|Adventure|Biography|Drama|History,female frontal nudity|female full frontal nudity|gladiator|group sex|slave girl,,,Peter Mensah,Kelvin Taylor,Viva Bianca,English,USA
+Philomena,7.6,2013,98,PG-13,12000000,Biography|Drama,catholic|convent|gay love|gay relationship|irish adoption board,37707719,Stephen Frears,Steve Coogan,Mare Winningham,Peter Hermann,English,UK
+Nebraska,7.8,2013,115,R,12000000,Adventure|Comedy|Drama,aging|billings montana|lincoln nebraska|nebraska|pickup truck,17613460,Alexander Payne,Devin Ratray,Bruce Dern,Will Forte,English,USA
+Das Boot,8.4,1981,293,R,14000000,Adventure|Drama|Thriller|War,duty|submarine|submarine movie|tension|u boat,11433134,Wolfgang Petersen,Jürgen Prochnow,Martin Semmelrogge,Herbert Grönemeyer,German,West Germany
+About Time,7.8,2013,123,R,12000000,Drama|Fantasy|Romance,boyfriend girlfriend relationship|lingerie slip|time travel|time travel romance|wedding,15294553,Richard Curtis,Tom Hughes,Tom Hollander,Lindsay Duncan,English,UK
+House of Flying Daggers,7.6,2004,119,PG-13,100000000,Action|Adventure|Drama|Romance,flying|flying dagger|government|police|secret,11041228,Yimou Zhang,Takeshi Kaneshiro,Andy Lau,Zhengyong Zhang,Mandarin,China
+The Great Beauty,7.7,2013,172,Not Rated,9200000,Drama,genitalia|male frontal nudity|male nudity|old age|party,2835886,Paolo Sorrentino,Toni Servillo,Sabrina Ferilli,Serena Grandi,Italian,Italy
+2046,7.5,2004,129,R,12000000,Drama|Romance|Sci-Fi,number in title|train|woman slaps a man|woman slaps man|written by director,261481,Kar-Wai Wong,Li Gong,Tony Chiu Wai Leung,Maggie Cheung,Cantonese,Hong Kong
+Trade,7.5,2007,120,R,12000000,Crime|Drama|Thriller,friend|girl|mexico city|new jersey|sex,214202,Marco Kreuzpaintner,Zack Ward,Kate del Castillo,Alicja Bachleda,English,Germany
+City of Life and Death,7.7,2009,132,R,12000000,Drama|History|War,atrocity|battle|chinese|horseback riding|martial arts,119922,Chuan Lu,Ye Liu,Yuanyuan Gao,Ryu Kohata,Mandarin,China
+10 Days in a Madhouse,7.5,2015,111,R,12000000,Drama,,14616,Timothy Hines,Christopher Lambert,Kelly LeBrock,Alexandra Callas,English,USA
+Snatch,8.3,2000,104,R,6000000,Comedy|Crime,boxer|boxing|diamond|fight|gypsy,30093107,Guy Ritchie,Jason Statham,Brad Pitt,Jason Flemyng,English,UK
+Madadayo,7.5,1993,134,,11900000,Drama,air raid|beer|birthday|japan|professor,48856,Akira Kurosawa,Tatsuo Matsumura,Tetsu Watanabe,Akira Terao,Japanese,Japan
+Star Wars: Episode IV - A New Hope,8.7,1977,125,PG,11000000,Action|Adventure|Fantasy|Sci-Fi,death star|empire|galactic war|princess|rebellion,460935665,George Lucas,Harrison Ford,Peter Cushing,Kenny Baker,English,USA
+Doctor Zhivago,8,1965,200,PG-13,11000000,Drama|Romance|War,bolshevik|poet|poetry|russia|russian revolution,111722000,David Lean,Julie Christie,Klaus Kinski,Geraldine Chaplin,English,USA
+The Fighter,7.9,2010,116,R,25000000,Biography|Drama|Sport,boxer|boxing|boxing match|crack cocaine|lowell massachusetts,93571803,David O. Russell,Christian Bale,Jack McGee,Melissa McMeekin,English,USA
+My Cousin Vinny,7.5,1992,120,R,11000000,Comedy|Crime,alabama|jail|judicial system|lawyer|trial,52929168,Jonathan Lynn,Fred Gwynne,Bruce McGill,Lane Smith,English,USA
+Dead Man Walking,7.6,1995,122,R,11000000,Crime|Drama,death|execution|nun|solitary confinement|visit,39025000,Tim Robbins,Lois Smith,Celia Weston,Robert Prosky,English,UK
+Brooklyn,7.5,2015,111,PG-13,11000000,Drama|Romance,1950s|immigrant|irish|irish accent|torn between two worlds,38317535,John Crowley,Julie Walters,Fiona Glascott,Eva Birthistle,English,UK
+Barry Lyndon,8.1,1975,184,PG,11000000,Adventure|Drama|History|War,18th century|england|rise and fall|rural setting|wealth,,Stanley Kubrick,Ryan O'Neal,Steven Berkoff,Hardy Krüger,English,UK
+Army of Darkness,7.6,1992,88,R,13000000,Comedy|Fantasy|Horror,army of the dead|battle|necronomicon|reluctant hero|skeleton soldier,11501093,Sam Raimi,Patricia Tallman,Bridget Fonda,Embeth Davidtz,English,USA
+What's Eating Gilbert Grape,7.8,1993,118,PG-13,11000000,Drama|Romance,apostrophe in title|face slap|four word title|grocery store|police,9170214,Lasse Hallström,Johnny Depp,Leonardo DiCaprio,Kevin Tighe,English,USA
+The Visual Bible: The Gospel of John,7.7,2003,125,PG-13,17000000,Biography|Drama|History,1st century|based on the bible|miracle|religion|resurrection,4068087,Philip Saville,Henry Ian Cusick,Alan Van Sprang,Scott Handy,English,Canada
+Vera Drake,7.7,2004,125,R,11000000,Crime|Drama,1950s|miscarriage|neighbor|pregnancy|tailor,3753806,Mike Leigh,Eddie Marsan,Sally Hawkins,Imelda Staunton,English,UK
+2001: A Space Odyssey,8.3,1968,161,G,12000000,Adventure|Mystery|Sci-Fi,ancient astronaut|famous line|message from outer space|monolith|star child,56715371,Stanley Kubrick,Keir Dullea,Gary Lockwood,Glenn Beck,English,UK
+E.T. the Extra-Terrestrial,7.9,1982,120,PG,10500000,Family|Sci-Fi,bicyclist|boy|doll|star wars reference|voice impersonation,434949459,Steven Spielberg,Henry Thomas,Dee Wallace,Peter Coyote,English,USA
+Lovesick            ,7.9,,24,,,Comedy,blond boy|chlamydia|list|male rear nudity|young couple,,,Antonia Thomas,Johnny Flynn,Hannah Britland,English,UK
+Good Will Hunting,8.3,1997,126,R,10000000,Drama,friend|genius|janitor|loss of wife|professor,138339411,Gus Van Sant,Robin Williams,Matt Damon,Minnie Driver,English,USA
+The Longest Day,7.8,1962,178,G,10000000,Action|Drama|History|War,allies|d day|invasion|normandy|world war two,,Ken Annakin,Richard Burton,Richard Beymer,Eddie Albert,English,USA
+Oliver!,7.5,1968,153,G,10000000,Drama|Family|Musical,abuse|child|orphan|orphanage|pickpocket,16800000,Carol Reed,Oliver Reed,Ron Moody,Jack Wild,English,UK
+Snatch,8.3,2000,104,R,6000000,Comedy|Crime,boxer|boxing|diamond|fight|gypsy,30093107,Guy Ritchie,Jason Statham,Brad Pitt,Jason Flemyng,English,UK
+Rushmore,7.7,1998,93,R,9000000,Comedy|Drama,coming of age|friendship|private school|student|teacher,17096053,Wes Anderson,Bill Murray,Connie Nielsen,Olivia Williams,English,USA
+Office Space,7.8,1999,89,R,10000000,Comedy,boss|computer|downsizing|neighbor|office,10824921,Mike Judge,Gary Cole,Stephen Root,Diedrich Bader,English,USA
+Bones            ,7.9,,40,TV-14,,Comedy|Crime|Drama|Mystery|Romance,anthropologist|fbi|fbi agent|forensics|investigation,,,Michaela Conlin,T.J. Thyne,Tamara Taylor,English,USA
+American History X,8.6,1998,101,R,7500000,Crime|Drama,curb stomping|neo nazi|prison|son dislikes mother's boyfriend|white supremacist,6712241,Tony Kaye,Ethan Suplee,Beverly D'Angelo,Stacy Keach,English,USA
+The Red Violin,7.7,1998,130,R,10000000,Drama|Music|Mystery|Romance,auction|montreal|secret|violin|violinist,9473382,François Girard,Johannes Silberschneider,Clotilde Mollet,Carlo Cecchi,French,Canada
+The Straight Story,8,1999,112,G,10000000,Biography|Drama,cane|iowa|lawn mower|tractor|wisconsin,6197866,David Lynch,Sissy Spacek,Richard Farnsworth,Everett McGill,English,France
+Crash,7.9,2004,115,R,6500000,Crime|Drama|Thriller,race relations|racism|racist|social problem|stereotype,54557348,Paul Haggis,Don Cheadle,Loretta Devine,Jennifer Esposito,English,Germany
+Dekalog            ,9.1,,55,TV-MA,,Drama,meaning of life|moral challenge|morality|search for meaning|ten commandments,447093,,Krystyna Janda,Olaf Lubaszenko,Olgierd Lukaszewicz,Polish,Poland
+Amour,7.9,2012,127,PG-13,8900000,Drama|Romance,aging|daughter|old couple|old love|stroke,225377,Michael Haneke,Isabelle Huppert,Emmanuelle Riva,Jean-Louis Trintignant,French,France
+It's a Mad Mad Mad Mad World,7.6,1963,197,Approved,9400000,Action|Adventure|Comedy|Crime,california|desert|dying words|money|race,46300000,Stanley Kramer,Jonathan Winters,Sid Caesar,Spencer Tracy,English,USA
+Volver,7.6,2006,121,R,,Comedy|Crime|Drama|Mystery,abusive father|child abuse|death|rape|secret,12899702,Pedro Almodóvar,Carmen Maura,Lola Dueñas,Antonio de la Torre,Spanish,Spain
+Richard III,7.5,1995,104,R,6000000,Drama|War,1930s|abuse of power|england|king|murder,2600000,Richard Loncraine,Robert Downey Jr.,Jim Broadbent,Kristin Scott Thomas,English,UK
+Red Dog,7.5,2011,92,PG,8500000,Biography|Comedy|Drama|Family|Romance,australian|based on true events|dog|love|search,,Kriv Stenders,Noah Taylor,Keisha Castle-Hughes,Luke Ford,English,Australia
+Alien,8.5,1979,116,R,11000000,Horror|Sci-Fi,alien|creature|future|outer space|spaceship,78900000,Ridley Scott,Tom Skerritt,Yaphet Kotto,Bolaji Badejo,English,UK
+The Texas Chain Saw Massacre,7.5,1974,88,R,83532,Horror|Thriller,cannibal|chainsaw|hitchhiker|independent film|leatherface,30859000,Tobe Hooper,Gunnar Hansen,Edwin Neal,Marilyn Burns,English,USA
+Fiddler on the Roof,8,1971,181,G,9000000,Drama|Family|Musical|Romance,immigration|jewish|pogrom|tradition|tradition versus modernity,50000000,Norman Jewison,Topol,Paul Michael Glaser,Rosalind Harris,English,USA
+Sicko,8,2007,123,PG-13,9000000,Documentary|Drama,canada|cuba|france|guantanamo|hmo,24530513,Michael Moore,Michael Moore,Tucker Albrizzi,Bill Clinton,English,USA
+Trading Places,7.5,1983,116,R,,Comedy,interracial relationship|poverty|prostitute|scam|stock market,90400000,John Landis,Don Ameche,Denholm Elliott,Ralph Bellamy,English,USA
+Henry V,7.7,1989,137,PG-13,9000000,Action|Biography|Drama|History|Romance|War,battle|battle of agincourt|king|shakespeare play|sword and shield,10161099,Kenneth Branagh,Brian Blessed,Derek Jacobi,Danny Webb,English,UK
+The Wailing,7.7,2016,156,Not Rated,,Fantasy|Horror|Mystery|Thriller,policeman|stranger|supernatural|village|vomiting,770629,Hong-jin Na,Jung-min Hwang,Jun Kunimura,Woo-hee Chun,Korean,South Korea
+All or Nothing,7.6,2002,121,R,9000000,Drama,love|neighbor|single parent|supermarket|working class,112935,Mike Leigh,Lesley Manville,Ruth Sheen,Gary McDonald,English,UK
+Star Wars: The Clone Wars            ,7.9,,23,TV-PG,,Action|Adventure|Animation|Drama|Fantasy|Sci-Fi,begins with narration|female warrior|inbetwequel|jedi knight|war against machines,,,Dee Bradley Baker,James Arnold Taylor,Tom Kane,English,USA
+The Namesake,7.6,2006,122,PG-13,,Drama,bengali|india|reference to gogol|train|train crash,13569248,Mira Nair,Jacinda Barrett,Brooke Smith,Tabu,English,USA
+My Name Is Khan,8,2010,128,PG-13,12000000,Adventure|Drama|Thriller,airport|asperger's syndrome|autism|muslim|racial profiling,4018695,Karan Johar,Shah Rukh Khan,Jimmy Shergill,Christopher B. Duncan,Hindi,India
+The Wind That Shakes the Barley,7.5,2006,127,Not Rated,,Drama|War,civil war|colonialism|hatred|independence|rural ireland,1829142,Ken Loach,Padraic Delaney,Orla Fitzgerald,Martin Lucey,English,Ireland
+Pulp Fiction,8.9,1994,178,R,8000000,Crime|Drama,black comedy|cunnilingus|neo noir|nonlinear timeline|postmodern,107930000,Quentin Tarantino,Bruce Willis,Eric Stoltz,Phil LaMarr,English,USA
+The Muppet Movie,7.7,1979,95,G,,Adventure|Comedy|Family|Musical,friend|frog leg|on the road|restaurant|the muppets,76657000,James Frawley,Madeline Kahn,Jim Henson,Dom DeLuise,English,UK
+Nightcrawler,7.9,2014,117,R,8500000,Crime|Drama|Thriller,employer employee relationship|ethics|journalism|sociopath|tv news,32279955,Dan Gilroy,Jake Gyllenhaal,Michael Papajohn,James Huang,English,USA
+The Sound of Music,8,1965,174,G,8200000,Biography|Drama|Family|Musical|Romance,austria|children|governess|love|orchestral music score,163214286,Robert Wise,Eleanor Parker,Angela Cartwright,Nicholas Hammond,English,USA
+Little Miss Sunshine,7.9,2006,101,R,8000000,Comedy|Drama,gay|graduate student|sister sister relationship|sprite|uncle nephew relationship,59889948,Jonathan Dayton,Steve Carell,Steven Christopher Parker,Jill Talley,English,USA
+Stand by Me,8.1,1986,89,R,8000000,Adventure|Drama,friendship|summertime|treehouse|walking on train tracks|woods,52287414,Rob Reiner,Marshall Bell,Frances Lee McCain,Casey Siemaszko,English,USA
+28 Days Later...,7.6,2002,113,R,8000000,Drama|Horror|Sci-Fi|Thriller,laboratory|london england|military|virus|zombie apocalypse,45063889,Danny Boyle,Noah Huntley,Megan Burns,David Schneider,English,UK
+Escape from Alcatraz,7.6,1979,112,PG,8000000,Biography|Crime|Drama,alcatraz|escape|inmate|island|prison,36500000,Don Siegel,Clint Eastwood,Patrick McGoohan,Fred Ward,English,USA
+50/50,7.7,2011,100,R,8000000,Comedy|Drama|Romance,best friend|cancer|survival rate|therapist|vomiting,34963967,Jonathan Levine,Joseph Gordon-Levitt,Anna Kendrick,Bryce Dallas Howard,English,USA
+Kicks,7.8,2016,80,R,,Adventure,,,Justin Tipping,Tina Gilton,Natalie Stephany Aguilar,Justin Hall,English,USA
+Akeelah and the Bee,7.5,2006,112,PG,,Drama,national spelling bee|principal|school principal|spelling|spelling bee,18811135,Doug Atchison,Curtis Armstrong,Sean Michael Afable,Tzi Ma,English,USA
+American Psycho,7.6,2000,102,R,7000000,Crime|Drama,1980s|business card|male rear nudity|materialism|narcissism,15047419,Mary Harron,Christian Bale,Justin Theroux,Samantha Mathis,English,USA
+Howards End,7.5,1992,140,PG,,Drama|Romance,england|friendship|prejudice|upper class|working class,25967000,James Ivory,Anthony Hopkins,Vanessa Redgrave,Samuel West,English,UK
+Preacher            ,8.3,,60,TV-MA,,Adventure|Drama|Fantasy|Mystery,heaven and hell|preacher|supernatural|vampire|vertigo comics,,,Dominic Cooper,Joseph Gilgun,Ruth Negga,English,
+The Secret of Kells,7.7,2009,75,Not Rated,6500000,Adventure|Animation|Family|Fantasy,barbarian|fairy|forest|monastery|unfinished book,686383,Tomm Moore,Sean Lennon,Mick Lally,Evan McGuire,English,France
+Wuthering Heights            ,7.7,,142,,,Drama|Romance,abuse|love|moor the landscape|revenge|tv mini series,,,Tom Hardy,Jack O'Connell,Kevin McNally,English,UK
+Akira,8.1,1988,124,R,1100000000,Action|Animation|Sci-Fi,based on manga|biker gang|gifted child|post thermonuclear war|science runs amok,439162,Katsuhiro Ôtomo,Mitsuo Iwata,Takeshi Kusao,Tesshô Genda,Japanese,Japan
+The Rocket: The Legend of Rocket Richard,7.7,2005,124,PG,8000000,Biography|Drama|Sport,fan|french canadian|hockey|hockey player|machinist,,Charles Binamé,Stephen McHattie,Roy Dupuis,Julie LeBreton,French,Canada
+Mr. Church,8,2016,104,PG-13,8000000,Drama,,,Bruce Beresford,Mckenna Grace,Lucy Fry,Natalie Coughlin,English,USA
+Thank You for Smoking,7.6,2005,92,R,6500000,Comedy|Drama,cigarette smoking|lobbyist|political satire|reporter|tobacco industry,24792061,Jason Reitman,J.K. Simmons,Cameron Bright,Todd Louiso,English,USA
+Crash,7.9,2004,115,R,6500000,Crime|Drama|Thriller,race relations|racism|racist|social problem|stereotype,54557348,Paul Haggis,Don Cheadle,Loretta Devine,Jennifer Esposito,English,Germany
+Persepolis,8,2007,89,PG-13,7300000,Animation|Biography|Drama|War,dream|girl|iran|islamic revolution|revolution,4443403,Vincent Paronnaud,Catherine Deneuve,Gena Rowlands,Danielle Darrieux,French,France
+The Wave,7.6,2008,107,,5000000,Drama|Thriller,autocracy|based on real events|dictatorship|germany|teacher,,Dennis Gansel,Max Riemelt,Elyas M'Barek,Jennifer Ulrich,German,Germany
+Juno,7.5,2007,96,PG-13,7500000,Comedy|Drama|Romance,adoption|baby|friend|pregnancy|school,143492840,Jason Reitman,J.K. Simmons,Jennifer Garner,Rainn Wilson,English,USA
+The Godfather,9.2,1972,175,R,6000000,Crime|Drama,crime family|mafia|organized crime|patriarch|rise to power,134821952,Francis Ford Coppola,Al Pacino,Marlon Brando,Robert Duvall,English,USA
+500 Days of Summer,7.7,2009,95,PG-13,7500000,Comedy|Drama|Romance,friend|greeting card|office|summer|true love,32391374,Marc Webb,Joseph Gordon-Levitt,Chloë Grace Moretz,Zooey Deschanel,English,USA
+The Piano,7.6,1993,121,R,7000000,Drama|Music|Romance,adultery|daughter|male rear nudity|new zealand|piano,40158000,Jane Campion,Holly Hunter,Ian Mune,Geneviève Lemon,English,New Zealand
+Good Night and Good Luck.,7.5,2005,93,PG,7500000,Biography|Drama|History,cbs|expose|fear|paranoia|reporter,31501218,George Clooney,Robert Downey Jr.,Tate Donovan,Alex Borstein,English,USA
+Fargo            ,9,,53,TV-MA,,Crime|Drama|Thriller,anthology|death|insurance salesman|minnesota|police officer,,,Kirsten Dunst,Adam Goldberg,Oliver Platt,English,USA
+Michael Jordan to the Max,7.5,2000,46,,,Documentary|Sport,basketball|basketball player|character name in title|chicago bulls|imax,18642318,Don Kempf,Bill Murray,Michael Jordan,Bob Costas,English,USA
+Buffy the Vampire Slayer            ,8.2,,44,TV-14,2300000,Action|Drama|Fantasy|Romance,action heroine|coming of age|destiny|double life|vampire,,,Sarah Michelle Gellar,Alyson Hannigan,Emma Caulfield,English,USA
+Skyfall,7.8,2012,143,PG-13,200000000,Action|Adventure|Thriller,brawl|childhood home|computer cracker|intelligence agency|terrorist cell,304360277,Sam Mendes,Albert Finney,Helen McCrory,Rory Kinnear,English,UK
+A Single Man,7.6,2009,99,R,7000000,Drama|Romance,car accident|male full back nudity|practicing a suicide|public nudity|suicide contemplation,9166863,Tom Ford,Colin Firth,Teddy Sears,Keri Lynn Pratt,English,USA
+The Last Temptation of Christ,7.6,1988,164,R,7000000,Drama,carpenter|exorcism|faith|reference to jesus christ|temptation,8373585,Martin Scorsese,Irvin Kershner,Barbara Hershey,Roberts Blossom,English,USA
+Rabbit-Proof Fence,7.5,2002,94,PG,6000000,Adventure|Biography|Drama|History,aborigine|based on true story|colonialism|fence|half caste,6165429,Phillip Noyce,Roy Billing,David Gulpilil,Deborah Mailman,Aboriginal,Australia
+Nikita            ,7.7,,60,,,Action|Crime|Drama|Thriller,assassin|death|female protagonist|rogue|training,,,Melinda Clarke,Xander Berkeley,Aaron Stanford,English,USA
+Veer-Zaara,7.9,2004,192,,7000000,Drama|Musical|Romance,fair|pakistan|prison|rescue|stranded,2921738,Yash Chopra,Shah Rukh Khan,Preity Zinta,Anupam Kher,Hindi,India
+We Need to Talk About Kevin,7.5,2011,112,R,7000000,Drama|Thriller,archery|defiance|mental illness|psychopath|toilet training,1738692,Lynne Ramsay,Ezra Miller,Siobhan Fallon Hogan,Ashley Gerasimovich,English,UK
+The Boondock Saints,7.9,1999,102,R,7000000,Action|Crime|Thriller,fbi|fbi agent|friend|irish|mafia,,Troy Duffy,Norman Reedus,David Della Rocco,Bob Marley,English,Canada
+Dazed and Confused,7.7,1993,102,R,6900000,Comedy,football|hazing|high school|last day of school|pledge,7993039,Richard Linklater,Milla Jovovich,Adam Goldberg,Cole Hauser,English,USA
+Incendies,8.2,2010,139,R,6800000,Drama|Mystery|War,brother sister relationship|family relationships|middle east|mother son relationship|twin brother and sister,6857096,Denis Villeneuve,Lubna Azabal,Mélissa Désormeaux-Poulin,Ahmad Massad,French,Canada
+Elite Squad,8.1,2007,115,R,4000000,Action|Crime|Drama|Thriller,brazil|military police|police|rio de janeiro brazil|slum,8060,José Padilha,Wagner Moura,Fernanda Machado,André Ramiro,Portuguese,Brazil
+Boyz n the Hood,7.8,1991,112,R,6000000,Crime|Drama,drugs|escape|football|friend|violence,57504069,John Singleton,John Cothran,Lloyd Avery II,Na'Blonka Durden,English,USA
+Nowhere in Africa,7.7,2001,141,R,7000000,Biography|Drama,breasts|farm|jew|kenya|tween girl,6173485,Caroline Link,Merab Ninidze,Juliane Köhler,Matthias Habich,English,Germany
+Control,7.7,2007,122,R,4500000,Biography|Drama|Music,band|employment agency|singer|stage fright|suicide,871577,Anton Corbijn,Sam Riley,Samantha Morton,Alexandra Maria Lara,English,UK
+The Terminator,8.1,1984,107,R,6500000,Action|Sci-Fi,cyborg|future war|robot|shootout in a police station|urban setting,38400000,James Cameron,Michael Biehn,Brian Thompson,Paul Winfield,English,UK
+Good Bye Lenin!,7.7,2003,121,R,4800000,Drama|Romance,coma|east germany|german democratic republic|germany|heart attack,4063859,Wolfgang Becker,Florian Lukas,Chulpan Khamatova,Burghart Klaußner,German,Germany
+The Damned United,7.6,2009,98,R,10000000,Biography|Drama|Sport,cup|derby county|flashback|football|leeds united,449558,Tom Hooper,Stephen Graham,Mark Bazeley,Maurice Roëves,English,UK
+Gomorrah            ,8.7,,55,TV-MA,,Crime|Drama|Thriller,,,,Maria Pia Calzone,Fortunato Cerlino,Marco D'Amore,Italian,Italy
+Platoon,8.1,1986,120,R,6000000,Drama|War,1960s|famous score|hero|vietnam|vietnam war,137963328,Oliver Stone,Johnny Depp,Tom Berenger,Kevin Dillon,English,UK
+Fahrenheit 9/11,7.5,2004,122,R,6000000,Documentary|Drama|War,anti war|interview|iraq|paranoia|war on terrorism,119078393,Michael Moore,Osama bin Laden,Stevie Wonder,Ricky Martin,English,USA
+Butch Cassidy and the Sundance Kid,8.1,1969,110,M,6000000,Biography|Crime|Drama|Western,bolivia|gang|outlaw|posse|train,102308900,George Roy Hill,Katharine Ross,Ted Cassidy,Kenneth Mars,English,USA
+Mary Poppins,7.8,1964,139,Approved,6000000,Comedy|Family|Fantasy|Musical,banker|female protagonist|live action and animation|magic|nanny,102300000,Robert Stevenson,Ed Wynn,Glynis Johns,Elsa Lanchester,English,USA
+Ordinary People,7.8,1980,124,R,6000000,Drama,choir|death|friend|suicide|therapy,54800000,Robert Redford,Adam Baldwin,Elizabeth McGovern,Judd Hirsch,English,USA
+West Side Story,7.6,1961,152,Unrated,6000000,Crime|Drama|Musical|Romance|Thriller,dance|gang|new york city|puerto rican|tragedy,43650000,Jerome Robbins,Rita Moreno,George Chakiris,Richard Beymer,English,USA
+The Usual Suspects,8.6,1995,106,R,6000000,Crime|Drama|Mystery|Thriller,criminal|dirty cop|flashback|limping|suspect,23272306,Bryan Singer,Kevin Spacey,Chazz Palminteri,Kevin Pollak,English,USA
+The Wrestler,7.9,2008,109,R,6000000,Drama|Sport,heart attack|stripper|supermarket|wrestler|wrestling,26236603,Darren Aronofsky,Mark Margolis,John D'Leo,Ajay Naidu,English,USA
+Best in Show,7.5,2000,90,PG-13,6000000,Comedy,dog show|gay|gay character|gay couple|gay interest,18621249,Christopher Guest,John Michael Higgins,Catherine O'Hara,Michael McKean,English,USA
+War & Peace            ,8.2,,,TV-14,,Drama|History|Romance|War,male frontal nudity|male nudity|tv mini series,,,Jim Broadbent,Tuppence Middleton,Lily James,English,UK
+The Last King of Scotland,7.7,2006,121,R,6000000,Biography|Drama|History|Thriller,1970s|assassination|doctor|scottish|ugandan,17605861,Kevin Macdonald,David Oyelowo,Simon McBurney,Abby Mukiibi Nkaaga,English,UK
+Veronica Mars            ,8.4,,44,TV-14,,Crime|Drama|Mystery,best friend|high school|private detective|sheriff|student,,,Francis Capra,Jason Dohring,Enrico Colantoni,English,USA
+Hedwig and the Angry Inch,7.8,2001,95,R,6000000,Comedy|Drama|Music|Musical,band|rock band|sex change|song|transsexual,3029081,John Cameron Mitchell,John Cameron Mitchell,Miriam Shor,Andrea Martin,English,USA
+The Wild Bunch,8,1969,144,R,6244087,Action|Adventure|Western,friendship|honor|righteous rage|soldier|texas,,Sam Peckinpah,William Holden,Warren Oates,L.Q. Jones,English,USA
+Lake of Fire,8.3,2006,152,Unrated,,Documentary,abortion|southern accent|title based on the bible|trial|usa,23807,Tony Kaye,Noam Chomsky,Pat Buchanan,Bill Baird,English,USA
+Emma            ,8.2,,240,,,Comedy|Drama|Romance,friendship|love triangle|matchmaker|naivety|opposites attract,,,Romola Garai,Blake Ritson,Rupert Evans,English,UK
+The Train,7.9,1964,133,Unrated,6700000,Thriller|War,art|french|german|painting|train,,John Frankenheimer,Jeanne Moreau,Paul Scofield,Michel Simon,English,France
+The Inbetweeners            ,8.4,,25,TV-14,,Comedy|Romance,black comedy|bully|friend|house|practical joke,,,Simon Bird,Belinda Stewart-Wilson,James Buckley,English,UK
+The Sting,8.3,1973,129,PG,5500000,Comedy|Crime|Drama,con|con man|courier|long con|murder,159600000,George Roy Hill,Eileen Brennan,Robert Shaw,Ray Walston,English,USA
+Shine,7.7,1996,105,PG-13,5500000,Biography|Drama|Music|Romance,abuse|australia|concert|pianist|piano,35811509,Scott Hicks,Noah Taylor,Armin Mueller-Stahl,Nicholas Bell,English,Australia
+High Plains Drifter,7.6,1973,105,R,5500000,Mystery|Western,gravestone|gunfighter|outlaw|revenge|small town,,Clint Eastwood,Clint Eastwood,Richard Bull,John Hillerman,English,USA
+The Chorus,7.9,2004,97,PG-13,5500000,Drama|Music,boarding school|boy|choir|school|teacher,3629758,Christophe Barratier,Jean-Baptiste Maunier,François Berléand,Gérard Jugnot,French,France
+Do the Right Thing,7.9,1989,120,R,6500000,Drama,black militant|frustration|pizza|pizza parlor|pizzeria,27545445,Spike Lee,Ruby Dee,John Savage,Danny Aiello,English,USA
+Rang De Basanti,8.4,2006,157,Not Rated,,Comedy|Drama|History|Romance,freedom|friend|india|student|urination,2197331,Rakeysh Omprakash Mehra,Anupam Kher,Steven Mackintosh,Madhavan,Hindi,India
+A Room for Romeo Brass,7.7,1999,90,R,,Comedy|Drama,betrayal|family relationships|friendship|psychosis|stranger,18434,Shane Meadows,Bob Hoskins,Paddy Considine,Shane Meadows,English,UK
+Headhunters,7.6,2011,100,R,30300000,Crime|Drama|Thriller,art thief|male frontal nudity|male nudity|male star appears nude|painting,1196752,Morten Tyldum,Aksel Hennie,Synnøve Macody Lund,Julie R. Ølgaard,Norwegian,Norway
+Saint Ralph,7.6,2004,98,PG-13,6000000,Comedy|Drama|Sport,boston marathon|coma|marathon|miracles|running,795126,Michael McGowan,Campbell Scott,Adam Butcher,Gordon Pinsent,English,Canada
+Instructions Not Included,7.6,2013,115,PG-13,5000000,Comedy|Drama,father daughter relationship,44456509,Eugenio Derbez,Eugenio Derbez,Jessica Lindsey,Hugo Stiglitz,Spanish,Mexico
+The Elephant Man,8.2,1980,124,PG,5000000,Biography|Drama,curiosity|exploitation|freak|hospital|physical deformity,,David Lynch,Anthony Hopkins,Anne Bancroft,Dexter Fletcher,English,USA
+Dallas Buyers Club,8,2013,117,R,5000000,Biography|Drama,drugs|fda|gay community|hiv|homophobia,27296514,Jean-Marc Vallée,Matthew McConaughey,Jennifer Garner,Denis O'Hare,English,USA
+Memento,8.5,2000,113,R,9000000,Mystery|Thriller,flashback|memory|murder|short term memory|telephone,25530884,Christopher Nolan,Callum Rennie,Thomas Lennon,Jorja Fox,English,USA
+Billy Elliot,7.7,2000,110,R,5000000,Drama|Music,audition|ballet|boxing|miner|miners strike,21994911,Stephen Daldry,Julie Walters,Gary Lewis,Jamie Draven,English,UK
+Still Alice,7.5,2014,101,PG-13,5000000,Drama,alzheimer's disease|bechdel test passed|linguistics professor|new york city|reference to angels in america the play,18656400,Richard Glatzer,Kristen Stewart,Hunter Parrish,Seth Gilliam,English,USA
+Y Tu Mamá También,7.7,2001,106,R,2000000,Adventure|Comedy|Drama|Romance,beach|cleaning a swimming pool|male male kiss|mexico|on the road,13622333,Alfonso Cuarón,Maribel Verdú,Daniel Giménez Cacho,María Aura,Spanish,Mexico
+Shaun of the Dead,8,2004,99,R,4000000,Comedy|Horror,british horror|pub|record collection|zombie|zombie apocalypse,13464388,Edgar Wright,Peter Serafinowicz,Dylan Moran,Rafe Spall,English,UK
+Lone Star,7.6,1996,135,R,5000000,Drama|Mystery,father son relationship|interracial relationship|neo western|sheriff|texas,13269963,John Sayles,Matthew McConaughey,Clifton James,Miriam Colon,English,USA
+The Barbarian Invasions,7.7,2003,112,R,6000000,Comedy|Crime|Drama|Mystery|Romance,cancer|dying|friend|money|socialist,3432342,Denys Arcand,Marie-Josée Croze,Stéphane Rousseau,Marina Hands,French,Canada
+Once Upon a Time in the West,8.6,1968,145,PG-13,5000000,Western,gang|gun|harmonica|killing|woman in bathtub,,Sergio Leone,Claudia Cardinale,Woody Strode,Jack Elam,English,Italy
+Moon,7.9,2009,97,R,5000000,Drama|Mystery|Sci-Fi,computer|contract|earth|moon|solitude,5009677,Duncan Jones,Kevin Spacey,Matt Berry,Benedict Wong,English,UK
+The Sweet Hereafter,7.7,1997,112,R,5000000,Drama,anger|bus|child|lawyer|school,4306697,Atom Egoyan,Bruce Greenwood,Sarah Polley,Simon Baker,English,Canada
+The Machinist,7.7,2004,94,R,5000000,Drama|Thriller,alienation|conscience|insomnia|paranoia|urban gothic,1082044,Brad Anderson,Christian Bale,Jennifer Jason Leigh,Reg E. Cathey,English,Spain
+Standard Operating Procedure,7.5,2008,118,R,,Crime|Documentary|War,abu ghraib|abuse|prison|slow motion|torture,228830,Errol Morris,Jeffrey Frost,Megan Ambuhl Graner,Ken Davis,English,USA
+Tucker and Dale vs Evil,7.6,2010,89,R,,Comedy|Horror,cabin|chainsaw|college kid|hillbilly|vacation,223615,Eli Craig,Katrina Bowden,Tyler Labine,Chelan Simmons,English,Canada
+Saving Grace            ,7.5,,60,TV-MA,,Drama|Fantasy,catholic|death row|inmate|oklahoma city|sexual promiscuity,,,Holly Hunter,Dylan Minnette,Bokeem Woodbine,English,USA
+Psych            ,8.4,,44,TV-PG,,Comedy|Crime|Mystery,best friend|friend|police|police department|psychic,,,Corbin Bernsen,Dulé Hill,Timothy Omundson,English,USA
+Rudderless,7.5,2014,105,R,5000000,Comedy|Drama|Music,demo tape|directed by cast member|grieving father|guitar|guitar player,37440,William H. Macy,Billy Crudup,Felicity Huffman,David Adam Flannery,English,USA
+Running Forever,8.6,2015,88,,5000000,Family,,,Mike Mayhall,David Raizor,Cody Howard,Martin Kove,English,USA
+Sling Blade,8,1996,148,R,890000,Drama,friend|mental institution|murder|repair shop|small town,24475416,Billy Bob Thornton,Robert Duvall,Dwight Yoakam,J.T. Walsh,English,USA
+Dear Frankie,7.8,2004,105,PG-13,,Drama|Romance,boy|dock|letter|seaside|stranger,1340891,Shona Auerbach,Gerard Butler,Sharon Small,Jack McElhone,English,UK
+25th Hour,7.7,2002,108,R,15000000,Drama,bar|dream|drug dealing|nightclub|widower,13060843,Spike Lee,Philip Seymour Hoffman,Rosario Dawson,Aaron Stanford,English,USA
+Secrets and Lies            ,7.7,,43,,,Crime|Drama,,,,Dan Fogler,Indiana Evans,KaDee Strickland,English,USA
+Requiem for a Dream,8.4,2000,102,R,4500000,Drama,addiction|diet pill|drug addiction|fast motion scene|heroin,3609278,Darren Aronofsky,Ellen Burstyn,Mark Margolis,Louise Lasser,English,USA
+Salvador,7.5,1986,122,R,4500000,Drama|History|Thriller|War,1980s|el salvador|political thriller|reagan administration|war journalism,,Oliver Stone,Jim Belushi,John Savage,Juan Fernández,English,UK
+Donnie Darko,8.1,2001,133,R,4500000,Drama|Sci-Fi|Thriller,1980s|death|insanity|parallel universe|time travel,727883,Richard Kelly,Jake Gyllenhaal,Mary McDonnell,James Duval,English,USA
+Character,7.8,1997,122,R,4500000,Crime|Drama|Mystery,bailiff|lawyer|office|police|school,713413,Mike van Diem,Jan Decleir,Fedja van Huêt,Hans Kesting,Dutch,Netherlands
+Lady Vengeance,7.7,2005,112,R,4200000000,Crime|Drama,cake|christian|lesbian sex|oral sex|pregnant schoolgirl,211667,Chan-wook Park,Min-sik Choi,Yeong-ae Lee,Hye-jeong Kang,Korean,South Korea
+Lilya 4-Ever,7.9,2002,109,R,,Crime|Drama,abandoned by mother|poverty|sex trade|teenage prostitution|unpaid bill,181655,Lukas Moodysson,Oksana Akinshina,Artyom Bogucharskiy,Lyubov Agapova,Russian,Sweden
+One Flew Over the Cuckoo's Nest,8.7,1975,133,R,4400000,Drama,1960s|escape|mental institution|nurse|sexuality,112000000,Milos Forman,Scatman Crothers,Michael Berryman,Louise Fletcher,English,USA
+Airlift,8.5,2016,130,,4400000,Action|Drama|History|Thriller|War,1990s|businessman|evacuation|historical fiction|kuwait,,Raja Menon,Nimrat Kaur,Sameer Ali Khan,Purab Kohli,Hindi,India
+Anne of Green Gables            ,8.4,,199,TV-G,,Drama|Family,girl|heroine|kindred spirit|orphan|rural setting,,,Zack Ward,Jonathan Crombie,Megan Follows,English,Canada
+Whale Rider,7.6,2002,101,PG-13,6000000,Drama|Family,girl|maori|new zealand|tradition|whale,20772796,Niki Caro,Keisha Castle-Hughes,Rawiri Paratene,Tammy Davis,English,New Zealand
+Animal Kingdom            ,8.1,,60,,,Crime|Drama,based on film|brother brother relationship|crime family|remake|southern california,,,Dorian Missick,Daniella Alonso,Ellen Barkin,English,USA
+Night of the Living Dead,8,1968,96,Unrated,114000,Drama|Horror|Mystery,cemetery|farmhouse|radiation|running out of gas|zombie,,George A. Romero,Judith O'Dea,Duane Jones,S. William Hinzman,English,USA
+Lost in Translation,7.8,2003,101,R,4000000,Drama,fish out of water|japanese|loneliness|older man younger woman relationship|unlikely friendship,44566004,Sofia Coppola,Scarlett Johansson,Bill Murray,Catherine Lambert,English,USA
+Annie Hall,8.1,1977,93,PG,4000000,Comedy|Romance,breaking the fourth wall|comedian|jewish|neurosis|singer,39200000,Woody Allen,Woody Allen,Carol Kane,Shelley Duvall,English,USA
+Leaving Las Vegas,7.6,1995,111,R,3600000,Drama|Romance,alcoholic|bar|love|prostitute|sex,31968347,Mike Figgis,Nicolas Cage,Valeria Golino,Julian Sands,English,USA
+Saving Grace            ,7.5,,60,TV-MA,,Drama|Fantasy,catholic|death row|inmate|oklahoma city|sexual promiscuity,,,Holly Hunter,Dylan Minnette,Bokeem Woodbine,English,USA
+The Great Escape,8.3,1963,172,Approved,4000000,Adventure|Drama|History|Thriller|War,digging|escape|escape attempt|prisoner|tunnel,,John Sturges,James Coburn,Donald Pleasence,Gordon Jackson,English,USA
+Boyhood,8,2014,165,R,4000000,Drama,12 year time span|coming of age|domestic abuse|growing up|separated parents,25359200,Richard Linklater,Ellar Coltrane,Lorelei Linklater,Libby Villari,English,USA
+The Orphanage,7.5,2007,105,R,3400000,Drama|Mystery|Thriller,dead children|ghost|missing child|orphan|orphanage,7159147,J.A. Bayona,Geraldine Chaplin,Belén Rueda,Fernando Cayo,Spanish,Spain
+Waiting for Guffman,7.6,1996,84,R,4000000,Comedy,amateur theater|dentist|missouri|small town|travel agent,2892582,Christopher Guest,Catherine O'Hara,Fred Willard,Larry Miller,English,USA
+Samsara,8.5,2011,102,PG-13,4000000,Documentary|Music,hall of mirrors|mont saint michel france|palace of versailles|turkey the country|yellowstone national park,2601847,Ron Fricke,Collin Alfredo St. Dic,Balinese Tari Legong Dancers,Puti Sri Candra Dewi,None,USA
+Buen Día Ramón,7.7,2013,120,PG-13,4000000,Drama,,100412,Jorge Ramírez Suárez,Hector Kotsifakis,Adriana Barraza,Arcelia Ramírez,German,Mexico
+Mondays in the Sun,7.7,2002,113,R,4000000,Comedy|Drama,australia|bar|shipyard|siamese twins|tuna,146402,Fernando León de Aranoa,Luis Tosar,Enrique Villén,Aida Folch,Spanish,Spain
+The Geographer Drank His Globe Away,7.5,2013,120,,4000000,Adventure|Drama,rafting|russia|school|student|teacher,,Aleksandr Veledinskiy,Konstantin Khabenskiy,Elena Lyadova,Eugenia Khirivskaya,Russian,Russia
+1776,7.6,1972,168,PG,4000000,Drama|Family|History|Musical,continental congress|debate|declaration of independence|massachusetts|pennsylvania,,Peter H. Hunt,Blythe Danner,Ken Howard,Howard Caine,English,USA
+Hell's Angels,7.8,1930,96,Passed,3950000,Drama|War,bomb|bombing mission|munitions|oxford|royal flying corps,,Howard Hughes,Jean Harlow,Marian Marsh,James Hall,English,USA
+A Man for All Seasons,7.9,1966,120,Approved,2000000,Biography|Drama|History,catholic|chancellor|divorce|king henry viii|thomas more,,Fred Zinnemann,Robert Shaw,Susannah York,Paul Scofield,English,UK
+Network,8.1,1976,121,R,3800000,Drama|Romance,media|monologue|television|television network|television news,,Sidney Lumet,Robert Duvall,Faye Dunaway,William Holden,English,USA
+Gone with the Wind,8.2,1939,226,G,3977000,Drama|History|Romance|War,battle of the sexes|gallantry|honesty|indifference|scandal,198655278,Victor Fleming,Hattie McDaniel,George Reeves,Thomas Mitchell,English,USA
+House of Sand,7.5,2005,115,R,8000000,Drama,1910s|desert|dunes|goat|slave,,Andrucha Waddington,Fernanda Montenegro,Seu Jorge,Fernanda Torres,Portuguese,Brazil
+M*A*S*H            ,8.4,,25,TV-PG,,Comedy|Drama|War,colonel|doctor|korean war|major|nurse,,,David Ogden Stiers,Jamie Farr,Mike Farrell,English,USA
+Midnight Cowboy,7.9,1969,113,X,3600000,Drama,gay|homosexual|homosexuality|hustler|male rear nudity,,John Schlesinger,Brenda Vaccaro,Barnard Hughes,John McGiver,English,USA
+Airplane!,7.8,1980,88,PG,3500000,Comedy,air traffic controller|airplane|airport|pilot|spoof,83400000,Jim Abrahams,Peter Graves,Lloyd Bridges,Barbara Billingsley,English,USA
+Menace II Society,7.5,1993,97,R,3500000,Crime|Drama|Thriller,1990s|escape|graduation|hustler|street,27900000,Albert Hughes,Jada Pinkett Smith,Larenz Tate,Khandi Alexander,English,USA
+Empire            ,7.8,,42,TV-14,,Drama|Music,music business|new york city|record executive|record label|singer,,,Ta'Rhonda Jones,Gabourey Sidibe,Malik Yoba,English,USA
+In Cold Blood,8,1967,134,Approved,3500000,Biography|Crime|Drama|History,homoeroticism|kansas|murder|police|robbery,,Richard Brooks,John Forsythe,Robert Blake,Will Geer,English,USA
+The Nun's Story,7.6,1959,149,Not Rated,3500000,Drama,belgium|congo|convent|nun|nurse,,Fred Zinnemann,Colleen Dewhurst,Peter Finch,Beatrice Straight,English,USA
+Frenzy,7.5,1972,116,R,2000000,Thriller,penknife|police|rape|serial killer|united kingdom,,Alfred Hitchcock,Bernard Cribbins,Jean Marsh,Clive Swift,English,UK
+Gods and Monsters,7.5,1998,105,R,3500000,Biography|Drama,friendship|gardener|gay interest|homosexual|memory,6390032,Bill Condon,Brendan Fraser,Lynn Redgrave,Kevin J. O'Connor,English,USA
+The Secret in Their Eyes,8.2,2009,129,R,2000000,Drama|Mystery|Thriller,investigation|justice|murder|suspect|tension,20167424,Juan José Campanella,Ricardo Darín,Soledad Villamil,Guillermo Francella,Spanish,Argentina
+Evil Dead II,7.8,1987,37,X,3600000,Comedy|Fantasy|Horror|Thriller,cabin|cabin in the woods|demon|evil dead|woods,5923044,Sam Raimi,Ted Raimi,Dan Hicks,Kassie Wesley DePaiva,English,USA
+Batman: The Dark Knight Returns Part 2,8.4,2013,148,PG-13,3500000,Action|Animation|Crime|Sci-Fi|Thriller,batman|joker|mutant|tattoo on breast|the joker,,Jay Oliva,Michael Emerson,Mark Valley,Grey Griffin,English,USA
+March of the Penguins,7.6,2005,80,G,8000000,Documentary,chick|emperor penguin|journey|ocean|penguin,77413017,Luc Jacquet,Morgan Freeman,Sofie Gråbøl,Romane Bohringer,French,France
+Whiplash,8.5,2014,107,R,3300000,Drama|Music,conservatory|drummer|emotional abuse|music school|obsession,13092000,Damien Chazelle,J.K. Simmons,Melissa Benoist,Chris Mulkey,English,USA
+City of God,8.7,2002,135,R,3300000,Crime|Drama,coming of age|male frontal nudity|male nudity|photographer|slum,7563397,Fernando Meirelles,Alice Braga,Seu Jorge,Alexandre Rodrigues,Portuguese,Brazil
+The Hunt,8.3,2012,115,R,3800000,Drama,deer|gun|gunshot|hunt|kindergarten teacher,610968,Thomas Vinterberg,Thomas Bo Larsen,Alexandra Rapaport,Hana Shuan,Danish,Denmark
+A Christmas Story,8.1,1983,94,PG,4000000,Comedy|Family,bb gun|boy|bully|christmas|tongue stuck on a pole,,Bob Clark,Zack Ward,Darren McGavin,Scott Schwartz,English,USA
+The Class,7.5,2008,128,PG-13,,Drama,high school|inner city|school|student|teacher,3766595,Laurent Cantet,François Bégaudeau,Agame Malembo-Emene,Angélica Sancio,French,France
+Rosemary's Baby,8,1968,136,R,2300000,Drama|Horror,devil worship|incubus|paranoia|raped by a demon|satanism,,Roman Polanski,John Cassavetes,Mia Farrow,Charles Grodin,English,USA
+The Man Who Shot Liberty Valance,8.1,1962,113,Approved,3200000,Drama|Western,friend|funeral|outlaw|pistol|stagecoach,,John Ford,Lee Marvin,Woody Strode,Vera Miles,English,USA
+Maria Full of Grace,7.5,2004,101,R,3000000,Crime|Drama,colombia|colombian|drug mule|money|stomach,6517198,Joshua Marston,Catalina Sandino Moreno,Wilson Guerrero,Yenny Paola Vega,Spanish,Colombia
+Animal House,7.6,1978,109,R,3000000,Comedy,academic probation|camera shot of feet|fraternity|school expulsion|smashing a guitar,141600000,John Landis,John Belushi,Karen Allen,Tim Matheson,English,USA
+Goldfinger,7.8,1964,110,Approved,3000000,Action|Adventure|Thriller,bikini|covered in melted gold|fort knox|gold|pilot,51100000,Guy Hamilton,Honor Blackman,Gert Fröbe,Lois Maxwell,English,UK
+It's a Wonderful Life,8.6,1946,118,PG,3180000,Drama|Family|Fantasy|Romance,angel|bank|guardian angel|second chance|small town life,,Frank Capra,Donna Reed,Lionel Barrymore,Thomas Mitchell,English,USA
+Trainspotting,8.2,1996,94,R,3500000,Drama,drug culture|drugs|filthy toilet|heroin addict|heroin withdrawal,16501785,Danny Boyle,Kelly Macdonald,Shirley Henderson,Ewen Bremner,English,UK
+Bowling for Columbine,8,2002,120,R,4000000,Crime|Documentary|Drama,bank|columbine|columbine high school killings|firearm|school shooting,21244913,Michael Moore,Michael Moore,Dick Clark,Bill Clinton,English,Germany
+Cat on a Hot Tin Roof,8.1,1958,108,Approved,3000000,Drama|Romance,cancer|football|homosexuality|marriage|mississippi,,Richard Brooks,Burl Ives,Judith Anderson,Jack Carson,English,USA
+The Bridge on the River Kwai,8.2,1957,161,PG,3000000,Adventure|Drama|War,allies|bridge|construction|jungle|sabotage,27200000,David Lean,William Holden,Sessue Hayakawa,Jack Hawkins,English,UK
+The Apartment,8.3,1960,125,Approved,3000000,Comedy|Drama|Romance,apartment|elevator|elevator girl|love|mistress,,Billy Wilder,Fred MacMurray,Ray Walston,David White,English,USA
+Elmer Gantry,7.9,1960,146,Approved,3000000,Drama,1920s|evangelist|preacher|revival|traveling salesman,,Richard Brooks,Shirley Jones,Jean Simmons,Edward Andrews,English,USA
+Judgment at Nuremberg,8.3,1961,186,Not Rated,3000000,Drama|War,judge|law|nazi|nuremberg|war crime,,Stanley Kramer,Maximilian Schell,Montgomery Clift,Spencer Tracy,English,USA
+Robot Chicken            ,7.8,,11,TV-MA,,Animation|Comedy,celebrity|robot|satire|sketch comedy|stop motion animation,,,Matthew Senreich,Seth Green,Breckin Meyer,English,USA
+Red River,7.8,1948,126,Approved,3000000,Action|Adventure|Romance|Western,cattle|cattle drive|cowboy|kansas|texas,,Howard Hawks,Montgomery Clift,Walter Brennan,Harry Carey Jr.,English,USA
+Before Midnight,7.9,2013,109,R,3000000,Drama|Romance,friend|greece|greek|hotel room|twin,8114507,Richard Linklater,Seamus Davey-Fitzpatrick,Ariane Labed,Athina Rachel Tsangari,English,USA
+Water,7.8,2005,117,PG-13,,Drama|Romance,ashram|india|love|tradition|widow,3222857,Deepa Mehta,John Abraham,Lisa Ray,Seema Biswas,Hindi,Canada
+Willy Wonka & the Chocolate Factory,7.8,1971,89,G,3000000,Family|Fantasy|Musical,candy|chocolate|factory|miniaturization|sudden change in size,,Mel Stuart,Peter Ostrum,Jack Albertson,Julie Dawn Cole,English,USA
+Days of Heaven,8,1978,94,PG,3000000,Drama|Romance,farm|farm worker|grasshopper|harvest|wealth,,Terrence Malick,Sam Shepard,Stuart Margolin,Richard Libertini,English,USA
+Happiness,7.8,1998,134,,3000000,Comedy|Drama,ensemble cast|episodic structure|satire|social satire|suburb,3000000,Todd Solondz,Philip Seymour Hoffman,Jon Lovitz,Dylan Baker,English,USA
+Oldboy,8.4,2003,120,R,3000000,Drama|Mystery|Thriller,brother sister relationship|hypnosis|imprisonment|love|revenge,2181290,Chan-wook Park,Min-sik Choi,Ji-tae Yu,Hye-jeong Kang,Korean,South Korea
+BrainDead            ,7.9,,44,,,Comedy|Drama|Horror|Sci-Fi|Thriller,brains|exploding head|politician|swarm behavior|washington d.c.,,,Danny Pino,Megan Hilty,Zach Grenier,English,USA
+The Grand            ,7.6,,60,,,Drama,concierge|front desk|hotel|maid|prostitute,,,Susan Hampshire,Amanda Mealing,Tim Healy,English,UK
+Central Station,8,1998,113,R,2900000,Drama,brazil|letter|rio de janeiro brazil|sertao|teacher,5595428,Walter Salles,Fernanda Montenegro,Matheus Nachtergaele,Othon Bastos,Portuguese,Brazil
+The Omen,7.6,1976,107,R,2800000,Fantasy|Horror|Mystery,ambassador|death|hospital|priest|stillborn child,,Richard Donner,Lee Remick,Patrick Troughton,Billie Whitelaw,English,UK
+Some Like It Hot,8.3,1959,120,Not Rated,2883848,Comedy|Music|Romance,all girl band|band|cross dressing|musician|yacht,25000000,Billy Wilder,Nehemiah Persoff,Joe E. Brown,George Raft,English,USA
+The Wizard of Oz,8.1,1939,102,Passed,2800000,Adventure|Family|Fantasy|Musical,evil witch|tornado|witch|wizard|wizard of oz,22202612,Victor Fleming,Margaret Hamilton,Terry,Billie Burke,English,USA
+Young Frankenstein,8,1974,106,PG,2800000,Comedy,assistant|castle|experiment|frankenstein's monster|scientist,86300000,Mel Brooks,Madeline Kahn,Peter Boyle,Teri Garr,English,USA
+Lage Raho Munna Bhai,8.2,2006,144,PG-13,120000000,Comedy|Drama|Romance,love|professor of history|radio|satyagraha|unscrupulous builder,,Rajkumar Hirani,Vidya Balan,Sanjay Dutt,Jimmy Shergill,Hindi,India
+Blazing Saddles,7.8,1974,93,R,2600000,Comedy|Western,railroad|reference to douglas fairbanks|reference to jesse owens|reference to randolph scott|year 1874,119500000,Mel Brooks,Madeline Kahn,David Huddleston,Harvey Korman,English,USA
+Maurice,7.8,1987,140,R,2600000,Drama|Romance,homosexuality|love|male full frontal nudity|male rear nudity|one word title,3130592,James Ivory,Rupert Graves,Denholm Elliott,Simon Callow,English,UK
+Riding Giants,7.9,2004,105,PG-13,,Documentary|History|Sport,beach|surfing|surfing contest|two word title|wave,2276368,Stacy Peralta,Gerry Lopez,Gabrielle Reece,Laird John Hamilton,English,USA
+Singin' in the Rain,8.3,1952,103,Approved,2540800,Comedy|Musical|Romance,actress|chorus girl|fan|friend|love,,Stanley Donen,Rita Moreno,Debbie Reynolds,Cyd Charisse,English,USA
+Fat Sick & Nearly Dead,7.6,2010,97,,2500000,Documentary,fat|food|health|juice|obese,,Joe Cross,Joe Cross,Joel Fuhrman,Amy Badberg,English,Australia
+Hud,7.9,1963,112,Approved,2500000,Drama,alcoholism|forename as title|rancher|rodeo cowboy|texas,,Martin Ritt,Patricia Neal,Melvyn Douglas,Whit Bissell,English,USA
+Garden State,7.6,2004,102,R,2500000,Comedy|Drama|Romance,actor|doctor|drugs|home|pain,26781723,Zach Braff,Armando Riesco,Michael Weston,Jill Flint,English,USA
+Before Sunrise,8.1,1995,105,R,2500000,Drama|Romance,american|conversations|kiss|love|train,5400000,Richard Linklater,Hanno Pöschl,Hans Weingartner,Dominik Castell,English,USA
+Saving Face,7.6,2004,96,R,,Comedy|Drama|Romance,chinese|chinese american|lesbian love|mother daughter relationship|surgeon,1186323,Alice Wu,Joan Chen,Ato Essandoh,Jessica Hecht,English,USA
+My Life Without Me,7.6,2003,106,R,2000000,Drama|Romance,cancer|death|doctor|drinking|love,395592,Isabel Coixet,Sarah Polley,Julian Richings,Amanda Plummer,English,Spain
+Religulous,7.7,2008,101,R,2500000,Comedy|Documentary|War,catholic|christian|jew|muslim|religion,12995673,Larry Charles,Bill Maher,Tal Bachman,Steve Burg,English,USA
+Fuel,7.6,2008,112,Not Rated,2500000,Documentary,alternative energy|energy|fuel|green|oil,173783,Joshua Tickell,Larry David,Sheryl Crow,George W. Bush,English,USA
+This Is England,7.7,2006,101,Unrated,1500000,Crime|Drama,england|racism|racist|skinhead|violence,327919,Shane Meadows,Stephen Graham,Joseph Gilgun,Jack O'Connell,English,UK
+Fantasia,7.8,1940,120,G,2280000,Animation|Family|Fantasy|Music,apprentice|classical music|disney|mouse|orchestra,76400000,James Algar,Leopold Stokowski,Deems Taylor,,English,USA
+The French Connection,7.8,1971,104,R,1800000,Action|Crime|Drama|Thriller,crime boss|drug smuggling|heroin|mafia boss|organized crime,,William Friedkin,Roy Scheider,Fernando Rey,Tony Lo Bianco,English,USA
+The Valley of Decision,7.5,1945,119,Passed,2160000,Drama,immigrant|maid|steel mill|strike|union,,Tay Garnett,Jessica Tandy,Greer Garson,Lionel Barrymore,English,USA
+The Best Years of Our Lives,8.1,1946,172,Not Rated,2100000,Drama|Romance|War,love|pity|readjusting to civilian life|veteran|world war two veteran,23650000,William Wyler,Myrna Loy,Teresa Wright,Dana Andrews,English,USA
+Elling,7.6,2001,89,R,15500000,Comedy|Drama,friendship|mental illness|poet|sex obsession|virgin,313436,Petter Næss,Jørgen Langhelle,Per Christian Ellefsen,Sven Nordin,Norwegian,Norway
+[Rec],7.5,2007,78,R,1500000,Horror,apartment building|character's point of view camera shot|fire station|subjective camera|television reporter,,Jaume Balagueró,Manuela Velasco,Pablo Rosso,Carlos Lasarte,Spanish,Spain
+From Russia with Love,7.5,1963,115,Approved,2000000,Action|Adventure|Thriller,assassin|british agent|british secret service|decoder|russian,24800000,Terence Young,Robert Shaw,Daniela Bianchi,Lois Maxwell,English,UK
+To Kill a Mockingbird,8.4,1962,129,Not Rated,2000000,Crime|Drama,1930s|alabama|lawyer|six year old|trial,,Robert Mulligan,Robert Duvall,Brock Peters,William Windom,English,USA
+Mad Max 2: The Road Warrior,7.6,1981,87,R,2000000,Action|Adventure|Sci-Fi|Thriller,australian|gasoline|post apocalypse|refinery|warrior,9003011,George Miller,Vernon Wells,Bruce Spence,Kjell Nilsson,English,Australia
+The Legend of Drunken Master,7.6,1994,102,R,2000000,Action|Comedy,battle|fight|fighting|martial artist|snake,11546543,Chia-Liang Liu,Andy Lau,Anita Mui,Ho-Sung Pak,Cantonese,Hong Kong
+Lolita,7.7,1962,152,Not Rated,2000000,Crime|Drama|Romance,lolita|nymphet|older man young girl relationship|professor|writer,,Stanley Kubrick,James Mason,Shelley Winters,Lois Maxwell,English,UK
+Boys Don't Cry,7.6,1999,118,R,2000000,Biography|Crime|Drama|Romance,drinking|female dressed as male|love|nebraska|transgender,11533945,Kimberly Peirce,Alicia Goranson,Brendan Sexton III,Jeannetta Arnette,English,USA
+The Lives of Others,8.5,2006,137,R,2000000,Drama|Thriller,east germany|police|secret police|stasi|writer,11284657,Florian Henckel von Donnersmarck,Sebastian Koch,Ulrich Mühe,Martina Gedeck,German,Germany
+The Hustler,8,1961,134,Unrated,2000000,Drama|Sport,drink|manager|money|partner|pool hall,,Robert Rossen,George C. Scott,Jackie Gleason,Murray Hamilton,English,USA
+The Triplets of Belleville,7.8,2003,80,PG-13,9500000,Animation|Comedy|Drama,belleville|dog|mafia|tour de france|very little dialogue,7002255,Sylvain Chomet,Michel Robin,Charles Linton,Béatrice Bonifassi,French,France
+American Splendor,7.5,2003,101,R,,Biography|Comedy|Drama,1980s|comic book|dark horse comics|reference to david letterman|robert crumb,6003587,Shari Springer Berman,Josh Hutcherson,James Urbaniak,Daniel Tay,English,USA
+Before Sunset,8,2004,80,R,2700000,Drama|Romance,book|bookstore|love|simultaneity|train,5792822,Richard Linklater,Vernon Dobtcheff,Albert Delpy,Marie Pillet,English,USA
+Amores Perros,8.1,2000,115,R,2000000,Drama|Thriller,animal in title|dog fight|mexico city|multiple perspectives|nonlinear timeline,5383834,Alejandro G. Iñárritu,Adriana Barraza,Jorge Salinas,Goya Toledo,Spanish,Mexico
+Touching the Void,8.1,2003,106,R,,Adventure|Documentary|Drama|Sport,bone|climbing|crevasse|partner|rope,4581222,Kevin Macdonald,Nicholas Aaron,Brendan Mackey,Joe Simpson,English,UK
+Inside Job,8.3,2010,105,PG-13,,Crime|Documentary,florida|iceland|interview|new york city new york|recession,4311834,Charles Ferguson,Matt Damon,George W. Bush,Barney Frank,English,USA
+Ghost Dog: The Way of the Samurai,7.5,1999,116,R,,Action|Crime|Drama|Thriller,african american|code|dog|pigeon|samurai,3300230,Jim Jarmusch,Henry Silva,Gano Grills,Richard Portnow,English,France
+Strangers with Candy            ,8.1,,22,TV-14,,Comedy,alternative comedy|female protagonist|high school|social satire|three word title,,,Stephen Colbert,Amy Sedaris,Maria Thayer,English,USA
+Hamlet,7.8,1996,150,PG-13,18000000,Drama,classic literature|denmark|funeral|madness|prince,4414535,Kenneth Branagh,Julie Christie,Brian Blessed,Richard Briers,English,UK
+Waltz with Bashir,8,2008,90,R,1500000,Animation|Biography|Documentary|Drama|History|War,bar|dog|interview|lebanon|nightmare,2283276,Ari Folman,Ari Folman,Ronny Dayag,Zahava Solomon,Hebrew,Israel
+No End in Sight,8.3,2007,102,,2000000,Documentary|War,american politics|iraq|iraq war|occupation|white house,1430185,Charles Ferguson,Campbell Scott,Dick Cheney,Donald Rumsfeld,English,USA
+In the Shadow of the Moon,8.1,2007,100,PG,2000000,Documentary|History,1960s|astronaut|moon|nasa|spacecraft accident,1134049,David Sington,John F. Kennedy,Buzz Aldrin,Neil Armstrong,English,UK
+Eureka            ,7.9,,60,TV-14,,Comedy|Drama|Sci-Fi,alternate reality|pacific northwest|small town|small town life|small town sheriff,,,Joe Morton,Colin Ferguson,Salli Richardson-Whitfield,English,USA
+Gangster's Paradise: Jerusalema,7.8,2008,119,R,2000000,Action|Crime|Drama,carjacking|drug lord|johannesburg south africa|police|post apartheid,4958,Ralph Ziman,Rapulana Seiphemo,Kenneth Nkosi,Robert Hobbs,English,South Africa
+The Lady from Shanghai,7.7,1947,92,Not Rated,2300000,Crime|Drama|Film-Noir|Mystery|Thriller,law partner|murder|partner|seaman|yacht,7927,Orson Welles,Rita Hayworth,Everett Sloane,Ted de Corsia,English,USA
+The Square,8.1,2013,108,Not Rated,1500000,Documentary|Drama|History|News,,,Jehane Noujaim,Khalid Abdalla,Ahmed Hassan,Aida Elkashef,Arabic,Egypt
+A Nightmare on Elm Street,7.5,1984,101,X,1800000,Horror,freddy krueger|lucid dream|serial killer|slasher|sleep deprivation,26505000,Wes Craven,Johnny Depp,Lin Shaye,Amanda Wyss,English,USA
+Man on Wire,7.8,2008,90,PG-13,1000000,Biography|Crime|Documentary|History|Thriller,new york city|passion|reenactment|rooftop|tower,2957978,James Marsh,Paul McGill,Philippe Petit,Jean-Louis Blondeau,English,UK
+A Streetcar Named Desire,8,1951,125,PG,1800000,Drama,brother in law sister in law relationship|expectant father|histrionic personality disorder|middle aged woman|off screen rape,,Elia Kazan,Marlon Brando,Karl Malden,Kim Hunter,English,USA
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,8.5,1964,95,PG,1800000,Comedy,bomber|doomsday|general|u.s. president|war room,,Stanley Kubrick,George C. Scott,Slim Pickens,Keenan Wynn,English,USA
+Travelers and Magicians,7.5,2003,108,,1800000,Adventure|Drama,bhutan|buddhist|monk|storytelling|weaver,505295,Khyentse Norbu,Tshewang Dendup,Lhakpa Dorji,Sonam Kinga,Dzongkha,Australia
+A Beginner's Guide to Snuff,8.7,2016,87,,,Comedy|Horror|Thriller,,,Mitchell Altieri,Kimberley Crossman,Luke Edwards,Bree Williamson,English,USA
+Run Lola Run,7.8,1998,81,R,3500000,Crime|Drama,bechdel test failed|money|multiple outcomes|repeated event|subway,7267324,Tom Tykwer,Moritz Bleibtreu,Ludger Pistor,Armin Rohde,German,Germany
+In the Bedroom,7.5,2001,138,R,1700000,Crime|Drama,doctor|maine|only son|school choir|summer,35918429,Todd Field,Tom Wilkinson,Sissy Spacek,Karen Allen,English,USA
+The Lunchbox,7.8,2013,104,PG,1000000,Drama|Romance,delivery|delivery to wrong address|lunchbox|open ended|unconventional romance,4231500,Ritesh Batra,Nawazuddin Siddiqui,Nimrat Kaur,Lillete Dubey,Hindi,India
+You Can't Take It with You,8,1938,126,Approved,1644736,Comedy|Drama|Romance,eccentric|friend|house|monopoly|stenographer,,Frank Capra,Jean Arthur,Ann Miller,Lionel Barrymore,English,USA
+From Here to Eternity,7.8,1953,118,Not Rated,1650000,Drama|Romance|War,boxing|captain|hawaii|love|sergeant,,Fred Zinnemann,Montgomery Clift,Donna Reed,Deborah Kerr,English,USA
+The Conversation,7.9,1974,113,PG,1600000,Drama|Mystery|Thriller,corruption|neo noir|recording|saxophone|surveillance,,Francis Ford Coppola,Harrison Ford,Teri Garr,Cindy Williams,English,USA
+Mr. Smith Goes to Washington,8.2,1939,120,Not Rated,1500000,Comedy|Drama,camp|corruption|governor|senate|u.s. senate,,Frank Capra,Claude Rains,Jean Arthur,Thomas Mitchell,English,USA
+Kickboxer: Vengeance,9.1,2016,90,,17000000,Action,,,John Stockwell,Matthew Ziff,T.J. Storm,Sam Medina,,USA
+Spellbound,7.6,1945,95,Unrated,1696377,Film-Noir|Mystery|Romance|Thriller,amnesia|dream analysis|dream sequence|guilt complex|post traumatic stress disorder,,Alfred Hitchcock,Norman Lloyd,Rhonda Fleming,Leo G. Carroll,English,USA
+Buffalo '66,7.5,1998,110,R,1500000,Comedy|Crime|Drama|Romance,shower|stripper|tap dancing|underwear|undressing,2365931,Vincent Gallo,Anjelica Huston,Vincent Gallo,Jan-Michael Vincent,English,USA
+Nine Queens,7.9,2000,114,R,1500000,Crime|Drama|Thriller,con artist|hotel|partner|scam|stamp,1221261,Fabián Bielinsky,Ricardo Darín,Gastón Pauls,Leticia Brédice,Spanish,Argentina
+The Gatekeepers,7.6,2012,101,PG-13,,Documentary|War,interview|jerusalem|jewish|terrorism|terrorist bombing,2408553,Dror Moreh,Ami Ayalon,Yuval Diskin,Yaakov Peri,Hebrew,Israel
+Modern Times,8.6,1936,87,G,1500000,Comedy|Drama|Family,actor director writer|invention|machine|music score composed by director|tramp,163245,Charles Chaplin,Paulette Goddard,Stanley Blystone,Fred Malatesta,English,USA
+Me You and Five Bucks,7.6,2015,93,,1500000,Comedy|Drama|Romance,,,Jaime Zevallos,Angela Sarafyan,Jaime Zevallos,Michael Elian,English,USA
+Growing Up Smith,8.2,2015,102,PG-13,2000000,Comedy|Drama|Family,adolescence|girl next door|growing vegetables|high standards|sent away,,Frank Lotito,Brighton Sharbino,Jake Busey,Tim Guinee,English,USA
+Snow White and the Seven Dwarfs,7.7,1937,83,Approved,2000000,Animation|Family|Fantasy|Musical,dwarf|love|princess|queen|snow white,184925485,William Cottrell,Adriana Caselotti,Billy Gilbert,Lucille La Verne,English,USA
+Lock Stock and Two Smoking Barrels,8.2,1998,120,R,960000,Comedy|Crime,antique|cockney accent|hatchet|money|shotgun,3650677,Guy Ritchie,Jason Statham,Jason Flemyng,Dexter Fletcher,English,UK
+The Celebration,8.1,1998,105,R,1300000,Drama,dogme 95|family secret|haunted by the past|secret|speech,1647780,Thomas Vinterberg,Ulrich Thomsen,Paprika Steen,Trine Dyrholm,Danish,Denmark
+Space: Above and Beyond            ,7.7,,60,,5000000,Drama|Sci-Fi,alien|born in vitro|in vitro fertilization|marine|outer space,,,James Morrison,Tucker Smallwood,Kristen Cloke,English,USA
+Queen of the Mountains,8.7,2014,135,PG-13,1400000,Action|Biography|Drama|History,19th century|central asia|mother son relationship|ruler|russian empire,,Sadyk Sher-Niyaz,Elina Abai Kyzy,Aziz Muradillayev,Mirlan Abdulayev,English,Kyrgyzstan
+Rebecca,8.2,1940,130,Not Rated,1288000,Drama|Film-Noir|Mystery|Thriller,death|estate|housekeeper|love|monte carlo,,Alfred Hitchcock,Laurence Olivier,Joan Fontaine,George Sanders,English,USA
+The Lost Weekend,8,1945,101,Not Rated,1250000,Drama|Film-Noir,addiction|alcoholic|alcoholism|paranoia|suicidal thoughts,,Billy Wilder,Ray Milland,Jane Wyman,Frank Faylen,English,USA
+How Green Was My Valley,7.8,1941,118,Approved,1250000,Drama|Family,coal mine|girl|school|village|wales,,John Ford,Roddy McDowall,Walter Pidgeon,Barry Fitzgerald,English,USA
+Saw,7.7,2004,103,R,1200000,Horror|Mystery|Thriller,chained|flashback|killer|serial killer|surprise ending,55153403,James Wan,Michael Emerson,Monica Potter,Shawnee Smith,English,USA
+The Algerian,7.6,2014,99,,1300000,Action|Romance|Thriller,algeria|algerian|los angeles california|muslim,,Giovanni Zelko,Zuhair Haddad,Harry Lennix,Ben Youcef,English,USA
+You Can Count on Me,7.7,2000,111,R,1200000,Drama,bank|car accident|cheating husband|new york|single mother,9180275,Kenneth Lonergan,Matthew Broderick,Rory Culkin,Gaby Hoffmann,English,USA
+Lucky Number Slevin,7.8,2006,110,R,27000000,Crime|Drama|Mystery|Thriller,coroner|death|gay son|love|mistaken identity,22494487,Paul McGuigan,Bruce Willis,Morgan Freeman,Dorian Missick,English,Germany
+Reservoir Dogs,8.4,1992,99,R,1200000,Crime|Drama|Thriller,gang|heist|heist gone wrong|nonlinear timeline|robbery,2812029,Quentin Tarantino,Quentin Tarantino,Steve Buscemi,Chris Penn,English,USA
+The Good the Bad and the Ugly,8.9,1966,142,Approved,1200000,Western,civil war|hitman|outlaw|shootout|spaghetti western,6100000,Sergio Leone,Clint Eastwood,Luigi Pistilli,Enzo Petito,Italian,Italy
+The Second Mother,7.9,2015,112,R,4000000,Comedy|Drama,brazil|exam|housekeeper|northeast region of brazil|portuguese language,375723,Anna Muylaert,Alex Huszar,Regina Casé,Luis Miranda,Portuguese,Brazil
+Dead Man's Shoes,7.7,2004,90,,695393,Crime|Drama|Thriller,anger|army veteran|independent film|revenge|sex scene,6013,Shane Meadows,Paddy Considine,Gary Stretch,George Newton,English,UK
+The Raid: Redemption,7.6,2011,102,R,1100000,Action|Crime|Thriller,apartment|drug lord|gangster|police|swat team,4105123,Gareth Evans,Iko Uwais,Yayan Ruhian,Donny Alamsyah,Indonesian,Indonesia
+Casablanca,8.6,1942,82,PG,950000,Drama|Romance|War,american expatriate|casablanca morocco|gestapo|police|visa,,Michael Curtiz,Humphrey Bogart,Claude Rains,Conrad Veidt,English,USA
+Rocket Singh: Salesman of the Year,7.5,2009,150,,,Comedy|Drama,boss|computer|honesty|sales|salesman,,Shimit Amin,Ranbir Kapoor,Shazahn Padamsee,Gauhar Khan,Hindi,India
+Rocky,8.1,1976,145,PG,960000,Drama|Sport,boxer|hometown hero|philadelphia pennsylvania|protective male|training,117235247,John G. Avildsen,Sylvester Stallone,Burgess Meredith,Carl Weathers,English,USA
+Taxi Driver,8.3,1976,110,R,1300000,Crime|Drama,loner|neo noir|night shift|taxi driver|vigilante,,Martin Scorsese,Robert De Niro,Albert Brooks,Peter Boyle,English,USA
+An Inconvenient Truth,7.5,2006,96,PG,,Documentary,climate|earth|global warming|science|truth,23808111,Davis Guggenheim,Billy West,Al Gore,,English,USA
+Food Inc.,7.9,2008,94,PG,,Documentary,farming|flesh eating|food|food industry|gluttony,4417124,Robert Kenner,Michael Pollan,Eric Schlosser,Barbara Kowalcyk,English,USA
+Juno,7.5,2007,96,PG-13,7500000,Comedy|Drama|Romance,adoption|baby|friend|pregnancy|school,143492840,Jason Reitman,J.K. Simmons,Jennifer Garner,Rainn Wilson,English,USA
+Who Killed the Electric Car?,7.7,2006,92,PG,1000000,Documentary,california|car|reference to ralph nader|technology|u.s. president,1677838,Chris Paine,Ed Begley Jr.,Phyllis Diller,Colette Divine,English,USA
+The Act of Killing,8.2,2012,96,Not Rated,1000000,Biography|Crime|Documentary|History,death squad|mass killing|musical number|reference to guantanamo bay|surrealism,484221,Joshua Oppenheimer,Anwar Congo,Herman Koto,Syamsul Arifin,Indonesian,UK
+Taxi to the Dark Side,7.7,2007,53,R,1000000,Crime|Documentary|War,afghanistan|detainee|guantanamo bay|taxi|torture,274661,Alex Gibney,Alex Gibney,George W. Bush,Greg D'Agostino,English,USA
+Antarctica: A Year on Ice,7.6,2013,91,PG,1000000,Adventure|Biography|Documentary|Drama,antarctica,287761,Anthony Powell,Josh Swanson,Tom Hamann,Anthony Powell,English,New Zealand
+On the Waterfront,8.2,1954,108,Not Rated,910000,Crime|Drama|Romance,death|dock|longshoreman|murder|union,9600000,Elia Kazan,Marlon Brando,Karl Malden,Rod Steiger,English,USA
+4 Months 3 Weeks and 2 Days,7.9,2007,113,Not Rated,590000,Drama,female rear nudity|friend|hotel|rainy night|towel,1185783,Cristian Mungiu,Anamaria Marinca,Vlad Ivanov,Alexandru Potocean,Romanian,Romania
+Fruitvale Station,7.5,2013,85,R,900000,Biography|Drama|Romance,22 year old|b.a.r.t.|bay area|birthday|police,16097842,Ryan Coogler,Ahna O'Reilly,Melonie Diaz,Ariana Neal,English,USA
+A Separation,8.4,2011,123,PG-13,500000,Drama|Mystery,alzheimer's disease|caregiver|divorce|iran|iranian,7098492,Asghar Farhadi,Shahab Hosseini,Leila Hatami,Peyman Moaadi,Persian,Iran
+Welcome to the Dollhouse,7.5,1995,88,R,800000,Comedy|Drama,bully|first crush|school|social outcast|taunting,4771000,Todd Solondz,Heather Matarazzo,Ken Leung,Christina Vidal,English,USA
+Pandora's Box,8,1929,110,Not Rated,,Crime|Drama|Romance,escape|femme fatale|german expressionism|lust|violence,9950,Georg Wilhelm Pabst,Louise Brooks,Francis Lederer,Fritz Kortner,German,Germany
+American Graffiti,7.5,1973,112,PG,777000,Comedy|Drama|Music,california|car|drag racing|high school|rock 'n' roll,115000000,George Lucas,Harrison Ford,Ron Howard,Mackenzie Phillips,English,USA
+Iraq for Sale: The War Profiteers,7.7,2006,75,,750000,Documentary|War,american politics|armed forces|political corruption|shady|war profiteer,,Robert Greenwald,Scott Helvenston,Katy Helvenston-Wettengal,Donna Zovko,English,USA
+Kevin Hart: Laugh at My Pain,7.5,2011,89,R,,Comedy|Documentary,stand up comedy,7705974,Leslie Small,Isaac C. Singleton Jr.,Larry King,Jeanette Branch,English,USA
+The Conformist,8.1,1970,106,R,750000,Drama,fascist|gun|italy|nudity|sexuality,,Bernardo Bertolucci,Jean-Louis Trintignant,Stefania Sandrelli,Dominique Sanda,Italian,Italy
+High Noon,8.1,1952,85,PG,750000,Thriller|Western,appeasement|frontier justice|justice|one against many|street shootout,,Fred Zinnemann,Gary Cooper,Lloyd Bridges,Lon Chaney Jr.,English,USA
+Hoop Dreams,8.3,1994,170,PG-13,700000,Documentary|Drama|Sport,athlete|basketball|high school|high school student|school,7830611,Steve James,William Gates,Arthur Agee,Isiah Thomas,English,USA
+Destiny,8.1,2014,,,,Action|Adventure|Fantasy|Sci-Fi,first person shooter,,Joseph Kosinski,Peter Dinklage,Lauren Cohan,Erick Avari,English,USA
+Top Hat,7.8,1935,81,Approved,609000,Comedy|Musical|Romance,dance|dancer|dancing|horse|tap dancing,3000000,Mark Sandrich,Ginger Rogers,Edward Everett Horton,Eric Blore,English,USA
+Woodstock,8.1,1970,215,R,600000,Documentary|History|Music,drugs|hippie|music festival|the who|woodstock,13300000,Michael Wadleigh,Joe Cocker,Jimi Hendrix,Joan Baez,English,USA
+They Will Have to Kill Us First,7.7,2015,105,,400000,Documentary,,,Johanna Schwartz,Aliou Touré,Garba Touré,Khaira Arby,French,UK
+Light from the Darkroom,8,2014,90,PG-13,600000,Action|Drama|Thriller,china|faith|panama|photography|suspense,,Lance McDaniel,Russell Wong,Steven Michael Quezada,Lymari Nadal,English,USA
+A Hard Day's Night,7.7,1964,87,Approved,560000,Comedy|Musical,boy|concert|drummer|manager|television,515005,Richard Lester,Paul McCartney,Ringo Starr,George Harrison,English,UK
+Mad Hot Ballroom,7.5,2005,105,PG,,Documentary|Family|Music,ballroom dancing|new york city|poise|self confidence|teacher,8044906,Marilyn Agrelo,Heather Berman,Eva Carrozza,Paul Daggett,English,USA
+The Station Agent,7.7,2003,89,R,500000,Comedy|Drama,abandoned|depot|dwarf|newfoundland new jersey|train,5739376,Tom McCarthy,Peter Dinklage,Joe Lo Truglio,Paula Garcés,English,USA
+Beyond the Mat,7.6,1999,108,R,500000,Biography|Documentary|Sport,championship|drugs|three word title|wrestler|wrestling,2047570,Barry W. Blaustein,Terry Funk,Vince McMahon,Mick Foley,English,USA
+Seven Samurai,8.7,1954,202,Unrated,2000000,Action|Adventure|Drama,16th century|battle|japan|practice|samurai,269061,Akira Kurosawa,Takashi Shimura,Minoru Chiaki,Kamatari Fujiwara,Japanese,Japan
+The Other Dream Team,8.4,2012,89,Not Rated,500000,Documentary|Sport,basketball|basketball team|grateful dead|lithuanian|olympics,133778,Marius A. Markevicius,Tommy Sheppard,Greg Speirs,Mickey Hart,English,USA
+Crazy Stone,7.7,2006,98,,3000000,Comedy|Crime,bankruptcy|crystal|father son relationship|heist|shower,,Hao Ning,Bo Huang,Zheng Xu,Zhonghua Chen,Mandarin,China
+America Is Still the Place,7.5,2015,90,,,History,,,Patrick Gilles,Emma Caulfield,Dylan Baker,Mike Colter,English,USA
+The Sound and the Shadow,8.3,2014,90,R,,Comedy|Mystery|Thriller,,,Justin Paul Miller,Mary Kate Wiles,Jennifer Landa,Felix Avitia,English,USA
+Bloody Sunday,7.7,2002,107,R,2000000,Drama|History|War,civil rights|irish|march|northern ireland|protest march,768045,Paul Greengrass,James Nesbitt,Nicholas Farrell,Tim Pigott-Smith,English,UK
+42nd Street,7.7,1933,89,Unrated,439000,Comedy|Musical|Romance,chorus girl|chorus line|director|gala premiere|song,2300000,Lloyd Bacon,Ginger Rogers,Dick Powell,George Brent,English,USA
+Rise of the Entrepreneur: The Search for a Better Way,8.2,2014,52,G,450000,Documentary,business|entrepreneur|network marketing,,Joe Kenemore,Bob Proctor,Jack Canfield,Eric Worre,English,USA
+Metropolitan,7.5,1990,98,PG-13,225000,Comedy|Drama|Romance,apartment|dancing|debutante|new york|upper class,2938208,Whit Stillman,Chris Eigeman,Taylor Nichols,Ellia Thompson,English,USA
+As It Is in Heaven,7.6,2004,133,,25000000,Comedy|Drama|Music|Romance,amazing grace the hymn|choir|heart attack|hometown|skidding truck,9910,Kay Pollak,Michael Nyqvist,Frida Hallgren,Nils-Anders Vallgårda,Swedish,Sweden
+Dogtown and Z-Boys,7.7,2001,91,PG-13,,Documentary|Sport,california|drought|playground|skateboarding|surfer,1293295,Stacy Peralta,Tony Alva,Jay Adams,Jeff Ament,English,USA
+Monty Python and the Holy Grail,8.3,1975,91,PG,229575,Adventure|Comedy|Fantasy,camelot|holy grail|king arthur|knight|lancelot,1229197,Terry Gilliam,Eric Idle,Michael Palin,Terry Jones,English,UK
+Heroes            ,7.7,,60,TV-14,,Drama|Fantasy|Sci-Fi|Thriller,father daughter relationship|serial killer|superhero|supernatural power|vision of the future,,,Sendhil Ramamurthy,Masi Oka,Greg Grunberg,English,USA
+Home Movies            ,8.2,,22,TV-PG,,Animation|Comedy|Drama,coach|friend|school|series|tv series,,,Brendon Small,Ron Lynch,Melissa Bardin Galsky,English,USA
+Cries & Whispers,8.2,1972,91,R,400000,Drama,dying|love|mansion|selfishness|turn of the century,,Ingmar Bergman,Liv Ullmann,Ingrid Thulin,Erland Josephson,Swedish,Sweden
+Intolerance: Love's Struggle Throughout the Ages,8,1916,123,Not Rated,385907,Drama|History|War,huguenot|intolerance|medicis|protestant|wedding,,D.W. Griffith,Lillian Gish,Mae Marsh,Walter Long,,USA
+The Evil Dead,7.6,1981,96,NC-17,375000,Fantasy|Horror,cult director|cult film|evil dead|necronomicon|psychotronic film,,Sam Raimi,Ted Raimi,Betsy Baker,Ellen Sandweiss,English,USA
+Murderball,7.8,2005,88,R,1750211,Documentary|Sport,paralympics|quad rugby|rugby|team|wheelchair,1523883,Henry Alex Rubin,Mark Zupan,Joe Bishop,Andy Cohn,English,USA
+51 Birch Street,7.5,2005,90,Unrated,,Documentary,address as title|number in title|parents,84689,Doug Block,Carol Block,Ellen Block,Mike Block,English,Germany
+Halloween,7.9,1978,101,R,300000,Horror|Thriller,halloween|masked killer|michael myers|slasher|trick or treat,47000000,John Carpenter,Jamie Lee Curtis,Donald Pleasence,P.J. Soles,English,USA
+12 Angry Men,8.9,1957,96,Not Rated,350000,Crime|Drama,courtroom|dialogue driven|dialogue driven storyline|jury|murder,,Sidney Lumet,Jack Warden,Lee J. Cobb,John Fiedler,English,USA
+It Happened One Night,8.2,1934,65,Unrated,325000,Comedy|Romance,bus|detective|love|money|reporter,,Frank Capra,Claudette Colbert,Alan Hale,Walter Connolly,English,USA
+Tupac: Resurrection,8,2003,112,R,,Biography|Documentary|Music,hip hop|name in title|rap star|rapper|reference to tupac shakur,7707563,Lauren Lazin,James Cagney,Gary Coleman,Todd Bridges,English,USA
+Pierrot le Fou,7.7,1965,110,Not Rated,300000,Crime|Drama|Romance,beach|money|on the run|party|smuggling,,Jean-Luc Godard,Jean-Paul Belmondo,Anna Karina,Graziella Galvani,French,France
+Sisters in Law,7.5,2005,104,Not Rated,,Documentary,,32631,Florence Ayisi,Vera Ngassa,Beatrice Ntuba,,English,Cameroon
+Ayurveda: Art of Being,7.6,2001,102,,300000,Documentary,eastern philosophy|healing|india|life,16892,Pan Nalin,,,,English,India
+Nothing But a Man,8.1,1964,95,Not Rated,160000,Drama|Romance,1960s|father|railroad|town|worker,12438,Michael Roemer,Yaphet Kotto,Gloria Foster,Ivan Dixon,English,USA
+Happy Valley            ,8.5,,58,TV-MA,,Crime|Drama,caravan|police|police sergeant|tied to a chair|yorkshire,,,Shirley Henderson,James Norton,Sarah Lancashire,English,UK
+UnDivided,7.8,2013,66,PG,250000,Documentary,,,Sam Martin,Sam Adams,Steve Duin,Jeff Jacob,English,USA
+Give Me Shelter,8,2014,90,,250000,Documentary,independent film,,Kristin Rizzo,Esai Morales,Robert Davi,Elaine Hendrix,English,USA
+The Big Parade,8.3,1925,151,Not Rated,245000,Drama|Romance|War,chewing gum|climbing a tree|france|translation problems|world war one,,King Vidor,John Gilbert,Renée Adorée,Claire Adams,,USA
+Burn,7.5,2012,86,Not Rated,225000,Documentary,abandoned building|detroit michigan|firefighter|michigan|urban setting,111300,Tom Putnam,Brendan Doogie Milewski,Donald Austin,Craig Dougherty,English,USA
+A Fistful of Dollars,8,1964,99,R,200000,Action|Drama|Western,balladeer|bar|drifter|mexican|revenge,3500000,Sergio Leone,Clint Eastwood,Gian Maria Volontè,Aldo Sambrell,Italian,Italy

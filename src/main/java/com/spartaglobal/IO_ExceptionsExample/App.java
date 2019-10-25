@@ -1,7 +1,5 @@
 package com.spartaglobal.IO_ExceptionsExample;
 
-import java.io.IOException;
-
 /**
  * Hello world!
  *
@@ -13,12 +11,19 @@ public class App
 //        ByteReaderManager byteReaderManager = new ByteReaderManager();
 //        byteReaderManager.charReader();
 
-        BufferedFileManager bufferedFileManager = new BufferedFileManager();
-        try {
-            bufferedFileManager.readerWriter();
-        } catch (IOException e) {
-            e.printStackTrace();
-        }
+//        BufferedFileManager bufferedFileManager = new BufferedFileManager();
+//        try {
+//            bufferedFileManager.readerWriter();
+//        } catch (IOException e) {
+//            e.printStackTrace();
+//        }
+
+
+//        FileInputStreamManager fIleInputStreamManager = new FileInputStreamManager();
+//        fIleInputStreamManager.fileStreamReader();
+
+        MovieManager movieManager = new MovieManager();
+        movieManager.moviesBeforeTwo(2000);
 
     }
 }
